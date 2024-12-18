@@ -1,41 +1,8 @@
-# Website
+# MyPitbike Knowledge Base
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the MyPitbike knowledge base repository!
 
-### Installation
+This personal pet project marks the next iteration of the blog-social network MyPitbike.ru, created in 2012. Over the years, it has gained significant popularity within the Russian-speaking community as a go-to source for information on repairing and maintaining their mini motocross bikes.
+My mission is to compile all available knowledge and present it in a user-friendly knowledge base format with AI-powered search. This ensures that even those less familiar with IT can quickly find precise answers to their specific questions.
 
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Built using [Docusaurus](https://docusaurus.io/).
