@@ -1,0 +1,23 @@
+# How to start a pit bike?
+
+Starting a motorcycle with a kickstarter may not be as straightforward as it seems at first glance. In this guide, I will explain how to properly start your pit bike. http://www.youtube.com/watch?v=MLV0pvacJgc
+
+#### Engage Neutral Gear
+
+Ensure that your pit bike is in neutral gear. Refer to the gear shift pattern, which is typically displayed on a sticker located on top of the engine. Squeeze the clutch, shift into first gear, then return to neutral. Roll the bike forward and backward to confirm that you have found neutral. Open the Fuel Supply Turn the fuel valve, located on the left side of the pit bike beneath the fuel tank, to the ON position.
+
+#### Engage the Choke
+
+Lift the lever (if available) on the carburetor to facilitate the engine start of the pit bike.
+
+#### Ignition
+
+If your bike is equipped with an engine start/stop button, switch it to the start position.
+
+#### Engine Start
+
+Extend the kickstarter lever and begin to press it down smoothly. Since the engine is four-stroke, you need to feel each stroke and find the compression stroke (it will be the most resistant). Gently press the kickstarter lever during the compression phase until you feel a slight stopping jolt. Then, swiftly and forcefully press down on the kickstarter lever, and the engine should start. If it does not start, repeat the procedure.
+
+#### Warm Up the Engine
+
+It is crucial to thoroughly warm up the engine before riding. Once the engine is running steadily, release the choke lever. If the engine stalls, it means it was not warmed up sufficiently. Engage the choke and repeat the starting procedure.
