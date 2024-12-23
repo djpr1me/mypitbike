@@ -8,7 +8,7 @@ This section covers sliding throttle carburetors, commonly found on our motorcyc
 
 The next step in carburetor design is installing a throttle valve controlled by the rider. This valve, known as the throttle, manages airflow into the engine ("full throttle" means the valve is entirely open). The most straightforward solution is a rotary valve that pivots, opening or closing the diffuser. Located behind the fuel nozzles, this valve regulates air intake, but not fuel supply; thus, it necessitates several nozzles progressively engaging as the throttle turns. Consequently, a set of jets, multiple drills, and tubes are required. Such carburetors often populate automobiles but exhibit significant differences, particularly when compared to motorcycles manufactured 50 or 60 years ago. In cars, a single carburetor feeds air to four or more cylinders via a large intake manifold. Pressure pulsations from individual cylinders smooth out within the manifold and minimally feedback to the carburetor. Thus, engine and carburetor size are relatively large due to abundant under-hood space (concurrently, only one cylinder undergoes the intake stroke, necessitating a diffuser diameter sufficient for single-cylinder air supply) (Fig. 9).
 
-![Pressure Pulsations](http://mypitbike.ru/uploads/images/00/04/49/2013/04/14/79ba78.png)
+![Pressure Pulsations](../../static/img/79ba78.png)
 
 > Fig. 9. A single-cylinder engine creates substantial pressure pulsations every two crankshaft revolutions. A four-cylinder engine generates smaller pulsations every half-revolution.
 
@@ -16,7 +16,7 @@ These carburetors incorporate many enhancements, such as internal diffusers, to 
 
 Small carburetor bodies present numerous technical issues. A throttle plate's minimum thickness stems from essential strength criteria and secure attachment to the shaft. In carburetors with large diffuser diameters, the throttle edge effect is minimal. However, for motorbike carburetors under 25 mm diameter, such a valve becomes ineffective. Therefore, motorcycle engines typically employ sliding throttles, which have cylindrical forms matching the diffuser diameter and operate via cables and return springs (Fig. 10).
 
-![Sliding Throttle Diagram](http://mypitbike.ru/uploads/images/00/04/49/2013/04/14/6f85ab.png)
+![Sliding Throttle Diagram](../../static/img/6f85ab.png)
 
 > Fig. 10. A sliding throttle regulates airflow in the diffuser. Early carburetor models featured cylindrical throttles, later transforming into the flat flap depicted. A conical needle affixed to the throttle may enter the fuel jet aperture, controlling fuel supply. The beveled throttle edge ensures air supply during idle and up to 1/8 throttle range.
 
@@ -24,7 +24,7 @@ This throttle installs directly above the fuel jet, managing airflow via throttl
 
 Beyond previous adjustments, the needle jet allows us to modify the needle's width relative to the thickest part, change the needle's conical portion length and angle (creating needles with varied cone angles, Fig. 11), adjust needle penetration depth into the jet and the air throttle's edge bevel angle.
 
-![Conical Needle Variations](http://mypitbike.ru/uploads/images/00/04/49/2013/04/14/3e5991.png)
+![Conical Needle Variations](../../static/img/3e5991.png)
 
 > Fig. 11. Conical needles may vary in shape. Dimensions influencing fuel flow include (1) overall length, (2) cylindrical part diameter, (3) cylindrical part length, (4) starting diameter and cone angle, (5) starting diameter and additional cone angles, (6) grooves for mounting the needle.
 
@@ -45,7 +45,7 @@ In the one-quarter to one-third throttle range, the needle jet dictates mixture 
 
 Open throttle below one-quarter triggers further fuel control by the needle, with the throttle nearly closing airflow. At this time, fuel corresponds to the throttle edge's cutout, defining mixture composition. Such primary regulation is too crude for engine idling; hence, most carburetors include a complete idle system. The idle jet supplies fuel from the float chamber to the diffuser through an aperture, entering airflow via the throttle cutout (Fig. 12). Fully closed throttles induce manifold vacuum, sufficient to draw fuel via the idle system.
 
-![Idle System](http://mypitbike.ru/uploads/images/00/04/49/2013/04/14/89373f.png)
+![Idle System](../../static/img/89373f.png)
 
 > Fig. 12. Idle System. An exclusive jet transfers fuel from the float chamber to the diffuser. Air transits through an air jet, mixing with fuel. The idle system includes a conical regulating screw controlling fuel or air or mixture supply. The idle system features one or more bypass channels emptying into the diffuser near the throttle, ensuring smooth idle exit transitions.
 
@@ -61,7 +61,7 @@ An emulsion tube encircling chamber aids transitions, hence many carburetors man
 
 The economizer jet lodges within float chambers, its nozzle entering the diffuser at specified heights, generally beyond half-throttle displacement (Fig. 13).
 
-![Economizer Jet](http://mypitbike.ru/uploads/images/00/04/49/2013/04/16/29705d.png)
+![Economizer Jet](../../static/img/29705d.png)
 
 > Fig. 13. Full Load Mixture Enricher. Fed by float chamber-fueled jets (sometimes possessing air jets too), the nozzle traverses into the diffuser at definitive heights. Device operation commences once the throttle clears the nozzle edge, accelerating airflow and fueling further.
 
@@ -71,7 +71,7 @@ Adjustable-height nozzles frequently equip spray devices. Until throttle elevati
 
 Thus far, we've depicted jet nozzles as smooth pipe segments. Surrounding nozzles by small screens with 180° angles accentuates vacuum, subsequently increasing fuel supply. Manipulating screen dimensions and airflow toward emulsion tubes allows yet another fuel flow regulation method (Fig. 14).
 
-![Jet Nozzle Modification](http://mypitbike.ru/uploads/images/00/04/49/2013/04/16/2a0b5e.png)
+![Jet Nozzle Modification](../../static/img/2a0b5e.png)
 
 > Fig. 14. Carburetor modification, styled as a primary flap carburetor, featuring a screen boosting fuel supply pre-sprayer nozzle. This design outperforms carburetors of similar sizes in fuel flow capacity, adapted for two-stroke engines with pronounced airflow variability. Screen size and shape govern fuel flow control.
 
@@ -81,7 +81,7 @@ Labeled primary flaps, these additions populate two-stroke carburetors, where fu
 
 Secondary jets function similarly to main air jets but receive blockage from throttles or computer-operated solenoid valves, offering dual flow gradients when activated precisely at specified throttle angles or engine speeds (Fig. 15).
 
-![Secondary Air Jet](http://mypitbike.ru/uploads/images/00/04/49/2013/04/16/7213ab.png)
+![Secondary Air Jet](../../static/img/7213ab.png)
 
 > Fig. 15. Solenoid valves engage at defined engine speeds or throttle lifts, onboarding air via secondary jets or refocusing main jet sources across differential air chamber sections (with variable pressures). They may populate primary, secondary, or idle air systems (for emission purposes).
 

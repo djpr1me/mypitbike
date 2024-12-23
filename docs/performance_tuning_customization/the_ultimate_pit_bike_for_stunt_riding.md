@@ -16,7 +16,7 @@ The cardinal rule is the more responsive the brakes, the quicker and more comple
 
 For stunt riding, an extended rear swingarm could remain, but motards need to tackle curbs, and here, the height and overall length of the pit bike base are extremely important. Why? Because, first and foremost, the crankcase would suffer damage!
 
-<img src="http://mypitbike.ru/uploads/images/00/21/98/2016/01/30/e2d6f6.jpg" alt="Pit frame" />
+<img src="../../static/img/e2d6f6.jpg" alt="Pit frame" />
 
 Experienced pit riders will notice immediately—this pit is as stretched as a dachshund or a chopper. I didn’t anticipate this myself. This was due to a shock absorber ordered at 280 mm (measuring from the center of the lower to the upper hole). The swingarm was designed for 12/14-inch wheels. Upon installation, this issue was revealed and resolved by modifying the mounting location of the shock’s ear to the frame.
 
@@ -24,7 +24,7 @@ Experienced pit riders will notice immediately—this pit is as stretched as a d
 
 It must be aluminum. This provides a light weight and, with significantly thicker swingarm walls, strength! Resilient against impacts, torsion, and springiness. In the swingarm, there shouldn’t be any bushings—only bearings. Two bearings are inserted on each side. Washers are installed between the frame and the swingarm, effectively eliminating all play and the possibility of its appearance. But this is no panacea—after every ride, inspect for play. This extends the lifespan of components and bearings, aiding in quicker rear-wheel riding.
 
-<img src="http://mypitbike.ru/uploads/images/00/21/98/2016/01/30/590ab4.jpg" alt="Swingarm protection" />
+<img src="../../static/img/590ab4.jpg" alt="Swingarm protection" />
 
 A chain protection is attached into a thread I crafted myself. First, a hole is drilled, then threaded with a tap, and conical bolts are screwed in from both sides. The bolts are set in place with thread-locking adhesive to prevent loosening from vibration and chain impact.
 
@@ -50,7 +50,7 @@ Yet undecided on which would be more convenient for riding. Mounted currently, a
 
 Once all peg mounts and other stunt gear attachment points were measured, the frame was stripped and painted a vibrant orange plus several layers of lacquer. Then, reassembly followed.
 
-<img src="http://mypitbike.ru/uploads/images/00/21/98/2016/02/11/f36cf9.jpg" alt="Frame setup" />
+<img src="../../static/img/f36cf9.jpg" alt="Frame setup" />
 
 Note: No peg mounts are visible, owing to my plan to use pegs with mounts—attached to a subframe tube. A friend opted for welded peg mounts, thus a non-detachable configuration.
 
@@ -58,7 +58,7 @@ Note: No peg mounts are visible, owing to my plan to use pegs with mounts—atta
 
 Craving more power than the previously owned 150 cc pit bike, I opted for a 160 cc, but with an "upgraded" head—four valves. An evocative name: DEVIL. Bold, right? Additional tuning was minimal—just a lightweight gear shift pedal and a transparent engine cover on the magneto side.
 
-<img src="http://mypitbike.ru/uploads/images/00/21/98/2016/02/11/95bf67.jpg" alt="Engine overview" />
+<img src="../../static/img/95bf67.jpg" alt="Engine overview" />
 
 Valves clearances were checked and adjusted, with shims of 7.48 size—the standard size in motorcycle engines. Oil was changed to a Bardahl 10W60 blend. Installed a magnetic drain plug. Factory-installed metal filters can be cleaned and reused, but I ordered standard paper filter elements too.
 
@@ -68,7 +68,7 @@ Purchased a Taiwanese replica of a Keihin carburetor. Perhaps it's the real deal
 
 Importantly, this is not a 28-carburetor but a 30-mm one! While it may not boost the low-end, top RPMs will reveal the engine’s potential. Especially with the carb adjusting to an upgraded exhaust system, enlarged to 38 mm plus a megabomb, designed by the aforementioned Taiwanese company, specifically for horizontal engines 160 cc and above.
 
-<img src="http://mypitbike.ru/uploads/images/00/21/98/2016/02/14/130bb8.jpg" alt="Carburetor setup" />
+<img src="../../static/img/130bb8.jpg" alt="Carburetor setup" />
 
 Jets: Mid-range 40, high-range 110—a standard for initial carb tuning for a 160 cc engine.
 
@@ -80,7 +80,7 @@ Wired the system myself, discarding weak wires in favor of quality, heat-resista
 
 Forks mentioned previously at 38 mm with 10W universal oil—thicker oil wasn't available—standing at 735 mm. Here are your visuals:
 
-<img src="http://mypitbike.ru/uploads/images/00/21/98/2016/02/14/031847.jpg" alt="Brake setup" />
+<img src="../../static/img/031847.jpg" alt="Brake setup" />
 
 As for brakes, they are formidable: discs increased to 220 mm with two six-piston calipers installed. One will be removed, serving only for show on initial rides; it may eventually prove useful in engine tuning on the track.
 

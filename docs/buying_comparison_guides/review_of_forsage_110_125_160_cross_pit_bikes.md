@@ -2,7 +2,7 @@
 
 The topic of pit bikes has been known in Russia for a long time. However, it is only in the past couple of years that it has begun to develop more actively: sales have surged, and competitions have even started to be held. Despite the emergence of several new brands in the market, the Izhevsk pit bikes **Forsage** have been familiar to Russian buyers for quite some time.
 
-![pit bike Forsage 160](http://mypitbike.ru/uploads/images/00/00/03/2012/02/01/4aed46.jpg "pit bike Forsage 160")
+![pit bike Forsage 160](../../static/img/4aed46.jpg "pit bike Forsage 160")
 
 At a recent presentation at the X-Arena track, the company "Velomotors" unveiled a complete lineup of pit bikes, consisting of three models: **110 Cross, 125 Cross, and 160 Cross**. Despite their external similarity, the motorcycles differ not only in engines.
 
@@ -29,7 +29,7 @@ The suspension here is also the best. It was never bottomed out. According to co
 In terms of convenience, the 160 Cross is the **golden mean** – the footpegs are positioned quite high, but this is compensated by the high handlebars. Therefore, there are no problems with the knees when handling.
 As a result of the test and competitions, I can confidently assert that the motorcycles, which at first glance seem "childish" and look like toys, are capable of providing quite adult sensations. During the competitions, the riders' emotions in case of failure were no less intense than in any championship.
 
-![Forsage 110/125/160 Cross](http://mypitbike.ru/uploads/images/00/00/03/2012/02/01/e43f3e.jpg "Forsage 110/125/160 Cross")
+![Forsage 110/125/160 Cross](../../static/img/e43f3e.jpg "Forsage 110/125/160 Cross")
 
 #### MOTORCYCLE SPECIFICATIONS
 

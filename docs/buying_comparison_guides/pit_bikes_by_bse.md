@@ -8,7 +8,7 @@ Today, we discuss another prominent pit bike manufacturer in Russia, the company
 
 Established in 2002, **Zhejiang Bosuer Motion Apparatus CO., LTD** is a professional engineering factory located in Zhejiang, a flourishing city in southeastern China. The factory manufactures, develops, and exports motocross bikes, ATVs, scooters, pit bikes, and MiniGP models.
 
-![BSE Pit Bikes](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/3ad9d9.jpg)
+![BSE Pit Bikes](../../static/img/3ad9d9.jpg)
 
 Since 2003, to meet market demands, the company has increasingly focused on the pit bike segment. BSE pit bikes draw from frames like the Honda CRF50, CRF70, KLX110, and Yamaha TTR. The skillful mechanics continually explore and develop new pit bike models. High quality, competitive pricing, and production control make BSE pit bikes an excellent choice in the Chinese motorcycle sector. Renowned for quality and reliability, these motorcycles have earned a solid reputation among customers. Export markets include Europe, Canada, Australia, New Zealand, South Africa, and more.
 
@@ -18,7 +18,7 @@ BSE targets the European, Australian, and Canadian markets, where bikers are hig
 
 ## Assembly
 
-![BSE Pit Bikes](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/4c46f9.jpg)
+![BSE Pit Bikes](../../static/img/4c46f9.jpg)
 
 The company operates a specialized assembly line for pit bike production in China. A designated quality control supervisor oversees each assembly phase, ensuring all parts are properly installed in sequence and without errors. After assembly, a quality-control engineer conducts a comprehensive check, test-driving every motorcycle to evaluate the engine, brakes, and other systems. The front wheel is detached and secured inside a metal frame, housing the pit bike before dispatch to stores.
 
@@ -32,7 +32,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 
 ## BSE Pit Bikes: 2012 Model Lineup
 
-![BSE BSR](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/d4e3fe.jpg)
+![BSE BSR](../../static/img/d4e3fe.jpg)
 
 ### Model: BSR
 
@@ -48,7 +48,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - Aluminum "Knife" Swingarm with Pro-Link
 - Load Capacity up to 100 kg
 
-![BSE-PH08C](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/4becf5.jpg)
+![BSE-PH08C](../../static/img/4becf5.jpg)
 
 ### Model: BSE-PH08C
 
@@ -61,7 +61,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - Fully Adjustable Suspension
 - 17"/14" Wheels
 
-![BSE-PH10A](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/4a9d06.jpg)
+![BSE-PH10A](../../static/img/4a9d06.jpg)
 
 ### Model: BSE-PH10A
 
@@ -74,7 +74,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - Fully Adjustable Suspension
 - YX 160 cc Engine
 
-![BSE-PH10C](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/4094ea.jpg)
+![BSE-PH10C](../../static/img/4094ea.jpg)
 
 ### Model: BSE-PH10C
 
@@ -88,7 +88,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - 125 cc Engine
 - 12"/14" Wheels
 
-![BSE-PH10B](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/c605de.jpg)
+![BSE-PH10B](../../static/img/c605de.jpg)
 
 ### Model: BSE-PH10B
 
@@ -102,7 +102,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - YX 150 cc Engine
 - 12"/14" Wheels
 
-![BSE-PH09A](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/8a70ba.jpg)
+![BSE-PH09A](../../static/img/8a70ba.jpg)
 
 ### Model: BSE-PH09A
 
@@ -116,7 +116,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - Fully Adjustable Suspension
 - 17"/14" Wheels
 
-![BSE-PH09B](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/4ec407.jpg)
+![BSE-PH09B](../../static/img/4ec407.jpg)
 
 ### Model: BSE-PH09B
 
@@ -130,7 +130,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - Fully Adjustable Suspension
 - 17"/14" Wheels
 
-![BSE-PH08D](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/c01713.jpg)
+![BSE-PH08D](../../static/img/c01713.jpg)
 
 ### Model: BSE-PH08D
 
@@ -141,7 +141,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - Tubular Frame
 - 17"/14" Wheels
 
-![BSE-PH02D](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/a2dd28.jpg)
+![BSE-PH02D](../../static/img/a2dd28.jpg)
 
 ### Model: BSE-PH02D
 
@@ -152,7 +152,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - 125 cc Engine
 - 14"/12" Wheels
 
-![BSE-PH07C](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/a9bece.jpg)
+![BSE-PH07C](../../static/img/a9bece.jpg)
 
 ### Model: BSE-PH07C
 
@@ -162,7 +162,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - 125 cc Engine
 - 17"/14" Wheels
 
-![BSE-PH06A](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/6ff05c.jpg)
+![BSE-PH06A](../../static/img/6ff05c.jpg)
 
 ### Model: BSE-PH06A
 
@@ -173,7 +173,7 @@ Each year, BSE engineers design new pit bike models tailored to diverse markets.
 - 10"/10" Wheels
 - 4-Speed Manual Clutch
 
-![BSE-PH06B](http://mypitbike.ru/uploads/images/00/00/01/2012/04/04/9f2263.jpg)
+![BSE-PH06B](../../static/img/9f2263.jpg)
 
 ### Model: BSE-PH06B
 

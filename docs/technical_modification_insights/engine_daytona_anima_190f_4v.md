@@ -1,11 +1,11 @@
 # Engine: daytona anima 190f 4v
 
-A true powerhouse in the pit bike engine lineup. ![Daytona Anima](http://mypitbike.ru/uploads/images/00/00/03/2012/02/21/5b7e9d.jpg "Daytona Anima") The renowned Japanese company **Daytona**, famous for its pit bike tuning kits, has unveiled its latest innovation - a 4-valve engine for pit bikes, boasting a record-breaking displacement of **190 cc.** ![Daytona Anima](http://mypitbike.ru/uploads/images/00/00/03/2012/02/21/0db68a.jpg "Daytona Anima") The updated engine lineup, named **Anima**, includes engines with the following displacements:
+A true powerhouse in the pit bike engine lineup. ![Daytona Anima](../../static/img/5b7e9d.jpg "Daytona Anima") The renowned Japanese company **Daytona**, famous for its pit bike tuning kits, has unveiled its latest innovation - a 4-valve engine for pit bikes, boasting a record-breaking displacement of **190 cc.** ![Daytona Anima](../../static/img/0db68a.jpg "Daytona Anima") The updated engine lineup, named **Anima**, includes engines with the following displacements:
 
 - **Anima 150F** - 4-valve head, displacement of 150 cc.
 - **Anima 190F** - 4-valve head, displacement of 190 cc.
 
-![Daytona Anima 150F](http://mypitbike.ru/uploads/images/00/00/03/2012/02/21/488644.jpg "Daytona Anima 150F") Engines with a displacement of 150cc are already available for retail, while the senior model is undergoing final testing and is expected in March 2012. Esteemed pit bike manufacturers such as **YCF** and **BBR** have already announced the launch of new motorcycles equipped with the Daytona Anima 150F engine. ![YCF 150 Factory Pilot 2012](http://mypitbike.ru/uploads/images/00/00/03/2012/02/21/a8b44b.jpg "YCF 150 Factory Pilot 2012") **Technical Specifications of Anima 190F:**
+![Daytona Anima 150F](../../static/img/488644.jpg "Daytona Anima 150F") Engines with a displacement of 150cc are already available for retail, while the senior model is undergoing final testing and is expected in March 2012. Esteemed pit bike manufacturers such as **YCF** and **BBR** have already announced the launch of new motorcycles equipped with the Daytona Anima 150F engine. ![YCF 150 Factory Pilot 2012](../../static/img/a8b44b.jpg "YCF 150 Factory Pilot 2012") **Technical Specifications of Anima 190F:**
 
 - Air-cooled, 4-stroke, 4-valve
 - Horizontal layout (fits Honda CRF 50 frame and other pit bikes)
@@ -23,4 +23,4 @@ A true powerhouse in the pit bike engine lineup. ![Daytona Anima](http://mypitbi
 - 4th gear - 22/24
 - CDI ignition system and AC generator
 
-![Power Chart](http://mypitbike.ru/uploads/images/00/00/03/2012/02/21/03e3ad.jpg "Power Chart") **Estimated cost: $1500** And just listen to how it sounds! http://www.youtube.com/watch?v=L-6ssU4dW2Q
+![Power Chart](../../static/img/03e3ad.jpg "Power Chart") **Estimated cost: $1500** And just listen to how it sounds! http://www.youtube.com/watch?v=L-6ssU4dW2Q

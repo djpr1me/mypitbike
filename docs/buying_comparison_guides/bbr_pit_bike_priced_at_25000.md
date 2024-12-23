@@ -1,10 +1,10 @@
 # Bbr pit bike priced at $25,000
 
-![BBR CRF190](http://mypitbike.ru/uploads/images/00/00/04/2013/10/21/0c5c6d.jpg)
+![BBR CRF190](../../static/img/0c5c6d.jpg)
 
 It's amusing to consider how fun backyard **pit bike rides** with friends could evolve into full-scale motorsport. The journey from backyard gatherings to spectator-filled arenas marked a considerable leap for this class. In 2004, riders worldwide competed in the inaugural Mini Moto Supercross event in Las Vegas. Over the years, participant numbers swelled to the point that organizers capped entrants to 700. From this point, a small group of top riders could make a living solely through mini moto competitions.
 
-![BBR CRF190](http://mypitbike.ru/uploads/images/00/00/04/2013/10/21/3ecd16.jpg)
+![BBR CRF190](../../static/img/3ecd16.jpg)
 
 *As seen in the image, the pit bike packs sufficient power to dig into the ground with its rear wheel and is easily managed by an adult rider.*
 
@@ -16,7 +16,7 @@ During mini-moto’s golden era, business flourished, and BBR constructed fully 
 
 Remarkably, the crisis didn’t break the BBR team; instead, they forged ahead, diligently enhancing their pit bike lineup to remain leaders.
 
-![BBR CRF190](http://mypitbike.ru/uploads/images/00/00/04/2013/10/21/2b527f.jpg)
+![BBR CRF190](../../static/img/2b527f.jpg)
 
 Surprise! The $25,000 pit bike has returned. We're testing the **BBR CRF190**, built to the minimalist rules governing Mini Moto Las Vegas. Our bike fits the 12-inch class with these restrictions:
 
@@ -31,7 +31,7 @@ Given near-total freedom from restrictions, constructing an exotic race-ready mi
 
 Enthusiasm for two wheels explains why the MXA team wanted to test the **BBR pit bike**. When Duane showcased the **factory pit bike** for detailed review, the craftsmanship left us in awe. Every BBR pit bike component is handcrafted.
 
-![BBR CRF190](http://mypitbike.ru/uploads/images/00/00/04/2013/10/21/a7e443.jpg)
+![BBR CRF190](../../static/img/a7e443.jpg)
 
 The bike features a hand-made aluminum fuel tank (50 man-hours), a Japanese **Daytona Anima 190** cc engine producing 20 hp, fitted with a decompression camshaft, CNC-fabricated perimeter frame, aluminum swingarm, among other components too numerous to list. Only some bolts and plastic mimic the 2013 **Honda CRF110**. 
 

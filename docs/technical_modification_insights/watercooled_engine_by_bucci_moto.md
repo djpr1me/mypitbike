@@ -2,7 +2,7 @@
 
 The Italian master engine builder, **Claudio Bucci** from Bucci Moto, has engineered a remarkable racing engine for the pit bike **Bucci Racing F4**. With a displacement of 150 cc, it features a Unicam head with four valves and **liquid cooling**!
 
-![Bucci Moto](http://mypitbike.ru/uploads/images/00/00/02/2012/02/22/df5849.jpg "Bucci Moto")
+![Bucci Moto](../../static/img/df5849.jpg "Bucci Moto")
 
 Priced comparably to a new VAZ car - **5880 euros**!!!
 

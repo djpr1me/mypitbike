@@ -16,12 +16,12 @@ Thanks to modern management systems and superior quality, the company achieved i
 
 #### Junior Models
 
-![Mikilon D11-70](http://mypitbike.ru/uploads/images/00/00/07/2012/03/20/33ff48.jpg "Mikilon D11-70") **Mikilon D11-70** (70 cc) ![Mikilon D12-70](http://mypitbike.ru/uploads/images/00/00/07/2012/03/20/f52736.jpg "Mikilon D12-70") **Mikilon D12-70** (70 cc)
+![Mikilon D11-70](../../static/img/33ff48.jpg "Mikilon D11-70") **Mikilon D11-70** (70 cc) ![Mikilon D12-70](../../static/img/f52736.jpg "Mikilon D12-70") **Mikilon D12-70** (70 cc)
 
 #### Mid-Range Segment
 
-![Mikilon D22-125](http://mypitbike.ru/uploads/images/00/00/07/2012/03/20/35299e.jpg "Mikilon D22-125") **Mikilon D22-125** (125 cc) ![Mikilon D42-125](http://mypitbike.ru/uploads/images/00/00/07/2012/03/20/58fb8f.jpg "Mikilon D42-125") **Mikilon D42-125** (125 cc) ![Mikilon D51-125](http://mypitbike.ru/uploads/images/00/00/07/2012/03/20/1d7756.jpg "Mikilon D51-125") **Mikilon D51-125** (125 cc)
+![Mikilon D22-125](../../static/img/35299e.jpg "Mikilon D22-125") **Mikilon D22-125** (125 cc) ![Mikilon D42-125](../../static/img/58fb8f.jpg "Mikilon D42-125") **Mikilon D42-125** (125 cc) ![Mikilon D51-125](../../static/img/1d7756.jpg "Mikilon D51-125") **Mikilon D51-125** (125 cc)
 
 #### Senior Models
 
-![Mikilon D52-125](http://mypitbike.ru/uploads/images/00/00/07/2012/03/20/a3bf5d.jpg "Mikilon D52-125") **Mikilon D52-125** (125 cc) ![Mikilon D52-160](http://mypitbike.ru/uploads/images/00/00/07/2012/03/20/cbee90.jpg "Mikilon D52-160") ![Mikilon D52-160](http://mypitbike.ru/uploads/images/00/00/07/2012/03/20/6819bd.jpg "Mikilon D52-160") **Mikilon D52-160** (160 cc) There is speculation that pit bikes sold under the **C.Moto** brand are none other than the **Mikilon** D52-125 and -160, respectively. If any readers are owners of Mikilon pit bikes, it would be very interesting to hear their feedback on the quality and reliability of these machines.
+![Mikilon D52-125](../../static/img/a3bf5d.jpg "Mikilon D52-125") **Mikilon D52-125** (125 cc) ![Mikilon D52-160](../../static/img/cbee90.jpg "Mikilon D52-160") ![Mikilon D52-160](../../static/img/6819bd.jpg "Mikilon D52-160") **Mikilon D52-160** (160 cc) There is speculation that pit bikes sold under the **C.Moto** brand are none other than the **Mikilon** D52-125 and -160, respectively. If any readers are owners of Mikilon pit bikes, it would be very interesting to hear their feedback on the quality and reliability of these machines.

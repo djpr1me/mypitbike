@@ -8,7 +8,7 @@
 
 #### 2. Breather Hose Check (Crankcase Vent Hose)
 
-There is a black rubber hose at the rear of the engine, intended for crankcase gas evacuation. Ensure it is securely affixed to the engine, free of blockages or kinks. ![breather](http://mypitbike.ru/uploads/images/00/00/04/2011/12/28/0f020e.jpg "breather")
+There is a black rubber hose at the rear of the engine, intended for crankcase gas evacuation. Ensure it is securely affixed to the engine, free of blockages or kinks. ![breather](../../static/img/0f020e.jpg "breather")
 
 #### 3. First Engine Start
 
@@ -26,7 +26,7 @@ Start the engine without rotating the throttle handle beyond 2/3 of its range; a
 - Check the spark plug gap; it should be approximately 0.6 – 0.7 mm
 - Inspect tire pressure
 
-![filler cap](http://mypitbike.ru/uploads/images/00/00/04/2011/12/28/7edab3.jpg "filler cap")
+![filler cap](../../static/img/7edab3.jpg "filler cap")
 
 #### Advice for Longevity of Engine Performance
 
