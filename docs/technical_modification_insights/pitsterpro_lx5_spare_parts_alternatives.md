@@ -8,7 +8,7 @@ Gathering Information Together.
 The front caliper can be adapted from a Honda Lead AF-48 with minor modifications.
 Almost any front brake master cylinder will suffice, and one can be selected from a moped.
 The complete front brake system from AJP, suitable for European mopeds (Derbi DRD, Aprilia RX/SX50 &gt;06, Derbi GPR125), is compatible. Replacement of the guides is necessary.
-![pitsterpro lx5 AJP caliper](http://mypitbike.ru/uploads/images/00/00/04/2012/07/06/01cfc27544.jpg "pitsterpro lx5 AJP caliper")
+![pitsterpro lx5 AJP caliper](../../static/img/01cfc27544.jpg "pitsterpro lx5 AJP caliper")
 
 The rear brake pads are compatible with those from a Honda Dio.
 The rear brake master cylinder, with slight modifications, can be adapted from a YAMAHA FZR 600.

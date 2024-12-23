@@ -3,7 +3,7 @@
 Technical Specifications:
 Zongshen 155cc Version 2 with oil filter.
 Mountings are identical to CRF50/70 frames, suitable for all pit bikes.
-![Zongshen 155cc V2](http://mypitbike.ru/uploads/images/00/00/01/2012/06/04/07cda1.jpg "Zongshen 155cc V2")
+![Zongshen 155cc V2](../../static/img/07cda1.jpg "Zongshen 155cc V2")
 
 -
 
@@ -35,12 +35,12 @@ Gearbox shafts and shift drum with forks are not compatible with other engine ty
 ZS and YX engine heads are interchangeable. Different intake and exhaust port angles.
 
 **Oil Filter Size:** Diameter 44mm x Length 39mm x Inlet Diameter 13.5mm
-![oil filter](http://mypitbike.ru/uploads/images/00/00/01/2012/06/04/cb2077c860.jpg "oil filter")
+![oil filter](../../static/img/cb2077c860.jpg "oil filter")
 
-![oil filter](http://mypitbike.ru/uploads/images/00/00/01/2012/06/04/67ea352b59.jpg "oil filter")
+![oil filter](../../static/img/67ea352b59.jpg "oil filter")
 
 Compatible with Suzuki DRZ400 filters. Filter marking **HIFLOFILTRO - HF139**
-![HIFLOFILTRO HF139](http://mypitbike.ru/uploads/images/00/00/01/2012/06/04/ad624fcb98.jpg "HIFLOFILTRO HF139")
+![HIFLOFILTRO HF139](../../static/img/ad624fcb98.jpg "HIFLOFILTRO HF139")
 
 **Oil Replacement Marking:**
 Type API SE, SF, or SG

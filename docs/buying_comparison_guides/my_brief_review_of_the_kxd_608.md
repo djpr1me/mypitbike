@@ -4,7 +4,7 @@
 
 I acquired this steed in early July.
 
-![Pit Bike](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/39041a.jpg)
+![Pit Bike](../../static/img/39041a.jpg)
 
 - **Engine Capacity:** 124 cc
 - **Fuel Tank:** 5 liters
@@ -13,11 +13,11 @@ I acquired this steed in early July.
 - **Wheels:** 14/17 inches
 - **Weight:** Approximately 70 kg
 
-![Fresh out of the box](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/1e7958.jpg)
+![Fresh out of the box](../../static/img/1e7958.jpg)
 
 Having ridden it for two months now, I can say it has generally pleased me. Not overwhelmingly impressive, as some parts broke or got lost, but it justifies its cost.
 
-![Chain tensioner issue](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/6542f8.jpg)
+![Chain tensioner issue](../../static/img/6542f8.jpg)
 
 ### Let's Start with the Drawbacks:
 
@@ -30,34 +30,34 @@ Having ridden it for two months now, I can say it has generally pleased me. Not 
 - The chain tensioner quickly stretches and starts to make noise.
 - The fuel tank vent hose is constantly getting lost.
 
-![Observations](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/f82273.jpg)
+![Observations](../../static/img/f82273.jpg)
 
 ### On a Positive Note:
 
 I mostly rode on sand, mud, peat, and water—no issues, just had to clean the air filter regularly.
 
-![Riding conditions](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/bac8d5.jpg)
+![Riding conditions](../../static/img/bac8d5.jpg)
 
 It tears through the ground in both first and fourth gear.
 
-![Uphill capability](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/01355f.jpg)
+![Uphill capability](../../static/img/01355f.jpg)
 
 It climbs any hill.
 
-![Gearbox performance](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/042af4.jpg)
+![Gearbox performance](../../static/img/042af4.jpg)
 
 The gearbox operates flawlessly, without jerks, jolts, or gear slips.
 
-![Running smoothly](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/8b5bfd.jpg)
+![Running smoothly](../../static/img/8b5bfd.jpg)
 
 I ran the first three tanks in break-in mode.
 
-![Fuel & oil usage](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/1c5385.jpg)
+![Fuel & oil usage](../../static/img/1c5385.jpg)
 
 I use 92-95 octane gasoline and 5w-40 oil.
 
-![Excited for more](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/5caea3.jpg)
+![Excited for more](../../static/img/5caea3.jpg)
 
 And I've ordered some goodies for the fall.
 
-![Looking forward](http://mypitbike.ru/uploads/images/00/15/89/2014/08/28/a437d0.jpg)
+![Looking forward](../../static/img/a437d0.jpg)

@@ -5,9 +5,9 @@ The Italian company Formula has unveiled its tuning kits for pit bikes. Formula 
 ###### Brake Master Cylinder and Caliper Kit
 
 The Formula brake kit for pit bikes is designed exclusively for use on small motorcycles. Tested in races under various conditions, these powerful brakes have proven their reliability in the European and Italian championships.  
-![Formula Brake Master Cylinder](http://mypitbike.ru/uploads/images/00/00/07/2013/01/08/7b2529.jpg)  
-![Formula Front Caliper](http://mypitbike.ru/uploads/images/00/00/07/2013/01/08/6ca8cb.jpg)  
-![Formula Front Caliper](http://mypitbike.ru/uploads/images/00/00/07/2013/01/08/d8e6f8.jpg)  
+![Formula Brake Master Cylinder](../../static/img/7b2529.jpg)  
+![Formula Front Caliper](../../static/img/6ca8cb.jpg)  
+![Formula Front Caliper](../../static/img/d8e6f8.jpg)  
 
 **Technical Specifications:**  
 
@@ -45,8 +45,8 @@ Designed for mini motocross and pit bikes. The rigid 39 mm stanchions are paired
 - Low-friction bushings
 - Specially designed seals for extreme conditions  
 
-![USD Ø39 PITBIKE](http://mypitbike.ru/uploads/images/00/00/07/2013/01/08/cacfe9.jpg)  
-![USD Ø39 PITBIKE](http://mypitbike.ru/uploads/images/00/00/07/2013/01/08/da7c8c.jpg)  
+![USD Ø39 PITBIKE](../../static/img/cacfe9.jpg)  
+![USD Ø39 PITBIKE](../../static/img/da7c8c.jpg)  
 
 **Technical Specifications:**  
 

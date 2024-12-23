@@ -1,10 +1,10 @@
 # Review of the irbis ttr 125 pit bike
 
-![Irbis TTR 125](http://mypitbike.ru/uploads/images/00/00/03/2012/09/27/6d9b64.jpg "Irbis TTR 125") Recently, this particular pit bike has been vying for the title of "people's choice," and not without reason. Its large wheels, simple design, availability in stores, and affordability are its main selling points. Most buyers are unfamiliar with the term "pit bike" and purchase the TTR 125 as their first motorcycle for learning or as a moped for the countryside, for trips along trails in search of mushrooms or for fishing. They are not chasing after brand names, aesthetics, colorful anodized aluminum parts, or the classic form factor (with 14/12 wheels). What most people seek is the lowest price on the market, simplicity of design, the ability for field repairs with basic tools, and the availability of spare parts. Judging by the prevalence of this model, the latter should not pose a problem. But is the Irbis TTR truly as good as it seems?
+![Irbis TTR 125](../../static/img/6d9b64.jpg "Irbis TTR 125") Recently, this particular pit bike has been vying for the title of "people's choice," and not without reason. Its large wheels, simple design, availability in stores, and affordability are its main selling points. Most buyers are unfamiliar with the term "pit bike" and purchase the TTR 125 as their first motorcycle for learning or as a moped for the countryside, for trips along trails in search of mushrooms or for fishing. They are not chasing after brand names, aesthetics, colorful anodized aluminum parts, or the classic form factor (with 14/12 wheels). What most people seek is the lowest price on the market, simplicity of design, the ability for field repairs with basic tools, and the availability of spare parts. Judging by the prevalence of this model, the latter should not pose a problem. But is the Irbis TTR truly as good as it seems?
 
 ##### Technical Specifications of the IRBIS TTR 125
 
-**Engine Type and Capacity:** 4-stroke, 125cc **Engine Power:** 8.2 hp **Transmission:** 4-speed manual, chain **Fuel Tank Capacity:** 3.2 liters **Dimensions:** 1700x780x1100 mm **Dry Weight:** 67 kg **Tires (front/rear):** 17 / 14 **Brakes (front/rear):** disc / disc **Features:** powerful 125cc engine, off-road tires 14/17', engine protection ![Irbis TTR 125](http://mypitbike.ru/uploads/images/00/00/03/2012/09/27/d6e911.jpg "Irbis TTR 125")
+**Engine Type and Capacity:** 4-stroke, 125cc **Engine Power:** 8.2 hp **Transmission:** 4-speed manual, chain **Fuel Tank Capacity:** 3.2 liters **Dimensions:** 1700x780x1100 mm **Dry Weight:** 67 kg **Tires (front/rear):** 17 / 14 **Brakes (front/rear):** disc / disc **Features:** powerful 125cc engine, off-road tires 14/17', engine protection ![Irbis TTR 125](../../static/img/d6e911.jpg "Irbis TTR 125")
 
 ##### Engine
 
@@ -12,7 +12,7 @@ The engine is a replica of the reliable Honda CUB engine. In the TTR 125, the cl
 
 ##### Suspension
 
-The TTR 125's suspension was frankly disappointing: too soft on compression and too stiff on rebound (especially the rear), turning the seat into a wooden stool on even slightly uneven roads, forcing the rider to stand on the footpegs. Moreover, when hitting bumps, the front suspension bottoms out – and this with a rider weighing only 70 kg in gear! ![Irbis TTR 125](http://mypitbike.ru/uploads/images/00/00/03/2012/09/27/f7122e.jpg "Irbis TTR 125")
+The TTR 125's suspension was frankly disappointing: too soft on compression and too stiff on rebound (especially the rear), turning the seat into a wooden stool on even slightly uneven roads, forcing the rider to stand on the footpegs. Moreover, when hitting bumps, the front suspension bottoms out – and this with a rider weighing only 70 kg in gear! ![Irbis TTR 125](../../static/img/f7122e.jpg "Irbis TTR 125")
 
 ##### Brakes
 
@@ -24,7 +24,7 @@ When purchasing a new motorcycle, pay close attention to checking the electrics,
 
 ##### Conclusion
 
-Overall, the motorcycles left a pleasant impression. The quality is at a level that allows for a discussion of its value for money. And today, that is the main trump card of these machines. Upon detailed inspection, the TTR 125 proved to be prepared for off-road: the headlight is secured with convenient and sturdy rubber fasteners, the frame is protected from wear by motorcycle boots with neat plastic covers, and the gear lever is foldable. But the main feature is the motorcycle's mass and dimensions. There aren't many teenage "enduros" available. This one will suit those aged 14–16, but adults can also fit, albeit with less comfort. Among the minor shortcomings are the need for kickstarter improvement, instability on the stand, and a weak chain. Our advice to buyers: tightening threaded connections and clamps is a mandatory procedure! ![Irbis TTR 125](http://mypitbike.ru/uploads/images/00/00/03/2012/09/27/cff101.jpg "Irbis TTR 125")
+Overall, the motorcycles left a pleasant impression. The quality is at a level that allows for a discussion of its value for money. And today, that is the main trump card of these machines. Upon detailed inspection, the TTR 125 proved to be prepared for off-road: the headlight is secured with convenient and sturdy rubber fasteners, the frame is protected from wear by motorcycle boots with neat plastic covers, and the gear lever is foldable. But the main feature is the motorcycle's mass and dimensions. There aren't many teenage "enduros" available. This one will suit those aged 14–16, but adults can also fit, albeit with less comfort. Among the minor shortcomings are the need for kickstarter improvement, instability on the stand, and a weak chain. Our advice to buyers: tightening threaded connections and clamps is a mandatory procedure! ![Irbis TTR 125](../../static/img/cff101.jpg "Irbis TTR 125")
 
 ##### Most Common Failures According to Statistics
 

@@ -4,7 +4,7 @@
 
 The brand **Xmotos** is owned by the holding company **XGROUP CORPORATION**, established in 2006 in China. Over seven years, the company has operated in three areas: motorcycle manufacturing, garden equipment, and specializing in powder coating. **Xmotos** is a subsidiary focused on motorcycle production and currently maintains a significant market share among motorcycle manufacturers in China. The workforce comprises over 500 employees, working on a production area of approximately 60,000 square meters. All models leaving the factory are designed and engineered by an in-house team of 50 engineers, who bring extensive professional experience and innovative ideas. At present, all motorcycles undergo standardization for CE, EEC, EPA, Carb, ISO9001, WMI. Additionally, under the **Xmotos** brand, you can find ATVs, pit bikes, and electric bicycles.
 
-![Xmotos](http://mypitbike.ru/uploads/images/00/00/04/2013/01/09/ed993d.jpg)
+![Xmotos](../../static/img/ed993d.jpg)
 
 A well-established production line has enabled the company to join the ranks of the best motorcycle manufacturers in China. Outstanding quality, advanced management, and excellent service have all contributed to achieving a positive reputation worldwide. The company's products are sold in more than 30 countries, including Australia, Africa, France, the USA, and Canada. Since 2006, the creation of affordable motorcycles has become foundational for the company. Moreover, **XGROUP CORPORATION** is ready to assemble motorcycles according to specific customer requirements. Currently, the production line includes motorcycles for children, adults, and professionals, allowing everyone to enjoy riding two-wheeled vehicles without exception.
 
@@ -12,9 +12,9 @@ A well-established production line has enabled the company to join the ranks of 
 
 ### XB-21
 
-![Xmotos XB-21](http://mypitbike.ru/uploads/images/00/00/04/2013/01/10/dcb0fc.jpg)
-![Xmotos XB-21](http://mypitbike.ru/uploads/images/00/00/04/2013/01/10/6ba4b8.jpg)
-![Xmotos XB-21f](http://mypitbike.ru/uploads/images/00/00/04/2013/01/10/19de9c.jpg)
+![Xmotos XB-21](../../static/img/dcb0fc.jpg)
+![Xmotos XB-21](../../static/img/6ba4b8.jpg)
+![Xmotos XB-21f](../../static/img/19de9c.jpg)
 
 The junior model, designed for children, is crafted in the likeness of the Honda CRF50.
 
@@ -27,8 +27,8 @@ The junior model, designed for children, is crafted in the likeness of the Honda
 
 ### XB-80
 
-![Xmotos XB-80](http://mypitbike.ru/uploads/images/00/00/04/2013/01/10/54f50d.jpg)
-![Xmotos XB-80](http://mypitbike.ru/uploads/images/00/00/04/2013/01/10/1c02cd.jpg)
+![Xmotos XB-80](../../static/img/54f50d.jpg)
+![Xmotos XB-80](../../static/img/1c02cd.jpg)
 
 The mid-range model, designed for teenagers.
 
@@ -41,8 +41,8 @@ The mid-range model, designed for teenagers.
 
 ### XB-32
 
-![Xmotos XB-32](http://mypitbike.ru/uploads/images/00/00/04/2013/01/11/3cfc88.jpg)
-![Xmotos XB-32](http://mypitbike.ru/uploads/images/00/00/04/2013/01/11/39d621.jpg)
+![Xmotos XB-32](../../static/img/3cfc88.jpg)
+![Xmotos XB-32](../../static/img/39d621.jpg)
 
 An advanced model. The frame largely replicates that of the American manufacturer **BBR**.
 
@@ -56,9 +56,9 @@ An advanced model. The frame largely replicates that of the American manufacture
 
 ### XB-33
 
-![Xmotos XB-33](http://mypitbike.ru/uploads/images/00/00/04/2013/01/11/c7756d.jpg)
-![Xmotos XB-33](http://mypitbike.ru/uploads/images/00/00/04/2013/01/11/0c3fd3.jpg)
-![Xmotos XB-33](http://mypitbike.ru/uploads/images/00/00/04/2013/01/11/2787ac.jpg)
+![Xmotos XB-33](../../static/img/c7756d.jpg)
+![Xmotos XB-33](../../static/img/0c3fd3.jpg)
+![Xmotos XB-33](../../static/img/2787ac.jpg)
 
 The flagship model in the lineup. Exclusive frame and swingarm design. Unusual plastic bodywork. The prototype may have been the **Aprilia RXV**, as the front plastic and swingarm design are very similar. Apart from the unique design, standard components are used.
 

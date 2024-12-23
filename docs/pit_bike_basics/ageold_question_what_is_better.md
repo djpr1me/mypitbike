@@ -12,25 +12,25 @@ What should you consider when you firmly decide to purchase a pit bike? Budget? 
 
 Let's try to elucidate simply which pit bike suits various needs and why.
 
-### 1) Off-Road Trail and Rough Terrain Riding
+### 1. Off-Road Trail and Rough Terrain Riding
 
 For this, a pit bike with a 125cc engine and 17-14 wheels is most appropriate. "Why 125 when a 160 is much more powerful and BETTER," the armchair experts might ask. I'll explain: A 125cc engine is more suited for low-end torque, making it a joy for forest trails and rough terrain. A 160cc (especially the ZS160) excels only in the high rev range, lacking low-end power. The 140cc engine strikes a balance and versatility for such tasks.
 
 Regarding the wheels, I’ll clarify its significance, as it's a subject that often incites heated debates. Wheels 14-12 provide dynamic performance but have noticeably less off-road capability compared to larger wheels. Wheels 17-14 offer superior off-road capability but less agility. While the dynamic performance of 17-14 wheels can be enhanced with properly selected sprockets, conceding speed, the off-road capability of 14-12 wheels cannot be improved without switching to 17-14. Novices often pose the question, "WHICH IS BETTER?" in relation to wheel size, met by someone staunchly claiming, "14-12 is better because 17-14 doesn’t qualify as a pit bike!" Well, technically correct; the largest permissible wheel size by regulation is 14-12, beyond which participation in competitions is not allowed. But one wonders why it matters when the owner isn't competing! If 17-14 performs significantly better off-road, why should one respect regulations at his expense?
 
-### 2) Leisure Rides on Light Trails
+### 2. Leisure Rides on Light Trails
 
 In this context, any engine size and wheel setup, like 12-14 or smaller, can suffice. Why not 17-14? Well, when not needing off-road capability much, why opt for it when 14-12 offers a more enjoyable ride?
 
-### 3) Urban Riding
+### 3. Urban Riding
 
 Any engine size is viable, yet here I’d recommend 160cc or greater for obvious reasons. Wheel options could be 12-12 or 14-14, although some enthusiasts mount road tires on 17-14 setups—props to them.
 
-### 4) Motocross Tracks
+### 4. Motocross Tracks
 
 Here it gets serious. A basic, cheap pit bike won’t suffice. You will need one with a robust frame, triple clamps, handlebars, ideally progression suspension, excellent long-travel suspension (DNM, Fastace, Marzocchi, Volt), and reinforced spokes, hubs, and rims. Simply visit a renowned manufacturer's website and select a top-tier model.
 
-### 5) Stunt Riding
+### 5. Stunt Riding
 
 Initially, fully ready stunt pit bikes are rare. You will nonetheless need to purchase additional expensive tuning parts. A compulsory grab rail, rear brake lever, and sturdy handlebars. For novices, buying a pre-prepared used stunt pit bike is easier. The most suitable engine for stunting is the 125cc, offering smoother transition compared to its bigger siblings. Remember: larger displacement doesn’t always equal better! Of course, 140cc and 160cc engines are fine for stunts, but I recommend what’s most convenient for a beginner.
 

@@ -4,7 +4,7 @@ Hello, fellow pit bike enthusiasts!
 
 Soon, the puddles will grow warm enough that falling into them won’t give you a chill. Yes, the prime season for pit bikers is almost upon us—hang in a little longer. Craving an explosive start to the new season? Then read on!
 
-![Pitbike Image](http://mypitbike.ru/uploads/images/00/21/21/2016/03/02/c78f1b.jpg)
+![Pitbike Image](../../static/img/c78f1b.jpg)
 
 In this guide, I will share how to boost your pit bike’s torque without significant expense. This article targets owners of pit bikes equipped with LF 120, YX 125, and YX 140 engines. However, even if you own a different displacement, worry not—this content remains 50% relevant to your setup.
 
@@ -28,11 +28,11 @@ Our friends from China have included a subtle restriction in your engine. Unknow
 
 To remedy this, let's replace the standard CDI:
 
-![Standard CDI](http://mypitbike.ru/uploads/images/00/21/21/2016/03/02/41bf63.jpg) 
+![Standard CDI](../../static/img/41bf63.jpg) 
 
 Install a performance CDI:
 
-![Tuning CDI](http://mypitbike.ru/uploads/images/00/21/21/2016/03/02/764656.jpg)  
+![Tuning CDI](../../static/img/764656.jpg)  
 
 Now, the engine's revolutions are in your hands, not the manufacturer's! This adjustment mitigates the speed loss caused by the chain modification. 
 

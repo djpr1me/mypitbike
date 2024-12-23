@@ -4,11 +4,11 @@ Hello everyone. I have once again decided to acquire a two-wheeled companion and
 
 After a short ride, I realized I was intensely drawn to stunting. As soon as the snow melted, I returned to my old ways. I've been handy with tools since childhood, and with a grinder and welding equipment at my disposal, I thought, why not weld the crash cage myself? I bought 5 meters of tubing and eagerly set to work. I made many mistakes, redoing certain aspects multiple times, and I will continue to make adjustments (it turned out a bit long, and the angle is too large). I learned from my mistakes and am very pleased with the work I've done. I believe the second attempt will be much easier (the first lesson has been learned). I encourage everyone who has the opportunity to try it themselves; it's not as difficult as it seems.
 
-![The Beginning](http://mypitbike.ru/uploads/images/00/11/84/2014/03/15/67a014.jpg)  
-![Spent about 20 minutes on the first side](http://mypitbike.ru/uploads/images/00/11/84/2014/03/15/2791f2.jpg)  
-![And then the real challenge began with the second side](http://mypitbike.ru/uploads/images/00/11/84/2014/03/15/14ab78.jpg)  
-![Really didn't want to re-weld the muffler](http://mypitbike.ru/uploads/images/00/11/84/2014/03/15/3e75c3.jpg)  
-![The end is near](http://mypitbike.ru/uploads/images/00/11/84/2014/03/15/22ba2e.jpg)  
-![Work in Progress](http://mypitbike.ru/uploads/images/00/11/84/2014/03/15/1ebec1.jpg)  
-![Navigating the pipe was hell](http://mypitbike.ru/uploads/images/00/11/84/2014/03/15/2807d4.jpg)  
-![That's all](http://mypitbike.ru/uploads/images/00/11/84/2014/03/15/b67b33.jpg)
+![The Beginning](../../static/img/67a014.jpg)  
+![Spent about 20 minutes on the first side](../../static/img/2791f2.jpg)  
+![And then the real challenge began with the second side](../../static/img/14ab78.jpg)  
+![Really didn't want to re-weld the muffler](../../static/img/3e75c3.jpg)  
+![The end is near](../../static/img/22ba2e.jpg)  
+![Work in Progress](../../static/img/1ebec1.jpg)  
+![Navigating the pipe was hell](../../static/img/2807d4.jpg)  
+![That's all](../../static/img/b67b33.jpg)

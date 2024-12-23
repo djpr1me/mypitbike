@@ -26,7 +26,7 @@ Where to buy: common size, available in auto parts stores, used in VAZ car gener
 
 #### Swingarm
 
-![LXR swingarm](http://mypitbike.ru/uploads/images/00/00/01/2014/01/16/292db9.jpg "LXR swingarm")
+![LXR swingarm](../../static/img/292db9.jpg "LXR swingarm")
 
 -
 
@@ -43,7 +43,7 @@ Where to buy: in specialized bearing stores, usually in stock.
 
 #### Progression Link
 
-![LXR progression link](http://mypitbike.ru/uploads/images/00/00/01/2014/01/16/931092.jpg "LXR progression link")
+![LXR progression link](../../static/img/931092.jpg "LXR progression link")
 
 -
 
@@ -57,7 +57,7 @@ Where to buy: in specialized bearing stores, usually in stock.
 Manufacturers: SKF, NTN, Koyo, etc.
 Where to buy: in specialized bearing stores, usually in stock.
 
-![LXR rear suspension diagram](http://mypitbike.ru/uploads/images/00/00/01/2014/01/16/b7a6b8.jpg "LXR rear suspension diagram")
+![LXR rear suspension diagram](../../static/img/b7a6b8.jpg "LXR rear suspension diagram")
 
 -
 
@@ -91,7 +91,7 @@ Where to buy: in specialized bearing stores.
 
 #### Triple Clamp (Steering Column)
 
-![upper triple clamp bearing 330/22](http://mypitbike.ru/uploads/images/00/00/01/2014/01/16/556575.jpg "upper triple clamp bearing 330/22")
+![upper triple clamp bearing 330/22](../../static/img/556575.jpg "upper triple clamp bearing 330/22")
 
 -
 
@@ -112,10 +112,10 @@ These are the most problematic bearings due to their non-standard size, not matc
 Manufacturer: Uncle Liao's Chinese factory.
 Where to buy: eBay ([for example](http://www.ebay.com/sch/i.html?_odkw=TAPERED%20BEARING%20330%2F22&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313&_nkw=TAPERED%20BEARING%20330%2F22%20330%2F23%2C5&_sacat=0))
 
-![bearings for PitsterPro LXR pit bike](http://mypitbike.ru/uploads/images/00/00/01/2014/01/16/c6bbef.jpg "bearings for PitsterPro LXR pit bike")
+![bearings for PitsterPro LXR pit bike](../../static/img/c6bbef.jpg "bearings for PitsterPro LXR pit bike")
 
 All bearings of "standard" sizes were purchased from Podshipnik.ru, where their specialist helped select everything according to catalogs, offering only original products without counterfeits, leaving a very pleasant impression. We bought high-quality Japanese bearings from **Koyo** and **NTN**.
 The team at Moto50 handled the repressing, doing everything neatly and efficiently. The most challenging was the lower triple clamp bearing, which was tightly pressed onto the axle and inaccessible with any puller.
 High-quality imported bearings come pre-packed with grease from the factory, whereas Chinese ones need to be lubricated manually - we used thick grease for wheel bearings, such as **Motul** blue or **Castrol** green. Additionally, during assembly, it is advisable to grease all axles and bolts used in the connections.
 
-![Castrol wheel bearing grease](http://mypitbike.ru/uploads/images/00/00/01/2014/01/16/b00843.jpg "Castrol wheel bearing grease")
+![Castrol wheel bearing grease](../../static/img/b00843.jpg "Castrol wheel bearing grease")
