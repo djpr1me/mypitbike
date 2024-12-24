@@ -1,0 +1,69 @@
+carb:
+  label: 'Carburetor'
+  permalink: '/carb'
+  description: 'Articles related to carburetor setup'
+
+engine:
+  label: 'Engine'
+  permalink: '/engine'
+  description: 'Articles related to bikes engine'
+
+suspension:
+  label: 'Suspension'
+  permalink: '/suspension'
+  description: 'Articles related to suspension'
+
+chassis:
+  label: 'Chassis'
+  permalink: '/chassis'
+  description: 'Articles related to bike chassis'
+
+chain:
+  label: 'Chain'
+  permalink: '/chain'
+  description: 'Articles related to chain'
+
+tire:
+  label: 'Tire'
+  permalink: '/tire'
+  description: 'Articles related to bike tires'
+
+oil:
+  label: 'Oil'
+  permalink: '/oil'
+  description: 'Articles related to motor oil and other lubes and fluids'
+
+brakes:
+  label: 'Brakes'
+  permalink: '/brakes'
+  description: 'Articles related to bike brakes'
+
+wheels:
+  label: 'Wheels'
+  permalink: '/wheels'
+  description: 'Articles related to wheels'
+
+valves:
+  label: 'Valves'
+  permalink: '/valves'
+  description: 'Articles related to engine valves'
+
+exhaust:
+  label: 'Exhaust'
+  permalink: '/exhaust'
+  description: 'Articles related to exhaust system'
+
+lights:
+  label: 'Lights'
+  permalink: '/lights'
+  description: 'Articles related to headlights'
+
+controls:
+  label: 'Сontrols'
+  permalink: '/controls'
+  description: 'Articles related to controls'
+
+stunt:
+  label: 'Stunt'
+  permalink: '/stunt'
+  description: 'Articles related to stunt riding'

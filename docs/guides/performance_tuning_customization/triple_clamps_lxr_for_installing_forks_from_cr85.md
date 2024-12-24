@@ -1,0 +1,12 @@
+# Triple clamps lxr for installing forks from cr85
+
+It is a well-known fact that the selection of suspension kits for the front fork of pit bikes is rather limited. Chinese forks like Fastace, DNM, replicas of Marzocchi, and the exotic TECH and ENGI are practically all that is available to the average pit biker. However, the main issue is the lack of consumables for repair and maintenance.  
+![Neken CNC PitsterPro LXR](../../../static/img/2c2977.jpg)  
+
+Yet, with the growing popularity of pit bikes and mid-size motorcycles, companies that manufacture tuning parts for larger motocross bikes are beginning to notice this emerging market.  
+![CNC Neken PitsterPro LXR Kayaba](../../../static/img/f76a68.jpg)  
+
+The French manufacturer Neken offers a solution to this problem with their CNC triple clamps for the PitsterPro LXR, designed to accommodate Kayaba forks from the Honda CR85. These forks have a vast array of tuning options, replacement cartridges, repair kits, nipples, and more, allowing for precise suspension adjustments tailored to the rider.  
+![CNC Neken PitsterPro LXR Kayaba](../../../static/img/d1acaa.jpg)  
+
+[Watch Video](http://www.youtube.com/watch?v=RYKBPJ-Cjow)
