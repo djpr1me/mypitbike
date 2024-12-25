@@ -107,16 +107,32 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Guides',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Maintenance & Repair',
+                to: '/docs/guides/',
+              },
+              {
+                label: 'Performance Tuning & Customization',
+                to: '/docs/guides/',
+              },
+              {
+                label: 'Technical & Modification Insights',
+                to: '/docs/guides/',
+              },
+              {
+                label: 'Buying & Comparison Guides',
+                to: '/docs/guides/',
+              },
+              {
+                label: 'Pit Bike Basics',
+                to: '/docs/guides/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Tech database',
             items: [
               {
                 label: 'Stack Overflow',
@@ -133,15 +149,36 @@ const config = {
             ],
           },
           {
+            title: 'Manuals',
+            items: [
+              {
+                label: 'Owner Manual',
+                to: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              },
+              {
+                label: 'Service Manual',
+                to: 'https://discordapp.com/invite/docusaurus',
+              },
+              {
+                label: 'Parts Diagram',
+                to: 'https://x.com/docusaurus',
+              },
+              {
+                label: 'Wiring Diagram',
+                to: 'https://x.com/docusaurus',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Russian source',
+                href: 'http://mypitbike.ru',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Contact Us',
+                href: '/contact',
               },
             ],
           },
