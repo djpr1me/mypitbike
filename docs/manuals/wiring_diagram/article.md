@@ -1,2 +1,0 @@
-# Content of the file
-
