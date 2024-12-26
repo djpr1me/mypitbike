@@ -1,8 +1,11 @@
 # New forks for pit bikes
 
 In the market of pit bike components, two new companies have emerged, offering their fork kits. The first company, **Bud Racing**, presents its 735mm fork kit for pit bikes with 45/48mm triple clamps.  
+
 ![bud racing](../../../static/img/127e32.jpg)  
+
 ![bud racing](../../../static/img/1fdca6.jpg)  
+
 ![bud racing](../../../static/img/bf6bbc.jpg)  
 
 **Total weight:** 5.6kg  
@@ -14,8 +17,11 @@ For Marzocchi-type axle with a diameter of 15mm
 The cost is **690 euros**. It is worth noting that **Bud Racing** also produces rear shock absorbers.
 
 The second newcomer in the pit bike component market is **TECH Suspension**.  
+
 ![TECH Suspension](../../../static/img/704077.jpg)  
+
 ![TECH Suspension](../../../static/img/02681a.jpg)  
+
 ![TECH Suspension](../../../static/img/26e5fa.jpg)  
 
 The fork is specially crafted for the **Bucci** racing team for the 2011/12 season.  

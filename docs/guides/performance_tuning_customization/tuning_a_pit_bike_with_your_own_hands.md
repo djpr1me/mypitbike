@@ -37,7 +37,3 @@ Install a performance CDI:
 Now, the engine's revolutions are in your hands, not the manufacturer's! This adjustment mitigates the speed loss caused by the chain modification. 
 
 Thus, the outcome: torque enhancement accompanies more dynamic acceleration without compromising top speed!
-
-Happy riding, everyone! Join our community over at [vk.com/pitmot](http://vk.com/pitmot)
-
-Warm regards, the team at [MotoDrive](http://vk.com/pitmot).
