@@ -1,4 +1,4 @@
-# Review of forsage 110, 125, 160 cross pit bikes
+# Review of Forsage 110, 125, 160 Cross Pit Bikes
 
 The topic of pit bikes has been known in Russia for a long time. However, it is only in the past couple of years that it has begun to develop more actively: sales have surged, and competitions have even started to be held. Despite the emergence of several new brands in the market, the Izhevsk pit bikes **Forsage** have been familiar to Russian buyers for quite some time.
 
@@ -31,72 +31,72 @@ As a result of the test and competitions, I can confidently assert that the moto
 
 ![Forsage 110/125/160 Cross](../../../static/img/e43f3e.jpg "Forsage 110/125/160 Cross")
 
-#### MOTORCYCLE SPECIFICATIONS
+## Motorcycle Specifications
 
-###### Forsage 110 Cross
+### Forsage 110 Cross
 
-**Engine:** 4-stroke, 1-cylinder, 2 valves, air-cooled, carburetor
-**Displacement:** 97 cc
-**Power:** 6 hp
-**Fuel tank capacity:** 3 liters
-**Frame:** Steel backbone
-**Transmission:** manual 4-speed
-**Front brake:** 1 disc, floating caliper
-**Front suspension:** telescopic
-**Rear brake:** 1 disc, floating caliper
-**Rear suspension:** shock absorber
-**Width:** 736 mm
-**Height:** 710 mm
-**Length:** 1430 mm
-**Wheelbase:** 965 mm
-**Front wheel:** 90/90 – 14
-**Rear wheel:** 90/90 - 12
-**Weight:** 50 kg
-**Maximum speed:** 80 km/h
+**Engine:** 4-stroke, 1-cylinder, 2 valves, air-cooled, carburetor  
+**Displacement:** 97 cc  
+**Power:** 6 hp  
+**Fuel tank capacity:** 3 liters  
+**Frame:** Steel backbone  
+**Transmission:** Manual 4-speed  
+**Front brake:** 1 disc, floating caliper  
+**Front suspension:** Telescopic  
+**Rear brake:** 1 disc, floating caliper  
+**Rear suspension:** Shock absorber  
+**Width:** 736 mm  
+**Height:** 710 mm  
+**Length:** 1430 mm  
+**Wheelbase:** 965 mm  
+**Front wheel:** 90/90 – 14  
+**Rear wheel:** 90/90 - 12  
+**Weight:** 50 kg  
+**Maximum speed:** 80 km/h  
 **Price:** 27,950 rubles
 
-###### Forsage 125 Cross
+### Forsage 125 Cross
 
-**Engine:** 4-stroke, 1-cylinder, 2 valves, air-cooled, carburetor
-**Displacement:** 124 cc
-**Power:** 6 hp
-**Fuel tank capacity:** 3 liters
-**Frame:** Steel backbone
-**Transmission:** manual 4-speed
-**Front brake:** 1 disc, floating caliper
-**Front suspension:** telescopic
-**Rear brake:** 1 disc, floating caliper
-**Rear suspension:** shock absorber
-**Width:** 810 mm
-**Height:** 1040 mm
-**Length:** 1700 mm
-**Wheelbase:** 1140 mm
-**Front wheel:** 60/100 - 14
-**Rear wheel:** 80/100 - 14
-**Weight:** 75 kg
-**Maximum speed:** 80 km/h
+**Engine:** 4-stroke, 1-cylinder, 2 valves, air-cooled, carburetor  
+**Displacement:** 124 cc  
+**Power:** 6 hp  
+**Fuel tank capacity:** 3 liters  
+**Frame:** Steel backbone  
+**Transmission:** Manual 4-speed  
+**Front brake:** 1 disc, floating caliper  
+**Front suspension:** Telescopic  
+**Rear brake:** 1 disc, floating caliper  
+**Rear suspension:** Shock absorber  
+**Width:** 810 mm  
+**Height:** 1040 mm  
+**Length:** 1700 mm  
+**Wheelbase:** 1140 mm  
+**Front wheel:** 60/100 - 14  
+**Rear wheel:** 80/100 - 14  
+**Weight:** 75 kg  
+**Maximum speed:** 80 km/h  
 **Price:** 34,950 rubles
 
-###### Forsage 160 Cross
+### Forsage 160 Cross
 
-**Engine:** 4-stroke, 1-cylinder, 2 valves, air-cooled, carburetor
-**Displacement:** 160 cc
-**Power:** 13.6 hp
-**Fuel tank capacity:** 3.5 liters
-**Frame:** Steel backbone
-**Transmission:** manual 4-speed
-**Front brake:** 1 disc, floating caliper
-**Front suspension:** telescopic
-**Rear brake:** 1 disc, floating caliper
-**Rear suspension:** shock absorber
-**Width:** 730 mm
-**Height:** 1030 mm
-**Length:** 1670 mm
-**Wheelbase:** 1200 mm
-**Front wheel:** 60/100 - 14
-**Rear wheel:** 80/100 - 14
-**Weight:** 68 kg
-**Maximum speed:** 80 km/h
+**Engine:** 4-stroke, 1-cylinder, 2 valves, air-cooled, carburetor  
+**Displacement:** 160 cc  
+**Power:** 13.6 hp  
+**Fuel tank capacity:** 3.5 liters  
+**Frame:** Steel backbone  
+**Transmission:** Manual 4-speed  
+**Front brake:** 1 disc, floating caliper  
+**Front suspension:** Telescopic  
+**Rear brake:** 1 disc, floating caliper  
+**Rear suspension:** Shock absorber  
+**Width:** 730 mm  
+**Height:** 1030 mm  
+**Length:** 1670 mm  
+**Wheelbase:** 1200 mm  
+**Front wheel:** 60/100 - 14  
+**Rear wheel:** 80/100 - 14  
+**Weight:** 68 kg  
+**Maximum speed:** 80 km/h  
 **Price:** 62,000 rubles
 
 *Moto Expert Magazine 11/11*

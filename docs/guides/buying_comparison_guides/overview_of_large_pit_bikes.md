@@ -67,8 +67,11 @@ While controls are consistently placed across the models, BSE notably arrives wi
 In the scoring bout, no knockouts occurred, but the points victory favored BSE.
 
 ![Overview of Large Pit Bikes](../../../static/img/7fc88a.jpg)
+
 ![Overview of Large Pit Bikes](../../../static/img/547ef3.jpg)
+
 ![Overview of Large Pit Bikes](../../../static/img/8ddee3.jpg)
+
 ![Overview of Large Pit Bikes](../../../static/img/9767ed.jpg)
 
 *The senior "Pitster" failed the power test, with neither displacement nor a 26-millimeter carburetor saving it; it bottomed out on the dyno. Despite removing the restrictor from the LX-5 160, the power slightly increased (curves marked with an asterisk) and settled into second place behind the Big-Mini.*

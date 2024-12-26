@@ -118,7 +118,7 @@ const config = {
                 to: '/docs/guides/',
               },
               {
-                label: 'Technical & Modification Insights',
+                label: 'Technical Insights',
                 to: '/docs/guides/',
               },
               {
