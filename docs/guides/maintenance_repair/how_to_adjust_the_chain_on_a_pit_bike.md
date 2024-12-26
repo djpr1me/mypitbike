@@ -9,9 +9,13 @@ tags:
 When purchasing a new bike, one of the initial tasks is to adjust the chain tension. This is a normal occurrence as the links tend to stretch slightly over time.
 
 1. Loosen the nuts on the rear axle.  
+ 
+
    ![adjusting pit bike chain](../../../static/img/9c6b667a1b.jpg)
 
-2. Evenly pull (slide) the wheel backward. On pit bikes, there are special tension bolts in the swingarm for this purpose. After each adjustment, check the chain slack. On an unloaded bike, it should be about 3-4 cm. When it seems everything is ready, sit on the bike facing backward and check the chain tension. It will inevitably tighten as the swingarm changes position. In this position, it should not be too tight, as this is only 30-50% of the shock absorber's compression. At 80% compression (upon landing), the chain might break. Therefore, while sitting on the bike, the chain should still have a slight play.  
+2. Evenly pull (slide) the wheel backward. On pit bikes, there are special tension bolts in the swingarm for this purpose. After each adjustment, check the chain slack. On an unloaded bike, it should be about 3-4 cm. When it seems everything is ready, sit on the bike facing backward and check the chain tension. It will inevitably tighten as the swingarm changes position. In this position, it should not be too tight, as this is only 30-50% of the shock absorber's compression. At 80% compression (upon landing), the chain might break. Therefore, while sitting on the bike, the chain should still have a slight play.
+ 
+ 
    ![adjusting pit bike chain](../../../static/img/754421af1d.jpg)
 
 To simplify the process, **ask a friend to sit on the bike** while you adjust the chain.  
