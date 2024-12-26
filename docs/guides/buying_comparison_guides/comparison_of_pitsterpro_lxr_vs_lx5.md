@@ -1,4 +1,4 @@
-# Comparison of pitsterpro (lxr vs lx5)
+# Comparison of PitsterPro (LXR vs LX5)
 
 ## Detailed Comparison: PitsterPro LXR (Original USA) vs PitsterPro LX5 (Pitmoto)
 
