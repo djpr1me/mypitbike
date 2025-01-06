@@ -1,3 +1,8 @@
+---
+tags:
+- suspension
+---
+
 # New forks for pit bikes
 
 In the market of pit bike components, two new companies have emerged, offering their fork kits. The first company, **Bud Racing**, presents its 735mm fork kit for pit bikes with 45/48mm triple clamps.  

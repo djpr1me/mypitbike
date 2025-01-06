@@ -1,3 +1,8 @@
+---
+tags:
+- legacy
+---
+
 # The History of Pit Bikes
 
 Initially, the term "pit bike" referred to bicycles used by racers and mechanics to navigate the pit areas during competitions (pit – from English). The pits are designated areas on a racetrack for working on cars or motorcycles during training, testing, and races. In the pits, vehicles are prepared for the track, including quick parameter checks, suspension adjustments, aerodynamic element tuning, and field repairs. The pit area also includes the pit lane, where vehicles stop during pit stops.

@@ -1,3 +1,8 @@
+---
+tags:
+- legacy
+---
+
 # Pit Bike: The Evolutionary Journey
 
 Pit bikes have existed in various forms for many years. Their inception can be traced back to the ingenuity of lazy mechanics and racers who adapted small motorcycles for navigating the vast expanses of the pits. Today, pit bikes have evolved into a full-fledged class of motorcycles and have their own racing series. So, where did it all begin?

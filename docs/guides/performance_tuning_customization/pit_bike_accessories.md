@@ -1,3 +1,12 @@
+---
+tags:
+- brakes
+- carb
+- wheels
+- controls
+- chain
+---
+
 # Pit bike accessories
 
 Small delightful pleasures that can uplift the owner's mood and enhance the pet's appearance and performance. 

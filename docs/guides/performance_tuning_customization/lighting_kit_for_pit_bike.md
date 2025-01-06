@@ -1,3 +1,8 @@
+---
+tags:
+- lights
+---
+
 # Lighting kit for pit bike
 
 On the pages of our website, we have previously discussed how to install lights on a pit bike and the available ready-made solutions. Recently, however, we came across this particular kit.

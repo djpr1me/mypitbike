@@ -1,3 +1,8 @@
+---
+tags:
+- brakes
+---
+
 # Enhanced rear caliper from an atv
 
 A week ago, I was inspired to install a rear caliper on my pit bike (since it didn't have one at all). This led to trips to stores, price comparisons, and so on. I chose a reasonably priced yet efficient caliper from a Chinese 250cc quad bike (the set included the caliper, hose, and a handlebar-mounted brake master cylinder), essentially a complete kit I needed. The cost was around 2000 rubles for the set, plus 1000 rubles for an extended braided brake hose to ensure the entire setup fit properly (for example, the original caliper from a TTR125 costs 2500 rubles, the master cylinder 2500 rubles, and the hose 1000 rubles), resulting in significant savings... but oh my gods!!!

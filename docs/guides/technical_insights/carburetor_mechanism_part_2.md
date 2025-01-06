@@ -1,3 +1,8 @@
+---
+tags:
+- carb
+---
+
 # Carburetor Mechanism (Part 2)
 
 ## Sliding Throttle Carburetor Systems

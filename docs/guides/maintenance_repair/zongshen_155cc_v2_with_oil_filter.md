@@ -1,3 +1,8 @@
+---
+tags:
+- engine
+---
+
 # Zongshen 155cc V2 with Oil Filter
 
 Technical Specifications: Zongshen 155cc Version 2 with oil filter. Mountings are identical to CRF50/70 frames, suitable for all pit bikes.

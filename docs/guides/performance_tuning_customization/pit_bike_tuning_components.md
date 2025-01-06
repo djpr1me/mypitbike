@@ -1,3 +1,9 @@
+---
+tags:
+- brakes
+- suspension
+---
+
 # Pit bike tuning components
 
 The Italian company Formula has unveiled its tuning kits for pit bikes. Formula was established in 1987 by Andrea Becocci and Daniela Frati in the city of Prato, Italy. Initially, the company focused on manufacturing high-quality wheels and brake kits for motorcycles. However, in 1993, a pivotal decision was made to produce brake discs for mountain bikes, marking a turning point in the company's history. Today, Formula produces top-tier components (brake discs, fork tubes, wheels, etc.) for bicycles and motorcycles, successfully competing with leading manufacturers of tuning components. Currently, Formula offers the following tuning for pit bikes:

@@ -87,7 +87,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Knowledge base',
+            label: 'Guides',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'techSidebar',
+            position: 'left',
+            label: 'Tech database',
           },
           {
             type: 'docSidebar',
@@ -177,8 +183,8 @@ const config = {
                 href: 'http://mypitbike.ru',
               },
               {
-                label: 'Contact Us',
-                href: '/contact',
+                label: 'About Us',
+                href: '/about',
               },
             ],
           },

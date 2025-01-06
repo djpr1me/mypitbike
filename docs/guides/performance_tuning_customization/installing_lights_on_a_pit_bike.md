@@ -1,3 +1,8 @@
+---
+tags:
+- lights
+---
+
 # Installing lights on a pit bike
 
 I decided to install lighting on my Geon X Pit 150 Pro 2014. After spending an hour or two browsing forums on the subject, I gathered my thoughts and headed to the garage to remove the plastic to access the wiring. Upon removing the plastic, I discovered that seven wires were coming from the generator, three of which were capped off. I only needed the two yellow wires, which were connected to each other but not grounded (though there is a possibility they could be connected to each other and grounded as well).

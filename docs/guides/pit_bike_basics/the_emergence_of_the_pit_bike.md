@@ -1,3 +1,8 @@
+---
+tags:
+- legacy
+---
+
 # The Emergence of the Pit Bike
 
 The emergence of the pit bike can be traced back to the advent of pit lanes in racing. A pit lane is a section of the racetrack where the team garages are located. During race preparations and the race itself, mechanics, staff, or racers used makeshift transportation to move around the pit lane and the track area.

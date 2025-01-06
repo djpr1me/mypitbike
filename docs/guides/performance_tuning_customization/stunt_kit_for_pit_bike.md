@@ -1,3 +1,11 @@
+---
+tags:
+- chassis
+- stunt
+- brakes
+- controls
+---
+
 # Stunt Kit for Pit Bike
 
 The team at **ThisSideUp** has crafted a set of components to transform a pit bike into a stunt machine. This kit includes a reinforced subframe with a grab bar, aluminum rider footpegs, rear footpegs, an adapter for an additional brake caliper, pegs for the front and rear axles, and a device for easy clutch engagement.

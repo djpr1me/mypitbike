@@ -1,3 +1,9 @@
+---
+tags:
+- chassis
+- stunt
+---
+
 # Example of creating a removable clamp
 
 Hello, I spent a long time searching for how and where to make a bracket. Ultimately, I decided to craft it myself using materials available in my garage.

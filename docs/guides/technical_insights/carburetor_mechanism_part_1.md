@@ -1,3 +1,8 @@
+---
+tags:
+- carb
+---
+
 # Carburetor Mechanism (Part 1)
 
 **A Moment of Classic Insight:**

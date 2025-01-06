@@ -1,3 +1,10 @@
+---
+tags:
+- legacy
+- chassis
+- wheels
+---
+
 # What is a Pit Bike?
 
 **What is a pit bike?** A pit bike is a type of motorcycle designed for enthusiasts of mini-motocross or mini-supermoto, as well as for beginner motorcyclists.

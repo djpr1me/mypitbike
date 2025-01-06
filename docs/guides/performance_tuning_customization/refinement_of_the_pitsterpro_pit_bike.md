@@ -1,3 +1,9 @@
+---
+tags:
+- filter
+- spark
+---
+
 # Refinement of the PitsterPro Pit Bike
 
 Today, we'll discuss upgrading a pit bike for long-term, trouble-free operation. We will be upgrading the **PitsterPro** pit bike straight "out of the box."

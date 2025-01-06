@@ -1,3 +1,11 @@
+---
+tags:
+- brakes
+- stunt
+- chassis
+- controls
+---
+
 # Transforming a Pit Bike for Stunt Riding
 
 Transformation of a pit bike for stunting. The base model chosen was the JMC 125 MX 2013, but since it arrived only in May, right at the onset of the season, I had to expedite the modifications! To ensure this topic is as useful as possible, I will provide all possible links throughout the text to the parts I acquired, so let's get started...

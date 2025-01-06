@@ -1,3 +1,9 @@
+---
+tags:
+- oil
+- wheels
+---
+
 # Preparing for winter
 
 The winter season has arrived, and I wish to extend my congratulations to all who will continue riding as if it were summer, with maximum grip and enjoyment! For us, this winter season of 2013 is planned to be as comfortable as possible, which means that first and foremost, we must **proactively** ensure we have warm clothing and prepare our bikes for the weather conditions. Dressing warmly and comfortably is not particularly challenging, but preparing the pit bike is a task. Let's begin:

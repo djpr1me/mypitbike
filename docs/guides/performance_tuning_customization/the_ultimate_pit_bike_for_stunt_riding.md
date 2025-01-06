@@ -1,3 +1,13 @@
+---
+tags:
+- brakes
+- stunt
+- chassis
+- suspension
+- engine
+- carb
+---
+
 # The Ultimate Pit Bike for Stunt Riding
 
 Meet Anton Bocharov, Almaty, 34 years old

@@ -1,3 +1,9 @@
+---
+tags:
+- chassis
+- stunt
+---
+
 # Removable clamp for pit bike
 
 **The inception of my grab rail commenced with the acquisition of a 6-meter pipe, possessing an internal diameter of 15 mm and an external diameter of 21 mm. Utilizing the upper section of the factory subframe as a foundation allowed us to avoid modifications to the mounting points for the seat plastic and battery box.**

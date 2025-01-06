@@ -1,3 +1,10 @@
+---
+tags:
+- engine
+- valves
+- exhaust
+---
+
 # Pit bike engine tuning
 
 If you type "Honda Super Cub" into a search engine, you'll find dozens of fan club websites for this machine. Their non-virtual love is fueled by an abundance of tuning firms supplying the necessary "hardware."

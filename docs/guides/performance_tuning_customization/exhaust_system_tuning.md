@@ -1,3 +1,8 @@
+---
+tags:
+- exhaust
+---
+
 # Exhaust system tuning
 
 Possible options for tuning the pit bike exhaust. Prices are listed in euros.

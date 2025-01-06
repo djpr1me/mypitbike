@@ -1,3 +1,9 @@
+---
+tags:
+- brakes
+- chain
+---
+
 # PitsterPro LX5 Spare Parts Alternatives
 
 How to Replace Parts When Original Components Are Unavailable. Gathering Information Together.

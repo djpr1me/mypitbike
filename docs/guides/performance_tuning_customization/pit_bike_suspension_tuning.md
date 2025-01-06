@@ -1,3 +1,8 @@
+---
+tags:
+- suspension
+---
+
 # Pit bike suspension tuning
 
 Once the engine's power is maximized, the focus shifts to the chassis. In racing, controlling the motorcycle is crucial, as tracks vary greatly, and riders differ in weight and riding style. The suspension is arguably the second most important aspect after the engine's power. Following the lead of Ohlins, other manufacturers from both Europe and China have begun offering their own shock absorber kits for pit bikes. 

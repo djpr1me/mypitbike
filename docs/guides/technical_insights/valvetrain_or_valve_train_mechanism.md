@@ -1,3 +1,9 @@
+---
+tags:
+- engine
+- valves
+---
+
 # Valvetrain or Valve Train Mechanism
 
 Valvetrain -- a combination of components that transmit motion. A traditional solution for internal combustion engines, utilizing valves to control air and fuel intake and exhaust from the cylinder, facilitating the combustion of their mixture. The valve mechanism of the gas distribution system. To achieve maximum engine efficiency, it is essential to assemble the correct combination of valvetrain components.

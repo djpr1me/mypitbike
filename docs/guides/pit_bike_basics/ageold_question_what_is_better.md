@@ -1,3 +1,10 @@
+---
+tags:
+- chassis
+- wheels
+- stunt
+---
+
 # Age-Old Question: What Is Better?
 
 Rather than delving into lengthy discourses about what a pit bike is and extolling its virtues—since numerous articles already abound online—I encourage taking the time to investigate. Reflecting on those article authors conjures an image of a sales consultant with a slick smile, whose aim isn't to elucidate the true nature of pit bikes, but rather to exalt them as the ultimate form of transportation that everyone must acquire. But I digress; that's not our focus today. In this article, I intend to clarify the intricacies of choosing a pit bike, encompassing various brands and sellers.

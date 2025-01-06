@@ -1,3 +1,9 @@
+---
+tags:
+- engine
+- valves
+---
+
 # Engine tuning for honda cub
 
 Today, the Russian market is flooded with "fifty-fifties" (50cc engines). There are countless options for used Japanese models and new Chinese models, but almost all of them come with the old, reliable, yet not very powerful, four-stroke Honda engine. Adding a fresh horsepower to this weak team isn't too difficult or costly.

@@ -1,3 +1,8 @@
+---
+tags:
+- engine
+---
+
 # Water-Cooled Engine by Bucci Moto
 
 The Italian master engine builder, **Claudio Bucci** from Bucci Moto, has engineered a remarkable racing engine for the pit bike **Bucci Racing F4**. With a displacement of 150 cc, it features a Unicam head with four valves and **liquid cooling**!

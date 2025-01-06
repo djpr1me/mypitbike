@@ -1,3 +1,8 @@
+---
+tags:
+- suspension
+---
+
 # Ohlins suspension for pit bikes
 
 The Swedish company Ohlins, renowned for its superior shock absorbers for motocross, sport bikes, ATVs, as well as road motorcycles, has unveiled its innovations for the pit bike class.

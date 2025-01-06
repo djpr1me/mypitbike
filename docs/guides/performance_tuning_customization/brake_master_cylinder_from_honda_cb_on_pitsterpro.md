@@ -1,3 +1,8 @@
+---
+tags:
+- brakes
+---
+
 # Brake master cylinder from honda cb on pitsterpro
 
 It so happened that the rear caliper overheated; the equipment is new, still not fully broken in and adjusted. As a result, the hydraulic line melted from the heat. I replaced the hose, but couldn't bleed it with the stock pump, tried both injecting and extracting with a syringe.

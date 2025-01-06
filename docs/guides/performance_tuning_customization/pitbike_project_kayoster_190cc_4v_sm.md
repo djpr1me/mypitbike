@@ -1,3 +1,11 @@
+---
+tags:
+- wheels
+- engine
+- brakes
+- chain
+---
+
 # Pitbike Project: Kayoster 190cc 4V SM
 
 Today, we shall delve into an intriguing project: the transformation of a **supermoto pit bike based on the Kayo 140cc**, equipped with a **Zongshen 160cc** engine and a customized **four-valve Devil Head cylinder head**. The project was undertaken during the winter of 2013-2014.

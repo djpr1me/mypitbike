@@ -1,3 +1,9 @@
+---
+tags:
+- chassis
+- stunt
+---
+
 # How to weld a bracket for a pit bike
 
 Hello everyone. I have once again decided to acquire a two-wheeled companion and start a blog. Previously, I had a variety of bikes, including Chinese, Japanese, Korean, American, etc. The most memorable was the Rox, on which I began my first lessons in stunting.

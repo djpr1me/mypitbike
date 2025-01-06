@@ -1,3 +1,9 @@
+---
+tags:
+- rules
+- legacy
+---
+
 # Key Performance Criteria
 
 **Brake Mean Effective Pressure (BMEP)** is a highly effective metric for comparing the performance of one engine type against another of the same type, as well as for evaluating the justification for performance demands or conditions. BMEP is defined as the average pressure uniformly acting on the piston throughout its stroke, from the top to the bottom of each working cycle, to produce the measured brake output.

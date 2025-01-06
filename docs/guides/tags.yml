@@ -67,3 +67,43 @@ stunt:
   label: 'Stunt'
   permalink: '/stunt'
   description: 'Articles related to stunt riding'
+
+clutch:
+  label: 'Clutch'
+  permalink: '/clutch'
+  description: 'Articles related to clutch'
+
+piston:
+  label: 'Piston'
+  permalink: '/piston'
+  description: 'Articles related to piston'
+
+rules:
+  label: 'Rules'
+  permalink: '/rules'
+  description: 'Articles related to rules'
+
+legacy:
+  label: 'Legacy'
+  permalink: '/legacy'
+  description: 'Articles detailing the history and evolution of pit bikes, offering insights into their legacy'
+
+cooler:
+  label: 'Cooler'
+  permalink: '/cooler'
+  description: 'Articles related to cooler'
+
+filter:
+  label: 'Filter'
+  permalink: '/filter'
+  description: 'Articles related to air and fuel filters'
+
+spark:
+  label: 'Spark'
+  permalink: '/spark'
+  description: 'Articles related to spark plugs'
+
+wiring:
+  label: 'Wiring'
+  permalink: '/wiring'
+  description: 'Articles related to electric wiring'

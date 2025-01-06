@@ -1,3 +1,8 @@
+---
+tags:
+- wheels
+---
+
 # Wheels for Pit Bikes
 
 Currently, almost all renowned companies have released their own wheel sets for pit bikes. Here are some of them.

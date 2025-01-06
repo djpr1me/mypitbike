@@ -1,3 +1,8 @@
+---
+tags:
+- clutch
+---
+
 # Refinement of Pit Bike Clutch
 
 Leading manufacturers of pit bike tuning kits also offer clutch tuning sets.
