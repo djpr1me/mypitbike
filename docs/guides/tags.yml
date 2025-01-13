@@ -107,3 +107,43 @@ wiring:
   label: 'Wiring'
   permalink: '/wiring'
   description: 'Articles related to electric wiring'
+
+review:
+  label: 'Review'
+  permalink: '/riring'
+  description: 'Articles related to bike reviews'
+
+bbr:
+  label: 'BBR'
+  permalink: '/bbr'
+  description: 'Articles related to BBR bikes'
+
+ycf:
+  label: 'YCF'
+  permalink: '/ycf'
+  description: 'Articles related to YCF bikes'
+
+pitsterpro:
+  label: 'PitsterPro'
+  permalink: '/pitsterpro'
+  description: 'Articles related to Pitster Pro bikes'
+
+kayo:
+  label: 'Kayo'
+  permalink: '/kayo'
+  description: 'Articles related to Kayo bikes'
+
+stomp:
+  label: 'Stomp'
+  permalink: '/stomp'
+  description: 'Articles related to Stomp bikes'
+
+honda:
+  label: 'Honda'
+  permalink: '/honda'
+  description: 'Articles related to Honda bikes'
+
+bse:
+  label: 'BSE'
+  permalink: '/bse'
+  description: 'Articles related to BSE bikes'

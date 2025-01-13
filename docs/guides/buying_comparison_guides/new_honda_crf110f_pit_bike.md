@@ -1,3 +1,9 @@
+---
+tags:
+- review
+- honda
+---
+
 # New Honda CRF110F Pit Bike
 
 Honda unveils the new CRF110F pit bike.

@@ -1,3 +1,9 @@
+---
+tags:
+- review
+- pitsterpro
+---
+
 # PitsterPro LX5A 160 Motard
 
 I placed an order in mid-August at Pitmoto, making a 30% down payment. They promised an earlier delivery, but the bikes arrived in Moscow precisely at the contract's end date. Sales commenced on November 1st. After bank transfers, holidays, and delivery, I picked it up on the 11th. Just assembled it. Haven't started it yet. Here's what I can say right away.

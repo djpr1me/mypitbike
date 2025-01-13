@@ -1,3 +1,9 @@
+---
+tags:
+- review
+- bse
+---
+
 # Pit bikes by BSE
 
 ## BSE Pit Bikes: A Renowned Brand in Russia

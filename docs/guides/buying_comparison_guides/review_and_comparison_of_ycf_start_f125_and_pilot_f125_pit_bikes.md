@@ -1,3 +1,9 @@
+---
+tags:
+- review
+- ycf
+---
+
 # Review and Comparison of YCF Start F125 and Pilot F125 Pit Bikes
 
 The fundamental distinction between these two minibikes lies in two parameters: the frame and the rear shock absorber.

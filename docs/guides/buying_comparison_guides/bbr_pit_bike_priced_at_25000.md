@@ -1,3 +1,10 @@
+---
+tags:
+- rules
+- review
+- bbr
+---
+
 # Bbr pit bike priced at $25,000
 
 ![BBR CRF190](../../../static/img/0c5c6d.jpg)

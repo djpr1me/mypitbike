@@ -1,3 +1,9 @@
+---
+tags:
+- review
+- pitsterpro
+---
+
 # What is the PitsterPro from Pitmoto?
 
 It is well-known that there are differences between the American **PitsterPro** (made in USA) and the Russian imports sold at Pitmoto. How significant is the difference and what does it entail? Let's delve into the distinctions between the American and Russian PitsterPro.

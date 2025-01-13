@@ -1,3 +1,12 @@
+---
+tags:
+- chassis
+- suspension
+- brakes
+- engine
+- pitsterpro
+---
+
 # Comparison of PitsterPro (LXR vs LX5)
 
 ## Detailed Comparison: PitsterPro LXR (Original USA) vs PitsterPro LX5 (Pitmoto)

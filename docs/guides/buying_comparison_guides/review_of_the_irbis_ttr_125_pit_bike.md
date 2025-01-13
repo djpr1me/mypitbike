@@ -1,3 +1,8 @@
+---
+tags:
+- review
+---
+
 # Review of the Irbis TTR 125 Pit Bike
 
 ![Irbis TTR 125](../../../static/img/6d9b64.jpg "Irbis TTR 125")

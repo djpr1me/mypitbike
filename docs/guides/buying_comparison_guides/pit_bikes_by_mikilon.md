@@ -1,3 +1,8 @@
+---
+tags:
+- review
+---
+
 # Pit bikes by Mikilon
 
 What do we know about Mikilon pit bikes? Not as much as we would like. Some praise them for their reliability and quality, while others are deterred by the name and country of origin. Let's first explore who manufactures them and what models are available in the market. **Zhe Jiang ChaoZhong Industrial Co., LTD** was established on January 8, 1997, as a subsidiary of the **Superman Group**. Initially, they focused on producing small household appliances and trading in electrical tools. After five years of development, the company gained confidence in the market and amassed capital for further growth.

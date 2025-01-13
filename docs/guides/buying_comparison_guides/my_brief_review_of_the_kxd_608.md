@@ -1,3 +1,8 @@
+---
+tags:
+- review
+---
+
 # My brief review of the kxd 608
 
 ## My Experience with the 124 cc Pit Bike

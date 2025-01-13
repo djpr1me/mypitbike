@@ -1,3 +1,12 @@
+---
+tags:
+- review
+- controls
+- suspension
+- chain
+- kayo
+---
+
 # Kayo 140: A Review of its Shortcomings
 
 In October, we purchased six Kayo 140 pit bikes over a period of time—five motocross models and one motard. As motocross enthusiasts, a test on the old motocross track couldn't wait. But first, a prelude. After acquiring the bikes and bringing them to the garage, we undertook a thorough inspection and checking of fastenings. Assembly at the warehouse varies with seller and factory worker moods in China. Tighten everything meticulously, especially the rear sprocket. Even secured by a lockplate, you’ll be surprised how much more the bolts can tighten once you remove the lock. This is crucial! I also highly recommend lubricating the cables, especially the clutch cable. This will eliminate unpleasant noises and significantly extend its lifespan.

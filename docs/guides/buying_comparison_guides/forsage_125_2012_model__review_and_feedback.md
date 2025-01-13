@@ -1,3 +1,8 @@
+---
+tags:
+- review
+---
+
 # Forsage 125: 2012 model - review and feedback
 
 ## Forsage 125 Cross / Super Moto: An Overview

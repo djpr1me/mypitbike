@@ -1,157 +1,156 @@
-### Питбайки YCF
+---
+tags:
+- review
+- ycf
+---
 
-![Питбайки YCF Франция](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/d0e617.png)
+### YCF Pit Bikes
 
-#### История компании
+![YCF Pit Bikes France](../../../static/img/d0e617.png)
 
-![Старый логотип YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/dfe116.png)
+#### Company's History
 
-- **2004** – основание компании
-- **2005** – начальный модельный ряд
-- **2006** – начало сотрудничества с **Marzocchi** Италия
-- **2007** – обновление логотипа YCF и новая графика
-- **2008** – разработка бренда
-- **2009** – создание завода в Китае
-- **2010** – создание фабрики в Китае по производству CNC деталей
-- **2011** – новое здание компании во Франции
-- **2012** – начало сотрудничества с европейскими импортерами **Daytona** и **ENGI**
-- **2013** – ожидание перспектив международного роста
+![Old YCF Logo](../../../static/img/dfe116.png)
 
-Компания **YCF** ведет свои истоки с начала сотрудничества французского кроссмена **Yannick Coquard** и французского инженера, любителя минибайков, **Dimitri Bera**, в настоящее время проживающим в Китае. Вместе они создают первый питбайк YCF с целью выпустить на рынок мотоциклы доступные всем и каждому. Первые питбайки были импортированы во Францию для серии испытаний с последующими изменениями для улучшения производительности и надежности.
+- **2004** – Company founded
+- **2005** – Initial model lineup
+- **2006** – Collaboration with **Marzocchi** Italy begins
+- **2007** – YCF logo update and new graphics
+- **2008** – Brand development
+- **2009** – Factory established in China
+- **2010** – Establishment of CNC component production facility in China
+- **2011** – New company building in France
+- **2012** – Collaboration with European importers **Daytona** and **ENGI**
+- **2013** – Anticipating international growth prospects
 
-#### 2004 Питбайки дебютируют во Франции
+**YCF** traces its roots to the collaboration between French motocross rider **Yannick Coquard** and French minibike enthusiast engineer **Dimitri Bera**, currently residing in China. Together, they developed the first YCF pit bike with the goal of providing affordable motorcycles accessible to all. The first pit bikes were imported into France for testing and subsequent performance and reliability improvements.
 
-Благодаря ряду преимуществ питбайков, перед полноразмерными мотоциклами, они быстро начинают набирать популярность во Франции:
+#### 2004 Pit Bikes Debut in France
 
-- Легкий вес, делает транспортировку простой
-- Низкая цена, доступность
-- Простое и не дорогое обслуживание
-- Идеально подходят начинающим для обучения пилотирования
-- Веселый вид спорта, доступный всем
-- Отличный способ совершенствования навыков вождения
-- А самое главное – питбайки могут использоваться для тренировок круглый год, даже в зимний период времени
+Thanks to several advantages over full-sized motorcycles, pit bikes quickly gained popularity in France:
 
-#### 2005/2006 Первая модельная линейка
+- Lightweight for easy transport
+- Affordable pricing
+- Simple and inexpensive maintenance
+- Ideal for beginners learning to ride
+- A fun sport accessible to everyone
+- Great for improving driving skills
+- Train year-round, even during winter
 
-![Первые питбайки YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/fc0b5f.png)
+#### 2005/2006 First Model Lineup
 
-Первоначальная линейка состояла из трех моделей. В 2005 году Дэвид присоединился к компании и взял на себя ответственность за техническую разработку питбайков и пересмотрел условия отправки запчастей и послепродажного обслуживания.
+![First YCF Pit Bikes](../../../static/img/fc0b5f.png)
 
-#### 2006 Сотрудничество с Marzocchi
+The initial lineup consisted of three models. In 2005, David joined the company, taking responsibility for the technical development of pit bikes and revamping spare part shipping and after-sales service processes.
 
-![marzocchi](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/da3ad2.png)
+#### 2006 Collaboration with Marzocchi
 
-Сотрудничество с крупнейшим итальянским поставщиком комплектов подвесок **Marzocchi** добавило бренду YCF доверия и залога надежности и серьезности. Линейка мотоциклов увеличилась до 6 моделей. Увеличилась дилерская сеть.
+![Marzocchi](../../../static/img/da3ad2.png)
 
-![Перья Marzocchi](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/26908a.png)
+Partnership with Italian suspension kit supplier **Marzocchi** bolstered YCF's reputation and trustworthiness. The motorcycle lineup grew to six models, expanding the dealer network.
 
-#### Модельная линейка 2007 года
+![Marzocchi Forks](../../../static/img/26908a.png)
 
-![Питбайки YCF в 2007 году](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/08a68f.png)
+#### 2007 Model Lineup
 
-#### 2008 Лучший год для компании
+![YCF Pit Bikes 2007](../../../static/img/08a68f.png)
 
-Сотрудничество с французским видео-режиссером **François Alaux**, получившим Оскара за короткометражку «Logorama» в 2009 году, привнесло новые значительные изменения:
+#### 2008 Best Year for the Company
 
-- Редизайн логотипа компании
-- Разработка пластикового обвеса собственной формы
+Collaboration with French video director **François Alaux**, who won an Oscar for the short film "Logorama" in 2009, led to significant changes:
 
-![Пластик YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/1a23ae.png)
+- Company logo redesign
+- Development of unique plastic fairings
 
-- Разработка рамы с интегрированным фильтрбоксом (первая в мире)
+![YCF Plastic](../../../static/img/1a23ae.png)
 
-![Фильтрбокс YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/57d160.png)
+- Development of a frame with an integrated filter box (a world first)
 
-- Обновленная форма подвески
-- Первый в мире фристайл ротор для питбайка
+![YCF Filter Box](../../../static/img/57d160.png)
 
-![Фристайл ротор YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/9aa4a7.png)
+- Updated suspension design
+- First freestyle rotor for a pit bike
 
-Помимо этого компания YCF объединяет усилия с **One Industries**, которые подготавливают графику для пластика. География расширяется, питбайки YCF экспортируют в Австрию и Морокко.
+![YCF Freestyle Rotor](../../../static/img/9aa4a7.png)
 
-#### Модельная линейка 2008 года
+YCF also teamed up with **One Industries** for graphics preparation on plastics. The export range expanded to Austria and Morocco.
 
-![Модельная линейка YCF 2008](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/88e47e.png)
+#### 2009 China Factory Formation
 
-#### 2009 Формирование завода в Китае
+YCF becomes a full-fledged pit bike manufacturer.
 
-YCF становиться полноценным производителем питбайков
+![YCF Factory in China](../../../static/img/3e95ba.png)
 
-![Завод YCF в Китае](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/3e95ba.png)
+A factory spanning 2,500 square meters was built, establishing spare part production for post-warranty service and repair. An assembly line was set up for maximum quality. The workforce consists of 30 employees. The motorcycle lineup expanded to seven models.
 
-Был построен завод, площадью в 2500 кв. метров. Налажено производство запчастей для послегарантийного обслуживания и ремонта. Сформирован и настроен сборочный конвейер, для достижения максимально возможного качества. Высококвалифицированный персонал насчитывает 30 сотрудников. Линейка мотоциклов увеличилась до 7 моделей.
+#### 2010 Brand Establishment
 
-#### 2010 Становление бренда
+Two new importers appeared in Finland and Spain. The lineup expanded to nine pit bikes. All parts are produced in-house. Collaboration with **Elka**, a Canadian suspension element manufacturer, began.
 
-Появилось два новых импортера в Финляндии и Испании. Модельный ряд вырос до 9 питбайков. Все детали производятся только на собственном заводе. Начало сотрудничества с **Elka**, канадским производителем элементов подвески.
+![Elka](../../../static/img/bbd0e2.png)
 
-![Elka](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/bbd0e2.png)
+YCF created its own testing ground in China.
 
-Создание собственного тестового полигона в Китае.
+![Testing Ground in China](../../../static/img/7a8187.png)
 
-![Тестовый полигон в Китае](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/7a8187.png)
+The factory area expanded to 5,000 square meters, and staff grew to 50. Land was leased for a CNC parts production plant (subframes, triple clamps, etc.).
 
-Площадь завода была увеличена до 5000 кв. метров, а количество сотрудников до 50 человек. Аренда территории для создания завода по производству CNC деталей (подножки, траверсы и пр.)
+#### 2011 Establishment of CNC Parts Production
 
-#### 2011 Формирование завода по производству CNC деталей
+![CNC Production YCF](../../../static/img/86dad2.png)
 
-![Производство CNC деталей YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/86dad2.png)
+YCF invests in a CNC parts manufacturing plant, occupying 600 square meters at the Chinese factory. The trained staff numbers six. Investments in equipment procurement commenced, leading to the production of anodized aluminum parts (hubs, pegs, shift levers, fuel caps, triple clamps, sprockets).
 
-YCF инвестирует в создание завода по производству CNC деталей
-600 кв. метров территории завода в Китае. Обученный персонал в количестве 6 человек. Инвестиции в закупку оборудования. Начало производства анодированных алюминиевых запчастей (ступицы, подножки, лапки переключения, пробки бензобака, траверсы, звезды)
+![YCF Factory Products](../../../static/img/1045ea.png)
 
-![Продукция завода YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/1045ea.png)
+#### 2011 New Premises in France
 
-#### 2011 Новое помещение во Франции
+![YCF Facility in France](../../../static/img/e784ca.png)
 
-![Помещение YCF во Франции](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/e784ca.png)
+The product range swelled to ten pit bikes. A new 1,500-square-meter warehouse stores assembled pit bikes and individual parts. The premises feature three tracks and a showroom where dealers can test new pit bike models on-site.
 
-Продуктовая линейка увеличена до 10 питбайков. Новое складское помещение, размером 1500 кв. метров, для хранения уже собранных питбайков и отдельных запчастей. Создание 3 треков и выставочного зала, что позволит дилерам протестировать новые модели питбайков на месте.
+#### 2012 Growth Prospects
 
-#### 2012 Перспективы роста
-
-Новые модели питбайков 2012 года:
+New 2012 pit bike models:
 
 - 88 YCF Pilot
-- 50cc YCF предназначенный для детей от 5 лет, легкий мотоцикл, оборудованный электростартером, рычагом заднего тормоза на руле и регулируемым дросселем, что позволит родителям ограничивать скорость питбайка
-- Проектирование новой топовой линейки мотоциклов с полу периметральной рамой и новым фльтрбоксом, которая станет новой отправной точкой для создания высококачественных питбайков.
-- YCF 150 Factory Pilot обзавелся новым четырех клапанным японским двигателем Daytona ANIMA, задним амортизатором Elka и новыми перьями ENGI, по цене всего 2799 евро, включая все налоги (цена актуальная для европы)
+- 50cc YCF aimed at children aged 5+, a lightweight bike featuring an electric starter, handlebar-mounted rear brake lever, and adjustable throttle for parental speed limiting.
+- Newly designed top motorcycle lineup with semi-perimeter frames and new filter boxes, establishing a new benchmark for high-quality pit bikes.
+- YCF 150 Factory Pilot with a new four-valve Japanese engine Daytona ANIMA, rear Elka shock, and new ENGI forks priced at €2,799, including all taxes (price valid in Europe).
 
-YCF становиться эксклюзивным импортером двигателей японской компании **Daytona**, а так же японских вилок **Engi**.
+YCF becomes the exclusive importer of Japanese **Daytona** engines and **Engi** forks.
 
-![Daytona](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/417be4.gif) ![Engi](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/3e8ebf.gif)
+![Daytona](../../../static/img/417be4.gif) ![Engi](../../../static/img/3e8ebf.gif)
 
-Долгосрочные цели компании: выйти на отметку реализации **6000 питбайков на территории Франции и 10000 по всему миру в течении 3х лет.**
+Long-term goals: achieve sales of **6,000 pit bikes in France and 10,000 worldwide over three years.**
 
-![Питбайки YCF 2012](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/aff26a.png)
+![YCF Pit Bikes 2012](../../../static/img/aff26a.png)
 
-#### Ограниченные серии питбайков YCF
+#### Limited Edition YCF Pit Bikes
 
-![Ограниченные серии питбайков YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/96a5eb.png)
+![Limited Edition YCF Pit Bikes](../../../static/img/96a5eb.png)
 
-#### YCF в цифрах
+#### YCF in Numbers
 
-Китай:
+China:
+- 50 employees
+- Facilities totaling 5,000 square meters designated for pit bike development and production
+- A 600-square-meter section for CNC processing
 
-- 50 сотрудников
-- Помещений, общей площадью на 5000 кв. метров, отведенных под разработку и производство питбайков
-- Участок, площадью 600 кв. метров, выделенный для фабрики CNC обработки
+France:
+- 8 employees
+- 1,500-square-meter administrative building for pit bike and parts storage
+- Pit bike development and preparation workshop
+- Three test tracks (mini motocross, enduro, supermoto)
+- Shop and showroom
+- YCF Museum
+- 200 dealers across France
 
-Франция:
+#### Sales Chart
 
-- 8 сотрудников
-- Административное помещение, площадью 1500 кв. метров, для хранения питбайков и запчастей
-- Мастерская разработки и подготовки питбайков
-- 3 тестовых трассы (мини мотокросс, эндуро, супермото)
-- Магазин и шоурум
-- Музей YCF
-- 200 дилеров по Франции
+![YCF Pit Bikes Sales Chart](../../../static/img/890aef.png)
 
-#### График продаж
-
-![График продаж питбайков YCF](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/890aef.png)
-
-#### Лучшие райдеры мира предпочитают питбайки марки YCF
+#### Top Riders Choose YCF Pit Bikes
 
 - Jeremy Van Horebeek
 - Livia Lancelot
@@ -167,126 +166,126 @@ YCF становиться эксклюзивным импортером дви�
 - Sébastien Loeb
 - Jeremy McGrath
 
-#### Модельный ряд компании YCF 2012 года
+#### YCF 2012 Product Lineup
 
 **YCF 50**
 
-![YCF 50](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/d5875a.jpg)
+![YCF 50](../../../static/img/d5875a.jpg)
 
-- Электростартер
-- Телескопическая вилка
-- Вес: 43 кг
-- Задний тормоз на руле
-- Настраиваемый дроссель
-- Автоматическая КПП
+- Electric starter
+- Telescopic fork
+- Weight: 43 kg
+- Handlebar-mounted rear brake
+- Adjustable throttle
+- Automatic transmission
 
 **YCF 88**
 
-![YCF 88](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/497c66.jpg)
+![YCF 88](../../../static/img/497c66.jpg)
 
-- Новые передние и задние тормоза
-- Новая графика на пластике
-- Новая ручка газа
-- Новые перья
-- Новый задний амортизатор
-- Новые звезды
-- Пружинки для крепления муфлера
-- Новое соединение шланга переднего тормоза
-- Новый цвет грипс
+- New front and rear brakes
+- New plastic graphics
+- New throttle handle
+- New forks
+- New rear shock
+- New sprockets
+- Muffler mounting springs
+- New front brake hose connection
+- New grip colors
 
 **YCF 88 PILOT**
 
-![YCF 88 PILOT](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/6f0787.jpg)
+![YCF 88 PILOT](../../../static/img/6f0787.jpg)
 
-- 10" заднее колесо
-- 12" переднее колесо
-- Вилка с регулировками
-- Задний амортизатор с регулировками
+- 10" rear wheel
+- 12" front wheel
+- Adjustable fork
+- Adjustable rear shock
 
 **125 RSTART**
 
-![125 RSTART](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/ef91f8.jpg)
+![125 RSTART](../../../static/img/ef91f8.jpg)
 
-- Новая защита цепи
-- Защитный рукав заднего тормозного шланга
-- Новая графика
-- Новая ручка газа
-- Новый двигатель
+- New chain guard
+- Rear brake hose protector
+- New graphics
+- New throttle handle
+- New engine
 
 **125 RSTART SEMI AUTOMATIQUE**
 
-![125 RSTART SEMI AUTOMATIQUE Blue](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/e65cbe.jpg) ![125 RSTART SEMI AUTOMATIQUE Pink](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/bdf8ed.jpg)
+![125 RSTART SEMI AUTOMATIQUE Blue](../../../static/img/e65cbe.jpg) ![125 RSTART SEMI AUTOMATIQUE Pink](../../../static/img/bdf8ed.jpg)
 
-- Новая защита цепи
-- Защитный рукав переднего тормозного шланга
-- Новый комплект стикеров
-- Новая ручка газа
-- Новые звезды
-- Пружинки крепления муфлера
-- Новые цвета грипс
+- New chain guard
+- Front brake hose protector
+- New sticker set
+- New throttle handle
+- New sprockets
+- Muffler mounting springs
+- New grip colors
 
 **140 RSTART PILOT**
 
-![140 RSTART PILOT](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/ccafb4.jpg)
+![140 RSTART PILOT](../../../static/img/ccafb4.jpg)
 
-- Высокая рама
-- Длинная вилка
-- Новая ручка газа
-- Новая графика
-- Новая защита цепи
-- Новые звезды
-- Пружинки крепления муфлера
-- Новые цвета грипс
+- High frame
+- Long fork
+- New throttle handle
+- New graphics
+- New chain guard
+- New sprockets
+- Muffler mounting springs
+- New grip colors
 
 **150 CLASSIC**
 
-![150 CLASSIC](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/54c30f.jpg)
+![150 CLASSIC](../../../static/img/54c30f.jpg)
 
-- Новая графика
-- Новый свисток в муфлере
-- Новая ручка газа
-- Новые звезды
-- Новые цвета грипс
-- Новая губчатая защита на руле
+- New graphics
+- New muffler tip
+- New throttle handle
+- New sprockets
+- New grip colors
+- New handlebar pad
 
 **150 CLASSIC PILOT**
 
-![150 CLASSIC PILOT](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/8aa3dc.jpg)
+![150 CLASSIC PILOT](../../../static/img/8aa3dc.jpg)
 
-- Новая рама
-- Алюминиевый подрамник и маятник
-- Новая геометрия
-- YCF 330мм амортизатор
-- Фильтрбокс
+- New frame
+- Aluminum subframe and swingarm
+- New geometry
+- YCF 330mm shock
+- Filter box
 
 **150 FACTORY PILOT**
 
-![150 FACTORY PILOT](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/83e858.jpg)
+![150 FACTORY PILOT](../../../static/img/83e858.jpg)
 
-- Новый двигатель Daytona ANIMA
-- Новая рама
-- Алюминиевый подрамник и маятник
-- Новая геометрия
-- Амортизатор 330мм Elka
-- Вилка ENGI
-- Фильтрбокс
+- New engine Daytona ANIMA
+- New frame
+- Aluminum subframe and swingarm
+- New geometry
+- Elka 330mm shock
+- ENGI fork
+- Filter box
 
 **125 SUPERMOTO**
 
-![125 SUPERMOTO](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/c05bab.jpg)
+![125 SUPERMOTO](../../../static/img/c05bab.jpg)
 
 **150 SUPERMOTO**
 
-![150 SUPERMOTO](http://mypitbike.ru/uploads/images/00/00/01/2012/08/16/e76c2e.jpg)
+![150 SUPERMOTO](../../../static/img/e76c2e.jpg)
 
-- Высокая рама
-- Длинное сиденье
-- Вилка 735мм
-- Новый глушитель
-- Новая графика
-- Новый амортизатор
-- Новые звезды
-- Пружинки на муфлере
-- Новые цвета грипс
-- Новая ручка газа
-- Новая защита на руле
+- High frame
+- Long seat
+- 735mm fork
+- New exhaust
+- New graphics
+- New shock
+- New sprockets
+- Muffler springs
+- New grip colors
+- New throttle handle
+- New handlebar guard

@@ -1,3 +1,8 @@
+---
+tags:
+- review
+---
+
 # Review of Forsage 110, 125, 160 Cross Pit Bikes
 
 The topic of pit bikes has been known in Russia for a long time. However, it is only in the past couple of years that it has begun to develop more actively: sales have surged, and competitions have even started to be held. Despite the emergence of several new brands in the market, the Izhevsk pit bikes **Forsage** have been familiar to Russian buyers for quite some time.

@@ -1,3 +1,8 @@
+---
+tags:
+- review
+---
+
 # Pit Bike Mikilon 160cc
 
 Hello everyone. I have become the proud owner of a Mikilon 160. Huge thanks to Dmitry (PITBIKEMARKET.RU). I acquired it for 60 rubles. I immediately disassembled and reassembled the pit bike to write this report. I'm writing everything honestly, as it is, feel free to ask questions. I can compare it with the Irbis and BFD 125.

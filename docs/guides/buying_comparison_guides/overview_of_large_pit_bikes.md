@@ -1,3 +1,14 @@
+---
+tags:
+- review
+- engine
+- chassis
+- suspension
+- ycf
+- pitsterpro
+- bse
+---
+
 # Overview of large pit bikes
 
 ## Tests of Pit Bikes: Armada PB140, AVM TT150B, BSE PH10-150E, JMC 160MX, PitsterPro LX-5 140MX, PitsterPro LX-5 160MX, and YCF Big Mini 150-A

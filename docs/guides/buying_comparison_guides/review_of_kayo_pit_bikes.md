@@ -1,3 +1,9 @@
+---
+tags:
+- review
+- kayo
+---
+
 # Review of kayo pit bikes
 
 ## Three Wild CATS: Kayo 125 WildCat, Kayo 140 CraZyCat, Kayo 150 VorteXCat
