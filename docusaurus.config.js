@@ -93,7 +93,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'techSidebar',
             position: 'left',
-            label: 'Tech database',
+            label: 'Tech Database',
           },
           {
             type: 'docSidebar',
@@ -117,40 +117,32 @@ const config = {
             items: [
               {
                 label: 'Maintenance & Repair',
-                to: '/docs/guides/',
+                to: '/docs/category/maintenance--repair',
               },
               {
                 label: 'Performance Tuning & Customization',
-                to: '/docs/guides/',
+                to: '/docs/category/performance-tuning--customization',
               },
               {
                 label: 'Technical Insights',
-                to: '/docs/guides/',
+                to: '/docs/category/technical-insights',
               },
               {
                 label: 'Buying & Comparison Guides',
-                to: '/docs/guides/',
+                to: '/docs/category/buying--comparison-guides',
               },
               {
                 label: 'Pit Bike Basics',
-                to: '/docs/guides/',
+                to: '/docs/category/pit-bike-basics',
               },
             ],
           },
           {
-            title: 'Tech database',
+            title: 'Tech Database',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Database',
+                to: '/docs/tech',
               },
             ],
           },
@@ -159,19 +151,19 @@ const config = {
             items: [
               {
                 label: 'Owner Manual',
-                to: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                to: '/docs/category/owner-manual',
               },
               {
                 label: 'Service Manual',
-                to: 'https://discordapp.com/invite/docusaurus',
+                to: '/docs/category/service-manual',
               },
               {
                 label: 'Parts Diagram',
-                to: 'https://x.com/docusaurus',
+                to: '/docs/category/parts-diagram',
               },
               {
                 label: 'Wiring Diagram',
-                to: 'https://x.com/docusaurus',
+                to: '/docs/category/wiring-diagram',
               },
             ],
           },
@@ -184,7 +176,7 @@ const config = {
               },
               {
                 label: 'About Us',
-                href: '/about',
+                to: '/about',
               },
             ],
           },
