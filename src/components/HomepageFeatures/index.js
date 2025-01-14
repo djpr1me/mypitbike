@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Lorem ipsum',
+    title: 'Guides',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Lorem ipsum.
+        Explore a vast collection of in-depth articles and illustrations covering pit bike maintenance, repairs, model reviews, purchasing advice, performance tuning, legal info, and technical insights, ensuring you can find guidance for any scenario.
       </>
     ),
   },
   {
-    title: 'Lorem ipsum',
+    title: 'Tech Database',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Lorem ipsum <code>docs</code> directory.
+        Access a comprehensive technical reference library filled with essential documentation, including component dimensions, torque settings, fluid capacities, piston ring sizes, and gear ratios—details omitted from extensive <code>Guides</code> but crucial for precision.
       </>
     ),
   },
   {
-    title: 'Lorem ipsum',
+    title: 'Manuals',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Lorem ipsum.
+        Find a comprehensive collection of PDF documents, including owner and service manuals, wiring diagrams, and parts diagrams, providing all the resources needed for part identification and bike maintenance.
       </>
     ),
   },

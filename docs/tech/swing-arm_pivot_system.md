@@ -1,3 +1,9 @@
+---
+tags:
+- frame
+- specs
+---
+
 # Swing-Arm Pivot Systems
 
 ## LXR and CRF50-style Frames

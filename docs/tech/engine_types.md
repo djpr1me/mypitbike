@@ -1,3 +1,8 @@
+---
+tags:
+- engine
+---
+
 # Pit Bike Engine Types
 
 When considering the various types of pit bike engines, such as the GPX124cc and YX160cc, some are straightforward to recommend kits for, as we have experience building these. However, other engines present more challenges, and simply knowing the bike or model will not suffice. Engine numbers are also unhelpful, as we lack references for these identifiers.

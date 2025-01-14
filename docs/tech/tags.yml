@@ -1,0 +1,79 @@
+gears:
+  label: 'Gears'
+  permalink: '/gears'
+  description: 'Articles related to gears'
+
+ratio:
+  label: 'Ratio'
+  permalink: '/ratio'
+  description: 'Articles related to ratio'
+
+cable:
+  label: 'Cable'
+  permalink: '/cable'
+  description: 'Articles related to cable'
+
+specs:
+  label: 'Specs'
+  permalink: '/specs'
+  description: 'Articles related to specs'
+
+chain:
+  label: 'Chain'
+  permalink: '/chain'
+  description: 'Articles related to chain'
+
+oil:
+  label: 'Oil'
+  permalink: '/oil'
+  description: 'Articles related to motor oil and other lubes and fluids'
+
+head:
+  label: 'Head'
+  permalink: '/head'
+  description: 'Articles related to engine head'
+
+frame:
+  label: 'Frame'
+  permalink: '/frame'
+  description: 'Articles related to bikes frame'
+
+carb:
+  label: 'Carburetor'
+  permalink: '/carb'
+  description: 'Articles related to carburetor setup'
+
+cylinder:
+  label: 'Cylinder'
+  permalink: '/cylinder'
+  description: 'Articles related to cylinder'
+
+engine:
+  label: 'Engine'
+  permalink: '/engine'
+  description: 'Articles related to bikes engine'
+
+fork:
+  label: 'Fork'
+  permalink: '/fork'
+  description: 'Articles related to fork'
+
+brakes:
+  label: 'Brakes'
+  permalink: '/brakes'
+  description: 'Articles related to bike brakes'
+
+wheels:
+  label: 'Wheels'
+  permalink: '/wheels'
+  description: 'Articles related to wheels'
+
+wiring:
+  label: 'Wiring'
+  permalink: '/wiring'
+  description: 'Articles related to electric wiring'
+
+valves:
+  label: 'Valves'
+  permalink: '/valves'
+  description: 'Articles related to engine valves'

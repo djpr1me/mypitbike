@@ -1,3 +1,8 @@
+---
+tags:
+- honda
+---
+
 # Honda XR/CRF50 & 70 Wiring Guide
 
 ![Honda CRF50 Ignition](../../../static/img/2008-01-20_194643_CRF_50_Ign.jpg "Honda CRF50 Ignition")

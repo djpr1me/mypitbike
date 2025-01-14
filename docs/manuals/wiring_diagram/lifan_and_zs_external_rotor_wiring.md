@@ -1,3 +1,9 @@
+---
+tags:
+- lifan
+- zongshen
+---
+
 # Lifan and ZS External Rotor Wiring
 
 ![ZS-LIFAN150 Wiring Diagram](../../../static/img/ZS-LIFAN150-WIRING-LARGE-BLACK-CDI.png)

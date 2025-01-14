@@ -1,3 +1,8 @@
+---
+tags:
+- carb
+---
+
 # Stock CRF50 Carburetor Specs
 
 ## Main Jet

@@ -1,3 +1,8 @@
+---
+tags:
+- zongshen
+---
+
 # 155cc or 155Z Wiring
 
 Here are several images depicting the ZS155cc ignition system and its connections:

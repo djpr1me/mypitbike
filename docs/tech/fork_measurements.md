@@ -1,3 +1,9 @@
+---
+tags:
+- fork
+- specs
+---
+
 # Fork Measurements
 
 To ensure the correct fit when acquiring new forks or components, precise measurements in millimeters (mm) are essential. Follow these steps to obtain the necessary dimensions:

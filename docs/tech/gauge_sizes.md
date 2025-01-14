@@ -1,3 +1,8 @@
+---
+tags:
+- specs
+---
+
 # Feeler Gauge Sizes
 
 | Inches  | Millimeters |

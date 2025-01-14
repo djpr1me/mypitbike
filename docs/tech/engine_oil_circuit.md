@@ -1,3 +1,9 @@
+---
+tags:
+- engine
+- oil
+---
+
 # Engine Oil Circuit and Oil Flow Test Tech
 
 ## Honda Z50, XR50, CRF50, CT70, XR70, CRF70, and Other 70s

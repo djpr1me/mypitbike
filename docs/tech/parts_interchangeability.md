@@ -1,3 +1,9 @@
+---
+tags:
+- frame
+- specs
+---
+
 # CRF50 parts interchangeability
 
 Many parts designed for 50cc pit bikes are compatible with the Honda CRF50, and vice versa. To ensure compatibility, the frame of your motorcycle should closely resemble that of a CRF50.

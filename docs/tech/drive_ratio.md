@@ -1,3 +1,9 @@
+---
+tags:
+- gears
+- ratio
+---
+
 # Final drive ratios
 
 | Rear Sprocket | Front 12 | Front 13 | Front 14 | Front 15 | Front 16 | Front 17 | Front 18 |

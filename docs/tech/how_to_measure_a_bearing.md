@@ -1,3 +1,8 @@
+---
+tags:
+- specs
+---
+
 # How to Measure a Bearing
 
 Bearings are characterized by three primary dimensions: the inner diameter, the outer diameter, and the width. These measurements are always specified in metric units.

@@ -1,3 +1,9 @@
+---
+tags:
+- fork
+- oil
+---
+
 # Fork Oil Volume And Air Pressure
 
 - **Oil Volume:**

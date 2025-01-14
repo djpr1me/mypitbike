@@ -1,3 +1,9 @@
+---
+tags:
+- gears
+- specs
+---
+
 # Front Sprockets
 
 China Pit bikes are equipped with two distinct types of front sprockets, also known as countershaft sprockets. The majority of pit bikes utilize a standard or smaller shaft, measuring 17mm/14mm. This specification is common among various models, including:

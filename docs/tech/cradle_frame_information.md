@@ -1,3 +1,8 @@
+---
+tags:
+- frame
+---
+
 # Cradle Frame Information
 
 ## Enhancing Pit Bike Structural Integrity

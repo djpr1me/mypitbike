@@ -1,3 +1,8 @@
+---
+tags:
+- specs
+---
+
 # Torque Specs
 
 Here are the torque specifications for critical fasteners on your pit bike:

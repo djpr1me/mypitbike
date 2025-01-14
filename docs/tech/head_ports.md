@@ -1,3 +1,8 @@
+---
+tags:
+- head
+---
+
 # Exhaust Pipes and Head Ports
 
 When installing pit bike engines, you may encounter various types of exhaust pipes and head ports:

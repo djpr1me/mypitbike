@@ -1,3 +1,9 @@
+---
+tags:
+- cylinder
+- specs
+---
+
 # Piston Sizing
 
 ## Step 1: Measure the Cylinder Bore and Piston Outer Diameter

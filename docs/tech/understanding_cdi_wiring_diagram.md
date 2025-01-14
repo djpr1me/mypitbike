@@ -1,3 +1,8 @@
+---
+tags:
+- wiring
+---
+
 # Understanding CDI Wiring Diagram
 
 Pit bike engines utilize a variety of CDI (Capacitor Discharge Ignition) units, which essentially serve as the central processing unit of the system. Proper wiring of CDI boxes to the respective electrical components is crucial to generate the spark necessary for engine operation. Each connection point corresponds to a specific wire that links to its designated component.

@@ -1,3 +1,9 @@
+---
+tags:
+- carb
+- specs
+---
+
 # Optimal Carburetor Running Conditions
 
 ## Jetting Technique:

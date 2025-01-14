@@ -1,3 +1,9 @@
+---
+tags:
+- engine
+- wiring
+---
+
 # Engine Wiring
 
 Electricity is indifferent to color coding. Examine the CDI box and trace the wire from the correct pin location to the appropriate component.

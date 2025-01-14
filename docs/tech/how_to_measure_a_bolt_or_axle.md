@@ -1,3 +1,8 @@
+---
+tags:
+- specs
+---
+
 # How to Measure a Bolt or Axle
 
 In accordance with industry standards, the measurement of a bolt is taken from the shaft, not the head.

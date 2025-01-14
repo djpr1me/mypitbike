@@ -1,0 +1,129 @@
+honda:
+  label: 'Honda'
+  permalink: '/honda'
+  description: 'Articles related to Honda'
+
+catalog:
+  label: 'Catalog'
+  permalink: '/catalog'
+  description: 'Articles related to bikes catalog'
+
+instructions:
+  label: 'Instructions'
+  permalink: '/instructions'
+  description: 'Articles related to instructions'
+
+1P47FMD:
+  label: '1P47FMD'
+  permalink: '/1P47FMD'
+  description: 'Articles related to 1P47FMD engine'
+
+1P52FMH:
+  label: '1P52FMH'
+  permalink: '/1P52FMH'
+  description: 'Articles related to 1P52FMH engine'
+
+1P52FMI:
+  label: '1P52FMI'
+  permalink: '/1P52FMI'
+  description: 'Articles related to 1P52FMI engine'
+
+1P55FMJ:
+  label: '1P55FMJ'
+  permalink: '/1P55FMJ'
+  description: 'Articles related to 1P55FMJ engine'
+
+1P56FMJ:
+  label: '1P56FMJ'
+  permalink: '/1P56FMJ'
+  description: 'Articles related to 1P56FMJ engine'
+
+1P60FMJ:
+  label: '1P60FMJ'
+  permalink: '/1P60FMJ'
+  description: 'Articles related to 1P60FMJ engine'
+
+1P60YMJ:
+  label: '1P60YMJ'
+  permalink: '/1P60YMJ'
+  description: 'Articles related to 1P60YMJ engine'
+
+147FMI:
+  label: '147FMI'
+  permalink: '/147FMI'
+  description: 'Articles related to 147FMI engine'
+
+153FMI:
+  label: '153FMI'
+  permalink: '/153FMI'
+  description: 'Articles related to 153FMI engine'
+
+pitsterpro:
+  label: 'PitsterPro'
+  permalink: '/pitsterpro'
+  description: 'Articles related to Pitster Pro bikes'
+
+stomp:
+  label: 'Stomp'
+  permalink: '/stomp'
+  description: 'Articles related to Stomp bikes'
+
+ycf:
+  label: 'YCF'
+  permalink: '/ycf'
+  description: 'Articles related to YCF bikes'
+
+kawasaki:
+  label: 'Kawasaki'
+  permalink: '/kawasaki'
+  description: 'Articles related to Kawasaki bikes'
+
+mikilon:
+  label: 'Mikilon'
+  permalink: '/mikilon'
+  description: 'Articles related to Mikilon bikes'
+
+orion:
+  label: 'Orion'
+  permalink: '/orion'
+  description: 'Articles related to Orion bikes'
+
+dhz:
+  label: 'DHZ'
+  permalink: '/dhz'
+  description: 'Articles related to DHZ bikes'
+
+thumpstar:
+  label: 'Thumpstar'
+  permalink: '/thumpstar'
+  description: 'Articles related to Thumpstar bikes'
+
+daytona:
+  label: 'Daytona'
+  permalink: '/daytona'
+  description: 'Articles related to Daytona engines'
+
+lifan:
+  label: 'Lifan'
+  permalink: '/lifan'
+  description: 'Articles related to Lifan engines'
+
+keihin:
+  label: 'Keihin'
+  permalink: '/keihin'
+  description: 'Articles related to Keihin carburetors'
+
+zongshen:
+  label: 'Zongshen'
+  permalink: '/zs'
+  description: 'Articles related to Zongshen engines'
+
+yx:
+  label: 'YX'
+  permalink: '/yx'
+  description: 'Articles related to YX engines'
+
+mikuni:
+  label: 'Mikuni'
+  permalink: '/mikuni'
+  description: 'Articles related to Mikuni carburetors'

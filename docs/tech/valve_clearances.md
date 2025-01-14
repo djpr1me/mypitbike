@@ -1,3 +1,9 @@
+---
+tags:
+- valves
+- specs
+---
+
 # Valve clearances
 
 For most pit bikes, the following valve clearance settings are typically suitable:

@@ -1,5 +1,10 @@
-# Honda CT70 Identification Guide
+---
+tags:
+- honda
+- catalog
+---
 
+# Honda CT70 Identification Guide
 
 ![](../../../static/img/ct70k0.png)
 

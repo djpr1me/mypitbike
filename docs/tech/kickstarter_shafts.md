@@ -1,3 +1,9 @@
+---
+tags:
+- specs
+- engine
+---
+
 # Kickstarter Shaft Diameters
 
 ## Overview

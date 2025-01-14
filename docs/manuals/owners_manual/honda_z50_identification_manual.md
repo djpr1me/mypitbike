@@ -1,5 +1,10 @@
-# Honda Z50 Identification Manual
+---
+tags:
+- honda
+- catalog
+---
 
+# Honda Z50 Identification Manual
 
 ![Z50AK0-1](../../../static/img/z50ak0-1.gif)
 

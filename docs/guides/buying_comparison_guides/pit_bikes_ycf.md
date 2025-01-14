@@ -4,11 +4,11 @@ tags:
 - ycf
 ---
 
-### YCF Pit Bikes
+# Pit bikes by YCF
 
 ![YCF Pit Bikes France](../../../static/img/d0e617.png)
 
-#### Company's History
+## Company's History
 
 ![Old YCF Logo](../../../static/img/dfe116.png)
 
@@ -130,7 +130,7 @@ Long-term goals: achieve sales of **6,000 pit bikes in France and 10,000 worldwi
 
 ![Limited Edition YCF Pit Bikes](../../../static/img/96a5eb.png)
 
-#### YCF in Numbers
+## YCF in Numbers
 
 China:
 - 50 employees
@@ -166,9 +166,9 @@ France:
 - Sébastien Loeb
 - Jeremy McGrath
 
-#### YCF 2012 Product Lineup
+## YCF 2012 Product Lineup
 
-**YCF 50**
+### YCF 50
 
 ![YCF 50](../../../static/img/d5875a.jpg)
 
@@ -179,7 +179,7 @@ France:
 - Adjustable throttle
 - Automatic transmission
 
-**YCF 88**
+### YCF 88
 
 ![YCF 88](../../../static/img/497c66.jpg)
 
@@ -193,7 +193,7 @@ France:
 - New front brake hose connection
 - New grip colors
 
-**YCF 88 PILOT**
+### YCF 88 PILOT
 
 ![YCF 88 PILOT](../../../static/img/6f0787.jpg)
 
@@ -202,7 +202,7 @@ France:
 - Adjustable fork
 - Adjustable rear shock
 
-**125 RSTART**
+### 125 RSTART
 
 ![125 RSTART](../../../static/img/ef91f8.jpg)
 
@@ -212,7 +212,7 @@ France:
 - New throttle handle
 - New engine
 
-**125 RSTART SEMI AUTOMATIQUE**
+### 125 RSTART SEMI AUTOMATIQUE
 
 ![125 RSTART SEMI AUTOMATIQUE Blue](../../../static/img/e65cbe.jpg) ![125 RSTART SEMI AUTOMATIQUE Pink](../../../static/img/bdf8ed.jpg)
 
@@ -224,7 +224,7 @@ France:
 - Muffler mounting springs
 - New grip colors
 
-**140 RSTART PILOT**
+### 140 RSTART PILOT
 
 ![140 RSTART PILOT](../../../static/img/ccafb4.jpg)
 
@@ -237,7 +237,7 @@ France:
 - Muffler mounting springs
 - New grip colors
 
-**150 CLASSIC**
+### 150 CLASSIC
 
 ![150 CLASSIC](../../../static/img/54c30f.jpg)
 
@@ -248,7 +248,7 @@ France:
 - New grip colors
 - New handlebar pad
 
-**150 CLASSIC PILOT**
+### 150 CLASSIC PILOT
 
 ![150 CLASSIC PILOT](../../../static/img/8aa3dc.jpg)
 
@@ -258,7 +258,7 @@ France:
 - YCF 330mm shock
 - Filter box
 
-**150 FACTORY PILOT**
+### 150 FACTORY PILOT
 
 ![150 FACTORY PILOT](../../../static/img/83e858.jpg)
 
@@ -270,11 +270,11 @@ France:
 - ENGI fork
 - Filter box
 
-**125 SUPERMOTO**
+### 125 SUPERMOTO
 
 ![125 SUPERMOTO](../../../static/img/c05bab.jpg)
 
-**150 SUPERMOTO**
+### 150 SUPERMOTO
 
 ![150 SUPERMOTO](../../../static/img/e76c2e.jpg)
 

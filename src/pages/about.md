@@ -4,7 +4,7 @@ title: About Us
 
 # About Us
 
-Hello, my name is Roman (many know me as Pr1me), and this is my pet project, which I maintain in my spare time from my main job. In 2012, I created the blog-social network MyPitbike, where I shared my experiences in owning and maintaining pit bikes. I endeavored to meticulously document every manipulation I performed on my motorcycles, from assembly, seasonal maintenance, to subsequent modifications. My goal was to create a unique knowledge base for the Russian-speaking community, promoting this class of motorcycles.
+Hello, my name is Roman Biriukov (many know me as Pr1me), and this is my pet project, which I maintain in my spare time from my main job. In 2012, I created the blog-social network MyPitbike, where I shared my experiences in owning and maintaining pit bikes. I endeavored to meticulously document every manipulation I performed on my motorcycles, from assembly, seasonal maintenance, to subsequent modifications. My goal was to create a unique knowledge base for the Russian-speaking community, promoting this class of motorcycles.
 
 Over time, a team of like-minded enthusiasts joined me, and together we crafted guides and manuals that have stood the test of time. We were among the first to ride pit bikes in Russia when this class of mini motorcycles was still unfamiliar. People sought our help in choosing and purchasing their first motorcycles, advice on selecting parts, and precise tuning of mechanisms and components.
 

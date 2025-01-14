@@ -1,3 +1,8 @@
+---
+tags:
+- engine
+---
+
 # O-Ring Guidelines
 
 When undertaking a rebuild using gasket kits, it is imperative to **avoid using stock O-rings** on the cylinder base and cylinder head sealing surfaces. 

@@ -1,3 +1,10 @@
+---
+tags:
+- gears
+- ratio
+- head
+---
+
 # Understanding Camshaft Gear Ratios
   
 In a 4-stroke engine, the gear ratio between the crankshaft and the camshaft is invariably 2:1. This signifies that for every two rotations of the crankshaft, the camshaft completes a single rotation. Maintaining this 2:1 ratio is crucial for the engine's proper functioning.

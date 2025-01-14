@@ -1,3 +1,9 @@
+---
+tags:
+- head
+- cylinder
+---
+
 # Heads & Cylinders
 
 # Pit Bike Heads

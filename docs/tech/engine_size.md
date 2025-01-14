@@ -1,3 +1,9 @@
+---
+tags:
+- engine
+- specs
+---
+
 # Engine size
 
 Pit bike engines are fundamentally derived from the Honda 70 series engines. These engines are currently utilized in Honda CRF50 and CRF70 models. The primary motor mounts and the four lower mounting points, known as peg mounts, are consistent across all pit bike engines. These engines are compatible with all Chinese pit bikes and most older or current Honda models equipped with horizontal OHC engines, excluding the KLX110 and DRZ110.

@@ -1,3 +1,9 @@
+---
+tags:
+- chain
+- specs
+---
+
 # Chain Sizing
 
 ## Common Chain Size for Pit Bikes
