@@ -17,6 +17,6 @@ To verify the operation of the oil pump without the engine running and with the 
 1. Loosen the head nut that is equipped with a copper washer.
 2. Kick the bike over repeatedly until oil begins to seep from the area around the washer.
 
-![Oil Pump Test](../../static/img/50-oil-pump-test-tech.png)
+![Oil Pump Test](../../static/img/50-oil-pump-test-tech.jpg)
 
-![Oil Flow Diagram](../../static/img/OIL-FLOW-TECH.png)
+![Oil Flow Diagram](../../static/img/OIL-FLOW-TECH.jpg)

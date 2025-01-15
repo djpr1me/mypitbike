@@ -26,13 +26,13 @@ When installing performance heads on KLX110 models from 2010 onwards, use the fo
 
 ## TB Cam Sprocket for KLX110 & DRZ110 (2010 and Up)
 
-![TB Cam Sprocket for KLX110 & DRZ110 2010 UP](../../../static/img/0645.JPG)
+![TB Cam Sprocket for KLX110 & DRZ110 2010 UP](../../../static/img/0645.jpg)
 
 The cam sprocket enables the use of any KLX110 Race Heads on models from 2010 onwards.
 
 ## TB Race Cam for KLX110 (2003-2009)
 
-![TB 533 Race Cam for KLX110 03-09](../../../static/img/0533.JPG)
+![TB 533 Race Cam for KLX110 03-09](../../../static/img/0533.jpg)
 
 The TB Race Camshaft is designed for the V1 Race Head and stock KLX110 heads (not compatible with the V2 head). This YX-type cam offers greater lift and duration than any previously tested cam, performing exceptionally well with the regular Race Head. It fits stock KLX110 and DRZ110 heads, but ensure proper valve clearance.
 

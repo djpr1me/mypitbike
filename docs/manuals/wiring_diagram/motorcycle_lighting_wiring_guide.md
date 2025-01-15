@@ -18,10 +18,10 @@ The rectifier should be fed with the white lead, and the regulator with the yell
 
 ## AC Voltage Regulator Installation
 
-![AC Voltage Regulator](../../../static/img/Vrege.JPG)
+![AC Voltage Regulator](../../../static/img/Vrege.jpg)
 
 ## YX with Single Yellow Feed
 
 Outlined below is the method to connect the four-wire voltage regulators to the YX single yellow feed.
 
-![YX Yellow Connection](../../../static/img/YELLOW-Connection-YX-reg-11.jpeg)
+![YX Yellow Connection](../../../static/img/YELLOW-Connection-YX-reg-11.jpg)

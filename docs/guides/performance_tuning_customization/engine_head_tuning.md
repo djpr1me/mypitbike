@@ -6,7 +6,7 @@ tags:
 
 # Engine head tuning
 
-![BBR 4 valve pitbike](../../../static/img/bc2a78.png "BBR 4 valve pitbike")
+![BBR 4 valve pitbike](../../../static/img/bc2a78.jpg "BBR 4 valve pitbike")
 
 The latest innovation from the esteemed company **BBR** is a four-valve engine head. Judging by the photograph, it is designed for KLX engines. Additional information is currently unavailable. We will keep an eye on updates. The price remains undisclosed.
 

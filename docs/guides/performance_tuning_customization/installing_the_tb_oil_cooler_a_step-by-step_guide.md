@@ -20,7 +20,7 @@ This guide serves illustrative purposes only. All engine work should be executed
 
 The alternative bracket is intended to attach to the frame, as shown in the illustration below. The brackets in this kit are versatile and can be adapted to various applications. You will need to determine the most suitable option for your setup. If feasible, we recommend utilizing the frame-mounted bracket configuration.
 
-![Mounting Bracket](../../../static/img/image2.PNG)
+![Mounting Bracket](../../../static/img/image2.jpg)
 
 Identify a location on the bike towards the front where air will flow across the cooler as the bike moves forward. Once a suitable spot is found, attach your chosen mounting bracket. Only hand-tighten the cylinder studs or the hose clamp provided for the other mounting bracket. At this stage, you will "mock up" the installation to ensure the oil cooler lines are sufficiently long to reach the cooler without requiring extreme bends that could impede oil flow. (Note that the cooler can be installed upside down if necessary, with the oil lines positioned at either the top or bottom of the cooler.)
 
@@ -32,7 +32,7 @@ Turn the wheel from lock to lock and fully compress the suspension to ensure not
 
 The illustration below demonstrates the oil cooler mounted to the frame using the other provided bracket. This bracket is attached to the frame with a hose clamp and is the **preferred choice if applicable**. For a more robust and reliable mount, you can also drill and tap a hole in the frame. The bracket already has a clearance hole. **This is the preferred mounting method if applicable**.
 
-![Frame Mounting](../../../static/img/capture2.PNG)
+![Frame Mounting](../../../static/img/capture2.jpg)
 
 **Step 3.** Remove the right-hand side cylinder head cover (located near the spark plug and secured with three bolts). The center bolt extends through the head to the opposite side; hold the cover on the opposite side when removing the long center bolt.
 
@@ -50,7 +50,7 @@ Prepare the new oil cooler head tap plate to replace the right-hand side cylinde
 
 **Step 4.** Ensure all sealing surfaces are clean and apply the chosen gasket. Install the head tap plate on the engine and torque the bolts to the manufacturer's specifications. The torque rating is 8 ft-lbs for a factory Honda engine. Once the head tap plate is installed, proceed to step 5.
 
-![Gasket Application](../../../static/img/Capture3.PNG)
+![Gasket Application](../../../static/img/Capture3.jpg)
 
 **Step 5.** Route the oil lines to the oil cooler and head tap plate. At this stage, only hand-tighten the lines and determine the optimal routing for your application. Minor adjustments to the taps may be necessary to achieve the best routing. It is crucial to ensure no severe bends in the oil lines that could restrict oil flow. The lines must attach to the cooler at a nearly perpendicular angle (90-degree angle) to ensure the banjo fittings form a seal. If not installed at a perpendicular angle, the end of the line will bottom out on the cooler rather than the sealing surface for the banjo fitting. Once the correct routing is determined, tighten all connections.
 

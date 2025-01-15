@@ -9,7 +9,7 @@ For dirt bikes, it is probable that only three wires emanating from your engine 
 
 The neutral indicator wire is also unnecessary for dirt bikes.
 
-![neutral wire](../../static/img/neutral-indicator-green-w-red-1.png)
+![neutral wire](../../static/img/neutral-indicator-green-w-red-1.jpg)
 
 Additionally, the neutral and gear switch wires will not be needed, as illustrated.
 

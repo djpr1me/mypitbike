@@ -33,7 +33,7 @@ Of course, you can purchase a fully assembled and tuned motorcycle, but if purch
 
 6. Grease, like Litol
  
-![Litol](../../../static/img/54b0fb.png "Litol")
+![Litol](../../../static/img/54b0fb.jpg "Litol")
 
 7. A stand for the pit bike, a stool will do
 

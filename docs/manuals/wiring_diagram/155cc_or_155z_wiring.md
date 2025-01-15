@@ -9,7 +9,7 @@ Here are several images depicting the ZS155cc ignition system and its connection
 
 ### New Harness Type 2
 
-![NEW TYPE](../../../static/img/ZS155WIRING-NEW.JPG "NEW TYPE")
+![NEW TYPE](../../../static/img/ZS155WIRING-NEW.jpg "NEW TYPE")
 
 ### Older Harness Type 1
 

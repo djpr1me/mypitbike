@@ -11,7 +11,7 @@
 ![D5-09.jpg](../../../static/file/D5-09.jpg)
 ![D5-10.jpg](../../../static/file/D5-10.jpg)
 ![D5-11.jpg](../../../static/file/D5-11.jpg)
-![D52-160&D51-125.jpg](../../../static/file/D52-160&D51-125.jpg)
+![D52-160&D51-125.jpg](../../../static/file/D52-160.jpg)
 
 The document 'Mikilon User Manual' is available for download below
 

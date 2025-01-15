@@ -18,7 +18,7 @@ The cross-sectional area of the carburetor's air channel must be sufficiently la
 This constriction restricts airflow and thus isn't used in performance-oriented motorcycle carburetors, though the term persists to denote this carburetor section.
 
 
-![Elementary Carburetor Diagram](../../../static/img/684697.png)
+![Elementary Carburetor Diagram](../../../static/img/684697.jpg)
 
 > Fig. 1. An elementary carburetor – a fuel reservoir connects with a diffuser. The rounded "bell" prevents turbulence and helps enhance the carburetor's flow capacity. A rubber support wards off vibration and heat from affecting the diffuser.
 
@@ -34,7 +34,7 @@ Fuel is supplied from the tank via a pump or gravity, passing through a valve co
 The valve can be adjusted in two ways. First, the float height determines fuel level in the tank, adjustable by bending the tongue resting against the needle.
 
 
-![Needle Valve Diagram](../../../static/img/684c80.png)
+![Needle Valve Diagram](../../../static/img/684c80.jpg)
 
 > Fig. 2. Needle valve. As fuel level rises to a certain point, the float presses the needle to the seat, halting fuel supply. The float height can be gauged both by the fuel's level in the chamber and the float's height when the valve completely closes. Any carburetor manual will guide you on measuring float height.
 
@@ -42,14 +42,14 @@ The valve can be adjusted in two ways. First, the float height determines fuel l
 If controlling fuel levels in the float chamber is necessary, connect the chamber with a transparent tube and insert a shut-off valve (Fig. 3).
 
 
-![Fuel Level Sensor Diagram](../../../static/img/1ff4ff.png)
+![Fuel Level Sensor Diagram](../../../static/img/1ff4ff.jpg)
 
 > Fig. 3. Fuel level sensor. The float chamber connects by a hose to a clear tube through which fuel level is visible. The fuel level is gauged against a point on the carburetor body (typically near the float chamber gasket). Align the transparent tube parallel to the float chamber and open the valve. The fuel level in the tube equates to that in the float chamber. Marking the tube allows easy fuel level monitoring. Typically, the fuel level in the chamber is measured from a specific reference point (usually the chamber gasket). A manual pump may restore the desired fuel level if present.
 
 For fuel level adjustment, removing the carburetor from the motorcycle, the float chamber’s lid, and turning it upside-down is required. Adjustment is achieved by altering the float height relative to the gasket surface, with the float pressing the needle valve against the seat (Fig. 4).
 
 
-![Fuel Level Adjustment Diagram](../../../static/img/094a3e.png)
+![Fuel Level Adjustment Diagram](../../../static/img/094a3e.jpg)
 
 > Fig. 4 Adjusting fuel level within a carburetor. It usually involves measuring the float's distance from the carburetor gasket. The float should contact the needle valve, but without compressing the valve's spring. Angling the carburetor body, as illustrated, may be necessary. A T-shaped or square-section tool is commonly used for fuel level checking and adjustment.
 
@@ -59,7 +59,7 @@ Another adjustment involves altering the needle valve and seat dimensions, affec
 As fuel enters the float chamber, air must escape. Venting is combined with a drain tube for excess fuel drainage in flooding (Fig. 5). Overflowing fuel is a critical issue; liquid fuel accumulates atop the piston, leading to potential piston ring and rod damage when starting.
 
 
-![Float Chamber Ventilation and Overflow Tube Diagram](../../../static/img/8b9f1f.png)
+![Float Chamber Ventilation and Overflow Tube Diagram](../../../static/img/8b9f1f.jpg)
 
 > Fig. 5. Float chamber ventilation and overflow tube. Air pressure in the float chamber should remain constant. Early carburetor models simply connected the chamber to the atmosphere, with a shared vent and overflow tube. Overflow allowed fuel drainage, preventing liquid fuel entry into the engine. In later models, float chamber pressure equals that in the air chamber. Motorcycles using air chambers for increased power maintain equal pressure in the float chamber. Venting leads into the air chamber and cannot drain overflow, necessitating a shut-off valve post-engine cutoff.
 
@@ -71,7 +71,7 @@ A float chamber's drawback lies in fuel movement: braking pushes it forward, acc
 The simplicity of our theoretical model precludes further float chamber detail exploration.
 
 
-![Fuel Nozzle Baffle Diagram](../../../static/img/c10c68.png)
+![Fuel Nozzle Baffle Diagram](../../../static/img/c10c68.jpg)
 
 > Fig. 6. Fuel nozzle baffle. Occasionally fitted over fuel nozzles to stabilize fueling during sharp accelerations and decelerations in motorcycles and sidecar-equipped vehicles experiencing similar effects during turns.
 
@@ -80,7 +80,7 @@ The simplicity of our theoretical model precludes further float chamber detail e
 We have a smooth diffuser, a fuel spray nozzle, and a constant fuel supply. The diffuser dimensions must match the engine's requirements, ensuring optimal mixture composition. Thus, the fuel supply tube should support the required fuel flow and atomization. A calibrated throttle called a jet is screwed into the fuel supply tube to achieve this. This setup affords complete control over fuel consumption and is named the main jet (Fig. 7).
 
 
-![Main Jet Diagram](../../../static/img/9fcecf.png)
+![Main Jet Diagram](../../../static/img/9fcecf.jpg)
 
 > Fig. 7. Main jet. Typically constructed as a mini-diffuser for smooth fuel flow across varying pressure conditions. Jets are marked by their smallest aperture or rated performance at a specific pressure. They appear in differing constructions and materials (usually plastic or brass). Identical construction by different manufacturers doesn't guarantee equal performance; moreover, jet 140 exceeds 135 under identical production, despite the above disparities.
 
@@ -90,7 +90,7 @@ Air speed in a carburetor depends on engine revs and diffuser diameter. Air pres
 A jet maintaining proper mixture at low revs excessively enriches it as revs rise. Conversely, a mix optimized for high-speed running arms under-recovery at lower revs. Variance in fuel delivery at maximum and minimum engine speeds is termed the fuel gradient. Motorcycle carburetors surmount this with air jets, or air correctors, blending air within the fuel delivery tube. Air consumption is regulated by jet diameter, correlating with airspeed squared in the diffuser. This enables proper mixtures beyond singular points. As engine speed smoothly changes, this ensures continuous mixture accuracy.
 
 
-![Air Jet Diagram](../../../static/img/46fddc.png)
+![Air Jet Diagram](../../../static/img/46fddc.jpg)
 
 > Fig. 8. Air jet. A narrow airway that can receive a brass jet. Used for blending air with fuel in the emulsion tube, where holes are drilled. The effect of air jets grows with engine speed rise. Fitting a fuel jet yielding optimal low-speed mixtures, complementing it with a widening air jet, achieves proper high-speed mixtures. This process may repeat until uniform mixture quality persists across the RPM spectrum. Air jet incorporation resolves multiple issues, offering diverse fuel-air mix strategies. Adjusting air provision height, well size, and hole dimensions in the fuel jet (or emulsion tube) allows mixture fine-tuning.
 

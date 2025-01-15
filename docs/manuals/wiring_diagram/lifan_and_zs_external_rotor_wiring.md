@@ -6,9 +6,9 @@ tags:
 
 # Lifan and ZS External Rotor Wiring
 
-![ZS-LIFAN150 Wiring Diagram](../../../static/img/ZS-LIFAN150-WIRING-LARGE-BLACK-CDI.png)
+![ZS-LIFAN150 Wiring Diagram](../../../static/img/ZS-LIFAN150-WIRING-LARGE-BLACK-CDI.jpg)
 
-![LIFAN 150 Wiring](../../../static/img/LIFAN%20150%20wiring%20.jpg)
+![LIFAN 150 Wiring](../../../static/img/LIFAN_20150_20wiring_20.jpg)
 
 ### Instructions
 

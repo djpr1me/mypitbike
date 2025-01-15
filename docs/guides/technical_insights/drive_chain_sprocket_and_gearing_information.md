@@ -66,4 +66,4 @@ Adjusting sprockets can modify your bike's low-end power or top speed, depending
 - A smaller front sprocket increases low-end power but reduces top speed, suitable for tight motocross or supercross tracks.
 - A larger rear sprocket achieves the same effect.
 
-![Final Drive Ratio Chart](../../../static/img/FINALDRIVE.JPG)
+![Final Drive Ratio Chart](../../../static/img/FINALDRIVE.jpg)

@@ -13,7 +13,7 @@ To determine the appropriate kit, consider the following key factors, which will
    ![Clutch Types](../../static/img/clutchtypes.jpg)
 
 2. **Stud Pattern**: Determine if the engine uses a Honda 50 stud pattern or a larger Lifan GPX type.  
-   ![Stud Pattern Comparison](../../static/img/LIFAV%20vs%20e22%20head%20PIVTURE%20dratv_1943_57254378.jpg)
+   ![Stud Pattern Comparison](../../static/img/LIFAV_20vs_20e22_20head_20PIVTURE_20dratv_1943_57254378.jpg)
 
 3. **Cylinder Size**: Measure the cylinder size, which could be 63mm, 69mm, 78mm, 81mm, or another dimension.  
    ![Cylinder Size](../../static/img/PIRANHA150ccPITBIKEENGIN_1.jpg)

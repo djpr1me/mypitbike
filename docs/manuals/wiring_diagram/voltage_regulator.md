@@ -1,3 +1,3 @@
 # Voltage Regulator  
 
-![Voltage Regulator](../../../static/file/voltageregulatorinstallation.JPG "Voltage Regulator")
+![Voltage Regulator](../../../static/file/voltageregulatorinstallation.jpg "Voltage Regulator")

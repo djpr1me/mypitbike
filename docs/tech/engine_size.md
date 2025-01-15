@@ -13,7 +13,7 @@ Pit bike engines are fundamentally derived from the Honda 70 series engines. The
 1. Engines with a displacement of 90-110cc are 9mm taller at the head, attributed to a longer cylinder.
 2. Engines with a displacement of 120cc and above are 15mm taller due to an extended cylinder length.
 
-![engine size](../../static/img/pitbikeenginesize.png "engine size")
+![engine size](../../static/img/pitbikeenginesize.jpg "engine size")
 
 This diagram provides measurements for engine mounts on a motorcycle engine, highlighting locations for the top motor mount and back lower mount. It shows crank and cam center alignment, with all dimensions in millimeters.
 
@@ -31,7 +31,7 @@ Note: Measurements are approximate as detailed in the diagram.
 
 ## Motor Mount Information
 
-![Motor Mount](../../static/img/90CC.JPG)
+![Motor Mount](../../static/img/90CC.jpg)
 
 ![Top View](../../static/img/topview_pitbike_motor_size.jpg)
 

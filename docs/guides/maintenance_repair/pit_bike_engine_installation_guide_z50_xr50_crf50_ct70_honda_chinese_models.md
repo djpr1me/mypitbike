@@ -19,7 +19,7 @@ Pit bike engines are equipped with larger carburetors, necessitating adequate cl
 
 All pit bike motors with round cam covers possess Honda-type ports and are compatible with CRF50, XR50, and CT70 stock and performance pipes. An exhaust gasket will be necessary.
 
-![Pit Bike Round Cam Cover Type Engine](../../../static/img/90CC.JPG)
+![Pit Bike Round Cam Cover Type Engine](../../../static/img/90CC.jpg)
 
 ## Wiring
 
@@ -41,4 +41,4 @@ Please refer to the pit bike chassis parts - controls section for clutch cables 
 
 A dual-feed petcock is required for the CT70, as the new carburetor does not include a petcock. The dual-feed petcock is compatible with ATC70, CT70, and Z50 models.
 
-![Dual Feed Petcock](../../../static/img/0133.JPG)
+![Dual Feed Petcock](../../../static/img/0133.jpg)

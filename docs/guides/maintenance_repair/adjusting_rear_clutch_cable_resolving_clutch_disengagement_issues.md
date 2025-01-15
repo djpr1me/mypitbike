@@ -17,7 +17,7 @@ Since 2004, we have never encountered an engine delivery where the clutch was no
 
 Once the clutch is adjusted, it is essential to ensure there is free play at the lever.
 
-![Clutch free play](../../../static/img/Clutch_Free_Play.png)
+![Clutch free play](../../../static/img/Clutch_Free_Play.jpg)
 
 ## Installing the Rear Clutch Cable
 
@@ -54,4 +54,4 @@ In exceptional cases, the following steps may be necessary:
 6. The process is complete. Enjoy your ride!
 7. If the clutch remains stuck, disassemble the clutch and oil the plates. This condition can occur in any motorcycle engine that has been inactive for an extended period.
 
-![Clutch Rod & Button](../../../static/img/clutchTechdata.JPG)
+![Clutch Rod & Button](../../../static/img/clutchTechdata.jpg)

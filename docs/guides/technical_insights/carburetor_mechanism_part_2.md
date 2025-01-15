@@ -16,7 +16,7 @@ The next step in carburetor design is installing a throttle valve controlled by 
 Such carburetors often populate automobiles but exhibit significant differences, particularly when compared to motorcycles manufactured 50 or 60 years ago. In cars, a single carburetor feeds air to four or more cylinders via a large intake manifold. Pressure pulsations from individual cylinders smooth out within the manifold and minimally feedback to the carburetor. Thus, engine and carburetor size are relatively large due to abundant under-hood space (concurrently, only one cylinder undergoes the intake stroke, necessitating a diffuser diameter sufficient for single-cylinder air supply) (Fig. 9).
 
 
-![Pressure Pulsations](../../../static/img/79ba78.png)
+![Pressure Pulsations](../../../static/img/79ba78.jpg)
 
 > Fig. 9. A single-cylinder engine creates substantial pressure pulsations every two crankshaft revolutions. A four-cylinder engine generates smaller pulsations every half-revolution.
 
@@ -26,7 +26,7 @@ These carburetors incorporate many enhancements, such as internal diffusers, to 
 Small carburetor bodies present numerous technical issues. A throttle plate's minimum thickness stems from essential strength criteria and secure attachment to the shaft. In carburetors with large diffuser diameters, the throttle edge effect is minimal. However, for motorbike carburetors under 25 mm diameter, such a valve becomes ineffective. Therefore, motorcycle engines typically employ sliding throttles, which have cylindrical forms matching the diffuser diameter and operate via cables and return springs (Fig. 10).
 
 
-![Sliding Throttle Diagram](../../../static/img/6f85ab.png)
+![Sliding Throttle Diagram](../../../static/img/6f85ab.jpg)
 
 > Fig. 10. A sliding throttle regulates airflow in the diffuser. Early carburetor models featured cylindrical throttles, later transforming into the flat flap depicted. A conical needle affixed to the throttle may enter the fuel jet aperture, controlling fuel supply. The beveled throttle edge ensures air supply during idle and up to 1/8 throttle range.
 
@@ -36,7 +36,7 @@ This throttle installs directly above the fuel jet, managing airflow via throttl
 Consequently, fuel jets assume multiple tasks and acquire four or five additional adjustments. The fuel entry tube houses a main jet and emulsion tube mingling air and fuel, crafting a fuel stream injected into the diffuser, now accommodating a conical needle (frequently referred to as the needle jet, which we'll adopt). Beyond previous adjustments, the needle jet allows us to modify the needle's width relative to the thickest part, change the needle's conical portion length and angle (creating needles with varied cone angles, Fig. 11), adjust needle penetration depth into the jet and the air throttle's edge bevel angle.
 
 
-![Conical Needle Variations](../../../static/img/3e5991.png)
+![Conical Needle Variations](../../../static/img/3e5991.jpg)
 
 > Fig. 11. Conical needles may vary in shape. Dimensions influencing fuel flow include (1) overall length, (2) cylindrical part diameter, (3) cylindrical part length, (4) starting diameter and cone angle, (5) starting diameter and additional cone angles, (6) grooves for mounting the needle.
 
@@ -63,7 +63,7 @@ The lower (thinner) needle part operates between five-eighths and three-quarters
 Such primary regulation is too crude for engine idling; hence, most carburetors include a complete idle system. The idle jet supplies fuel from the float chamber to the diffuser through an aperture, entering airflow via the throttle cutout (Fig. 12). Fully closed throttles induce manifold vacuum, sufficient to draw fuel via the idle system.
 
 
-![Idle System](../../../static/img/89373f.png)
+![Idle System](../../../static/img/89373f.jpg)
 
 > Fig. 12. Idle System. An exclusive jet transfers fuel from the float chamber to the diffuser. Air transits through an air jet, mixing with fuel. The idle system includes a conical regulating screw controlling fuel or air or mixture supply.
 
@@ -85,7 +85,7 @@ Thus, carburetors must momentarily enrich mixtures, facilitating proper function
 The economizer jet lodges within float chambers, its nozzle entering the diffuser at specified heights, generally beyond half-throttle displacement (Fig. 13).
 
 
-![Economizer Jet](../../../static/img/29705d.png)
+![Economizer Jet](../../../static/img/29705d.jpg)
 
 > Fig. 13. Full Load Mixture Enricher. Fed by float chamber-fueled jets (sometimes possessing air jets too), the nozzle traverses into the diffuser at definitive heights. Device operation commences once the throttle clears the nozzle edge, accelerating airflow and fueling further. Adjustable-height nozzles frequently equip spray devices.
 
@@ -97,7 +97,7 @@ Until throttle elevation surpasses the nozzle mouth, no chamber vacuum generates
 Thus far, we've depicted jet nozzles as smooth pipe segments. Surrounding nozzles by small screens with 180° angles accentuates vacuum, subsequently increasing fuel supply. Manipulating screen dimensions and airflow toward emulsion tubes allows yet another fuel flow regulation method (Fig. 14).
 
 
-![Jet Nozzle Modification](../../../static/img/2a0b5e.png)
+![Jet Nozzle Modification](../../../static/img/2a0b5e.jpg)
 
 > Fig. 14. Carburetor modification, styled as a primary flap carburetor, featuring a screen boosting fuel supply pre-sprayer nozzle. This design outperforms carburetors of similar sizes in fuel flow capacity, adapted for two-stroke engines with pronounced airflow variability.
 
@@ -109,7 +109,7 @@ Screen size and shape govern fuel flow control. Labeled primary flaps, these add
 Secondary jets function similarly to main air jets but receive blockage from throttles or computer-operated solenoid valves, offering dual flow gradients when activated precisely at specified throttle angles or engine speeds (Fig. 15).
 
 
-![Secondary Air Jet](../../../static/img/7213ab.png)
+![Secondary Air Jet](../../../static/img/7213ab.jpg)
 
 > Fig. 15. Solenoid valves engage at defined engine speeds or throttle lifts, onboarding air via secondary jets or refocusing main jet sources across differential air chamber sections (with variable pressures). They may populate primary, secondary, or idle air systems (for emission purposes).
 

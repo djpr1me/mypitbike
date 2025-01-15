@@ -17,4 +17,4 @@ Most aftermarket kits are tested in this manner and perform adequately on specif
 
 The image above depicts a very thin layer of clay after the engine was assembled and rotated several times. This thickness is insufficient, and further valve relief must be incorporated into the piston.
 
-![Piston Match](../../../static/img/PISTONMATCH.JPG)
+![Piston Match](../../../static/img/PISTONMATCH.jpg)

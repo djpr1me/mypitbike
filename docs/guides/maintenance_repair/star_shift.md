@@ -18,6 +18,6 @@ If you suspect a loose shift star, follow these steps:
 
 ## Visual Aids
 
-![Shift Star](../../../static/img/shift-star.png)
+![Shift Star](../../../static/img/shift-star.jpg)
 
 ![Rubber Plug Access to Shift Drum Bolt](../../../static/img/rubberplug.jpg)

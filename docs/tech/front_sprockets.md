@@ -15,4 +15,4 @@ China Pit bikes are equipped with two distinct types of front sprockets, also kn
 
 Conversely, a select few engines, such as the Lifan 125cc, require a larger shaft, which measures 20mm/14mm. This specification is applicable to models like the SSR 125TR.
 
-![Front sprockets](../../static/img/Pitbike-Front-sprockets.png "Front sprockets")
+![Front sprockets](../../static/img/Pitbike-Front-sprockets.jpg "Front sprockets")

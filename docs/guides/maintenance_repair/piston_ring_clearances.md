@@ -64,15 +64,15 @@ Rings should be installed in the correct order and position:
 
 Do not align the gaps with the piston rod and piston pin hole.  
 
-![Example image](../../../static/img/76d7de.gif)  
+![Example image](../../../static/img/76d7de.jpg)  
 
 Do not attempt to close the oil ring expander; its ends should fit freely.  
 
-![Example image](../../../static/img/234f09.png)  
+![Example image](../../../static/img/234f09.jpg)  
 
 Unfortunately, different manufacturers have different recommendations for ring installation.  
 How you install the rings is up to you.  
 
-![Various types of piston ring ends.](../../../static/img/4ad425.gif)  
+![Various types of piston ring ends.](../../../static/img/4ad425.jpg)  
 
 *Various types of piston ring ends.*  

@@ -30,4 +30,19 @@ tags:
 - Set the top ring gap 180 degrees from the wrist pin, then space the gaps evenly at one-third intervals.
 - Ensure the end gaps of the piston rings are not aligned with each other to prevent smoking; they should be evenly spaced apart.
 
-![Ring Stack](../../../static/img/ring-stack.png)
+## PISTON RING INSTALLATION
+
+Clean the piston ring grooves thoroughly and install the piston rings..
+
+**NOTE:**
+
+- Apply oil to the piston rings..   
+- Avoid piston and piston ring damage during installation.   
+- Install the piston rings with their marking facing up.
+- Do not mix the top and second rings; the top ring is narrower than the second ring in width.
+
+Space the piston ring end gaps 120 degrees apart Do not align the gaps in the oil rings (side rails).
+
+After installation, the rings should rotate freely in the ring grooves,.
+
+![Ring Stack](../../../static/img/ring-stack.jpg)

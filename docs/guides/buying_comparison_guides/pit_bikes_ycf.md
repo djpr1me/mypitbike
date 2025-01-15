@@ -6,7 +6,7 @@ tags:
 
 # Pit bikes by YCF
 
-![YCF Pit Bikes France](../../../static/img/d0e617.png)
+![YCF Pit Bikes France](../../../static/img/d0e617.jpg)
 
 ## Company's History
 
@@ -39,21 +39,21 @@ Thanks to several advantages over full-sized motorcycles, pit bikes quickly gain
 
 #### 2005/2006 First Model Lineup
 
-![First YCF Pit Bikes](../../../static/img/fc0b5f.png)
+![First YCF Pit Bikes](../../../static/img/fc0b5f.jpg)
 
 The initial lineup consisted of three models. In 2005, David joined the company, taking responsibility for the technical development of pit bikes and revamping spare part shipping and after-sales service processes.
 
 #### 2006 Collaboration with Marzocchi
 
-![Marzocchi](../../../static/img/da3ad2.png)
+![Marzocchi](../../../static/img/da3ad2.jpg)
 
 Partnership with Italian suspension kit supplier **Marzocchi** bolstered YCF's reputation and trustworthiness. The motorcycle lineup grew to six models, expanding the dealer network.
 
-![Marzocchi Forks](../../../static/img/26908a.png)
+![Marzocchi Forks](../../../static/img/26908a.jpg)
 
 #### 2007 Model Lineup
 
-![YCF Pit Bikes 2007](../../../static/img/08a68f.png)
+![YCF Pit Bikes 2007](../../../static/img/08a68f.jpg)
 
 #### 2008 Best Year for the Company
 
@@ -62,16 +62,16 @@ Collaboration with French video director **François Alaux**, who won an Oscar f
 - Company logo redesign
 - Development of unique plastic fairings
 
-![YCF Plastic](../../../static/img/1a23ae.png)
+![YCF Plastic](../../../static/img/1a23ae.jpg)
 
 - Development of a frame with an integrated filter box (a world first)
 
-![YCF Filter Box](../../../static/img/57d160.png)
+![YCF Filter Box](../../../static/img/57d160.jpg)
 
 - Updated suspension design
 - First freestyle rotor for a pit bike
 
-![YCF Freestyle Rotor](../../../static/img/9aa4a7.png)
+![YCF Freestyle Rotor](../../../static/img/9aa4a7.jpg)
 
 YCF also teamed up with **One Industries** for graphics preparation on plastics. The export range expanded to Austria and Morocco.
 
@@ -79,7 +79,7 @@ YCF also teamed up with **One Industries** for graphics preparation on plastics.
 
 YCF becomes a full-fledged pit bike manufacturer.
 
-![YCF Factory in China](../../../static/img/3e95ba.png)
+![YCF Factory in China](../../../static/img/3e95ba.jpg)
 
 A factory spanning 2,500 square meters was built, establishing spare part production for post-warranty service and repair. An assembly line was set up for maximum quality. The workforce consists of 30 employees. The motorcycle lineup expanded to seven models.
 
@@ -87,25 +87,25 @@ A factory spanning 2,500 square meters was built, establishing spare part produc
 
 Two new importers appeared in Finland and Spain. The lineup expanded to nine pit bikes. All parts are produced in-house. Collaboration with **Elka**, a Canadian suspension element manufacturer, began.
 
-![Elka](../../../static/img/bbd0e2.png)
+![Elka](../../../static/img/bbd0e2.jpg)
 
 YCF created its own testing ground in China.
 
-![Testing Ground in China](../../../static/img/7a8187.png)
+![Testing Ground in China](../../../static/img/7a8187.jpg)
 
 The factory area expanded to 5,000 square meters, and staff grew to 50. Land was leased for a CNC parts production plant (subframes, triple clamps, etc.).
 
 #### 2011 Establishment of CNC Parts Production
 
-![CNC Production YCF](../../../static/img/86dad2.png)
+![CNC Production YCF](../../../static/img/86dad2.jpg)
 
 YCF invests in a CNC parts manufacturing plant, occupying 600 square meters at the Chinese factory. The trained staff numbers six. Investments in equipment procurement commenced, leading to the production of anodized aluminum parts (hubs, pegs, shift levers, fuel caps, triple clamps, sprockets).
 
-![YCF Factory Products](../../../static/img/1045ea.png)
+![YCF Factory Products](../../../static/img/1045ea.jpg)
 
 #### 2011 New Premises in France
 
-![YCF Facility in France](../../../static/img/e784ca.png)
+![YCF Facility in France](../../../static/img/e784ca.jpg)
 
 The product range swelled to ten pit bikes. A new 1,500-square-meter warehouse stores assembled pit bikes and individual parts. The premises feature three tracks and a showroom where dealers can test new pit bike models on-site.
 
@@ -124,11 +124,11 @@ YCF becomes the exclusive importer of Japanese **Daytona** engines and **Engi** 
 
 Long-term goals: achieve sales of **6,000 pit bikes in France and 10,000 worldwide over three years.**
 
-![YCF Pit Bikes 2012](../../../static/img/aff26a.png)
+![YCF Pit Bikes 2012](../../../static/img/aff26a.jpg)
 
 #### Limited Edition YCF Pit Bikes
 
-![Limited Edition YCF Pit Bikes](../../../static/img/96a5eb.png)
+![Limited Edition YCF Pit Bikes](../../../static/img/96a5eb.jpg)
 
 ## YCF in Numbers
 
@@ -148,7 +148,7 @@ France:
 
 #### Sales Chart
 
-![YCF Pit Bikes Sales Chart](../../../static/img/890aef.png)
+![YCF Pit Bikes Sales Chart](../../../static/img/890aef.jpg)
 
 #### Top Riders Choose YCF Pit Bikes
 
