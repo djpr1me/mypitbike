@@ -8,6 +8,43 @@ import React from 'react';
 
 # Daytona Timing Adjustment
 
+# Setting Different Timing Advance Curves with Daytona CDI
+
+Your PitPro with a Daytona engine is equipped with an outer rotor kit connected to a digital CDI box. The digital CDI enables you to set the initial timing advance and choose from 4 different advance curves.
+
+The CDI box has 4 wires that can be connected in 4 different ways:
+
+- No wire connected: **Program 1** – least initial timing advance.
+- Yellow and green\* wire connected: **Program 2** – more initial timing advance.
+- White and green\* wire connected: **Program 3** – even more initial timing advance.
+- White and green\* AND yellow and green\* wires connected: **Program 4** – most initial timing advance.
+
+\* The green wires are both ground, so it doesn’t matter which one you choose.
+
+|            | Not Connected | Yellow and Green | White and Green | White and Green and Yellow and Green |
+|------------|---------------|------------------|-----------------|--------------------------------------|
+| **Program**| Program-1     | Program-2        | Program-3       | Program-4                            |
+| 0          | 10            | 10               | 10              | 10                                   |
+| 1          | 10            | 10               | 10              | 15                                   |
+| 2          | 15            | 15               | 15              | 20                                   |
+| 3          | 20            | 20               | 20              | 25                                   |
+| 4          | 22.5          | 25               | 25              | 30                                   |
+| 5          | 25            | 30               | 30              | 35                                   |
+| 6          | 27.5          | 35               | 35              | 40                                   |
+| 7          | 30            | 35               | 40              | 45                                   |
+| 8          | 30            | 35               | 40              | 45                                   |
+| 9          | 30            | 35               | 40              | 45                                   |
+| 10         | 30            | 35               | 40              | 45                                   |
+| 11         | 30            | 35               | 40              | 45                                   |
+| 12         | 30            | 35               | 40              | 45                                   |
+| 13         | 30            | 35               | 40              | 45                                   |
+| 14         | 30            | 35               | 40              | 45                                   |
+| 15         | 30            | 35               | 40              | 45                                   |
+
+Table and graph of initial timing advance in degrees at different RPM for the 4 curves.
+
+This setup allows you to adjust the ignition according to track conditions or different uses of the bike. For example, in very muddy and “heavy” conditions, it’s preferable to ride with less timing advance, whereas in supermoto, more timing advance may be beneficial. More timing advance can enable more power, especially at higher RPMs, and is often paired with riding with higher octane fuel. However, riding with too much timing advance under heavy load increases the risk of engine knocking/detonation, which could potentially result in engine damage.
+
 Setting different timing advance curves with Daytona CDI
 
 <div style={{ position: 'relative', paddingBottom: '141.4%', height: 0, overflow: 'hidden', maxWidth: '100%', background: '#f0f0f0' }}>

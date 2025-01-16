@@ -34,8 +34,8 @@ tags:
 - 6mm exhaust studs
 
 ## Valve Size
-- **Intake:**
-- **Exhaust:**
+- Intake:
+- Exhaust:
 
 # Pit Bike Cylinders
 

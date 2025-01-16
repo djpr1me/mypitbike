@@ -8,6 +8,294 @@ import React from 'react';
 
 # Carburetor Mikuni VM26  
 
+## PARTS LIST
+
+1. Rubber Cap, Throttle Cable
+2. Cable Adjuster
+3. Locknut, Cable Adjuster
+4. Top, Mixing Chamber
+5. Tube, Air Vent
+6. Spring, Piston Valve
+7. Plate, Needle Retainer
+8. "E" Ring
+9. Jet Needle
+10. Piston Valve
+11. Needle Jet
+12. Rubber Cap, Starting System
+13. Cap, Starter Plunger
+14. Lever Assy, Starting System
+15. Leaf Spring, Lever Positioning
+16. Spring, Starter Plunger
+17. Plunger, Starting System
+18. Body, Mixing Chamber
+19. Gasket, Float Chamber
+20. Baffle Plate, Float Chamber
+21. Pilot Jet
+22. Pin, Float Arm Hinge
+23. Float Arm
+24. Float
+25. Float Chamber
+26. Washer, Float Chamber Plug
+27. Plug, Float Chamber
+28. Air Jet
+29. Air Screw
+30. Spring, Air Adjusting Screw
+31. Spring, Idle Adjusting Screw
+32. Screw, Idle Adjusting
+33. Washer, Needle & Seat Assy
+34. Needle & Seat Assy
+35. Cup, Fuel Retaining
+36. Main Jet
+37. Plate, Vent Tube Retaining
+38. Screw, Float Chamber
+
+|          | V28-49    | VM30-44  | EE-ZENA  | VN34-20  | V36-4    | V38-3    | VM4.0-4  | VM44-3   |          | VH28-49 | VH30-44 | VH32-33 | V34-20  |          | VH38-3  | VM40-4  |          |
+|----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|---------|---------|---------|---------|----------|---------|---------|----------|
+| 1        | VH26/46   | VM26/46  | VM26/46  | VN26/46  | VM26/46  | VM26/46  | VH26/46  | VM26/46  | 20.      | VH28/227| VM34/114| VH34/114| VM34/114| V36/40   | VM36/40 | VM44/20 | VM44/20  |
+| 2        | M21/14    | K21/14   | M21/14   | M21/14   | M21/14   | K21/14   | M21/14   | M21/14   | 21.      | VM22/210| V22/210 | VH22/210| VH22/210| VM22/210 | VM22/210| VM22/210| VM22/210 |
+| 3        | B30/247   | B30/247  | B30/247  | B30/247  | B30/247  | B30/247  | B30/247  | B30/247  | 22.      | BV26/22 | BV26/22 | BV26/22 | BV26/22 | BV26/22  | BV26/22 | BV26/22 | BV26/22  |
+| 4        | VM26/56   | VM34/27  | VM34/27  | V34/27   | W36/45   | VM36/45  | VM44/05  | VM44/05  | 23.      | VM28/166| VM34/73 | V34/73  | VM34/73 | VM36/15  | VM36/15 | VH36/15 | VM36/15  |
+| 5        | V7/173    | VM28/78  | VM28/78  | VM28/78  | VM28/78  | VM28/78  | VM28/78  | VM28/78  | 24.      | VM28/164| VM34/61 | VM34/61 | VH34/61 | VH24/236 | VM24/236| VH24/236| VM24/236 |
+| 6        | VM24/195  | VM34/50  | VM34/50  | VM34/55  | VM34/55  | VM34/55  | VM44/13  | VM44/13  | 25.      | VM28/130| VM34/68 | VM34/68 | VM34/68 | VM36/33  | VM36/33 | VM44/04 | VM44/04  |
+| 7        | VM28/132  | V34/31   | VM34/31  | VM34/31  | VM35/09  | VM35/09  | VM44/09  | VM44/09  | 26.      | VM28/134| VM28/254| VM28/254| VH28/254| VM28/254 | VM28/254| VM28/134| VM28/134 |
+| 8        | VM20/369  | V20/369  | V20/369  | VN20/369 | VM20/369 | VM20/369 | BS32/126 | BS32/126 | 27.      | VM28/133| VM28/253| V28/253 | W28/253 | VM28/253 | VM28/253| VH28/133| VH28/133 |
+| 9        | J8-5F21   | J8-6F5   | J8-6DP5  | J8-6DH3  | J8-6FJ6  | J8-6DP1  | J8-7F6   | J8-7F6   | 28.      | BS30/97 | BS30/97 | BS30/97 | BS30/97 | BS30/97  | BS30/97 | BS30/97 | BS30/97  |
+| 10       | V28/56    | VM34/110 | VM34/110 | VM34/110 | V36/36   | VM38/24a | 20/0A    | VM40/02  | 29.      | VM20/214| VH20/214| VM20/214| VM20/214| VM20/214 | VM20/214| VM20/214| VM20/214 |
+| 11       | V30/38    | VH34/05  | VH34/05  | V34/05   | VM34/05  | VM34/17  | VM44/10  | VM44/10  | 30.      | M12F/46 | MI2F/46 | M12F/46 | M12F/46 | M12F/46  | M12F/46 | M12F/46 | ML2F/46  |
+| 12       | VH20/455  | VM20/455 | VM20/455 | VM20/455 | VH20/455 | VM20/455 | VH20/455 | VM20/455 | 31.      | M20/11  | M20/11  | H20/11  | M20/11  | M20/11   | M20/11  | M20/11  | M20/11   |
+| 13       | MD16/30   | VM20/456 | VM20/456 | VH20/456 | VM20/456 | VM20/456 | VM20/456 | VM20/456 | 32.      | VM24/224| VH28/142| VM24/390| VM24/224| VM22/171 | VM22/171| VM24/224| VM22/171 |
+| 14       | VM28/497  | VM28/124 | VM28/124 | VM28/124 | VM36/58  | VM36/58  | VM36/58  | V26/58   | 33.      | VM26/25 | B34/52  | B34/52  | B34/52  | B34/52   | B34/52  | B34/52  | 834/52   |
+| 15       | VM26/09   | VM32/17  | V32/17   | VM32/17  | VM26/09  | VM26/09  | VM26/09  | VM26/09  | 34.      | VM26/26 | VN34/39 | VM34/39 | VM34/39 | VM34/39  | VM34/39 | VH34/39 | VM34/39  |
+| 16       | VM16/42   | VM16/42  | V16/42   | VM16/42  | VM16/42  | VM16/42  | VM16/42  | VM16/42  | 35.      | VH28/228| VK36/17 | VM36/17 | VN36/17 | VM36/17  | VM38/09 | VM28/228| VH28/228 |
+| 17       | VM26/116  | VM18/144 | VM18/144 | VM18/144 | VM18/144 | VML8/144 | V8/144   | VM18/144 | 36.      | 4/042   | 4/042   | 4/042   | 4/042   | 4/042    | 4/042   | 4/042   | 4/042    |
+| 18       | VM28SS    | VM3OSS   | VM32SS   | VM34SS   | VM36SS   | VM38SS   | VM40SS   | VM44SS   | 37.      | V15/164 | VK28/79 | VM28/79 | VM28/79 | V28/79   | V28/79  |         | VM28/79  |
+| 19       | VM28/129  | VM34/86  | VN34/86  | VH34/86  | V36/20   | VM36/20  | VM36/20  | V36/20   | 38.      | CW2-0416| CW2-0516| CW2-0516| C2-0516 | C2-0516  | C2-0516 | CW2-0516| CH2-0516 |
+
+## Foreword
+
+This manual is intended as a guide for users of Mikuni carburetors who want to learn the adjusting method for the best performance from our products. In motorcycles, special tuning of the engine is now considered a routine practice. The arrows that appear in the drawings in this text show the direction in which air, fuel, and an air-fuel mixture flow.
+
+The mounting angle fore and aft inclination of the carb should not exceed approximately 20 degrees from horizontal.
+
+## TABLE OF CONTENTS
+
+1. What is a carburetor?
+2. Air-fuel mixture ratio
+3. Function and construction
+   - 3-1. Low-speed fuel system (pilot system) 2 ~ 3
+   - 3-2. Main fuel system (main system)
+     - 3-2-1. Primary type
+     - 3-2-2. Bleed type
+   - 3-3. Float system 5
+   - 3-4. Starting device (starter system) 5 ~ 6
+4. Tuning up of engine and selection of aperture of carburetor
+   - 4-1. Selection of aperture of carburetor 6 ~ 7
+   - 4-2. Sizes of Mikuni carburetors 7
+5. Carburetor setting 7
+   - 5-1. Selection of main jet 8
+   - 5-2. Selection of needle jet and jet needle 9 ~ 10
+   - 5-3. Pilot jet and the slow system 10 ~ 11
+   - 5-4. The cutaway size of throttle valve 11
+6. Maintenance 12
+7. Tuning up of carburetor for racing 13
+   - 7-1. The amount of incoming air in relation to meteorological conditions 13
+
+## 1. Function of a carburetor
+
+The function of a carburetor is to produce a combustible air-fuel mixture by breaking fuel into tiny particles (in the form of vapor) and by mixing the fuel with air in a proper ratio, and to deliver the mixture to the engine. A proper ratio (mixture ratio or air-fuel ratio) means an ideal air-fuel mixture that can burn without leaving an excess of fuel or air. Whether the proper mixture ratio is maintained or not holds the key to efficient engine operation.
+
+## 2. Air-fuel mixture required by the engine (Fig. 1)
+
+The ratio of a mixture of fuel and air is called the mixture ratio or the air-fuel ratio and is generally expressed by the weight proportion. Theoretically, the amount of air required for complete combustion of 1 gram of fuel under normal conditions is:
+
+Mixture ratio = 15 grams of air theoretical mixture ratio 1 gram of fuel.
+
+In reality, varying mixture ratios are required for the engine, depending on operating conditions. Although the required mixture ratio varies more or less with the type, the cooling efficiency, etc. of the engine, the mixture ratio shown in Fig. 1 is required for ordinary engines. In the high-speed range, the ratio of about 12 to 13 grams of air for 1 gram of fuel produces the maximum output. However, in the case of an engine with low cooling efficiency, a somewhat richer mixture (10 to 12 grams of air against 1 gram of fuel) may be required to prevent seizure of the engine.
+
+## 3. Functions and construction
+
+The engine of a vehicle is operated under a wide range of conditions, from idling with the throttle valve (1) remaining almost closed to full load (the maximum output) with the throttle valve fully opened. To meet the requirements for the proper mixture ratio under these varying conditions, a low-speed fuel system (the pilot system) and a main fuel system (the main system) are provided in Mikuni VM-type carburetors.
+
+### 3-1. Low-speed fuel system (the pilot system) ... Fig. 2 and Fig. 3
+
+Since the engine is operated with the throttle valve almost closed at idling or in the low-speed range, the velocity of air flowing through the needle jet (2) is slow. Consequently, a negative pressure strong enough to draw fuel from the needle jet in the main fuel system is not created. The fuel supply during this low-speed operation is controlled by means of the pilot outlet (3) and the bypass (4) that are provided close to the engine. When the degree of the throttle valve opening is small at idling, fuel metered with the pilot jet (5) is mixed with air adjusted in a proper amount by the air screw (6) and is broken into fine particles.
+
+The mixture is again mixed with air coming from the bypass and is drawn into the pilot outlet to mix with air flowing through the main bore (7). The fuel mixed with air in the optimum ratio at this stage then goes into the engine. When the throttle valve opening gets wider for low-speed operation, the pilot outlet alone cannot supply the required fuel, and the shortage has to be made up with fuel injected from the bypass. The adjustment of the mixture ratio during this stage is made by the pilot jet and the air screw, in the case of a two-hole type fuel system. There is also a one-hole type low-speed fuel system mainly used for carburetors having a small main bore. The process of producing the air-fuel mixture and adjusting the mixture ratio is the same as in a two-hole type low-speed system.
+
+### 3-2. Main Fuel System in Mikuni VM-type carburetors
+
+The pilot system and the main system are of independent construction. The fuel flow in these two systems is shown in Fig. 5. There are two types of the main fuel system; one is a primary type used widely for 2-cycle engines and the other is a bleed type which may be used for 4-cycle engines as well as for rotary valve type 2-cycle engines.
+
+### 3-2-1. Primary type
+
+When the throttle valve is opened about 1/4 or more, the velocity of air flowing through the needle jet increases, and also the negative pressure increases to the point where fuel can be sucked in. When the opening of the throttle valve is between about a quarter and three quarters, fuel passes through the main jet and, after being metered in the clearance between the needle jet and the jet needle, it is mixed with air that is metered in the air jet, and atomization of the fuel is accelerated.
+
+The mixture is then injected, after mixing with air flowing through the main bore, to the engine in the optimum air-fuel ratio. During this process of operation, the cutaway of the throttle valve serves to control the negative pressure on the needle jet, thereby regulating the amount of fuel that is injected into the engine. When the throttle valve is opened more than three quarters for high-speed operation, fuel is chiefly metered with the main jet.
+
+### 3-2-2. Bleed type (Fig. 7)
+
+The construction of the bleed-type main fuel system is the same as that of the primary type, except for the bleed hole that is provided in the needle jet (Fig. 7). In the case of the primary type, air that comes from the air jet is mixed with fuel that is metered with the needle jet and the jet needle. The bleed type, on the other hand, is designed to hold air in the body section of the needle jet and then to have the air and fuel metered.
+
+### 3-3. Float system (Fig. 8)
+
+The float system serves to maintain a constant level of fuel in the bowl. Fuel flows between the needle valve and the valve seat and enters the float chamber. As the fuel enters the float chamber, the float moves upward to the pre-determined level because of the action of buoyancy. When the buoyancy and the fuel pressure balance, the needle valve and the valve draw close to each other, shutting off the supply of fuel from the pump.
+
+The fuel level in the bowl controls the amount of fuel in the fuel mixture. Too high a level allows more fuel than necessary to leave the nozzle, enriching the mixture. Too low a level results in a leaner mixture, as not enough fuel leaves the nozzle. Therefore, the predetermined fuel level should not be changed arbitrarily.
+
+### 3-4. Starting device (starter system) (Fig. 9)
+
+In place of the choke, the starter system is employed for Mikuni carburetors. In the starter type, fuel and air for starting the engine are metered with entirely independent jets. The fuel metered in the starter jet is mixed with air and is broken into tiny particles in the emulsion tube. The mixture then flows into the plunger area, mixes again with air coming from the air intake port for starting, and is delivered to the engine in the optimum air-fuel ratio through the fuel discharge nozzle. The starter is opened and closed by means of the starter plunger. Since the starter type utilizes the negative pressure of the inlet pipe, it is important that the throttle valve is closed when starting the engine. At high temperatures (approximately above 68F), the engine can be started without using the starter.
+
+## 4. Tuning up of the engine and selection of the aperture of carburetor
+
+Tuning up normally means a process of accurate and careful adjustment to obtain maximum engine performance, although it means, in a broad sense, an economical improvement in fuel consumption. Improvement of power output of the engine depends on the amount of air drawn into the cylinder per unit time. A practice generally followed for engine tune-up includes:
+
+1. To improve suction efficiency and exhaust efficiency by remodelling the intake and exhaust system.
+2. To improve combustion efficiency by raising the compression ratio.
+3. To increase the number of revolutions by adjusting the ignition timing.
+
+Just as we need to take balanced meals of high calories in our daily life, the engine cylinders need to take sufficient air and fuel mixed in proper amounts. The function of a carburetor is to prepare and supply a mixture of fuel vapor and air to the engine cylinders in proper proportion for efficient combustion.
+
+### 4-1. Selection of the aperture of carburetor
+
+One of the prerequisites for improving the output is to use a carburetor with as large an aperture as possible. However, a large aperture alone does not necessarily improve the output. As shown in Fig. 10, it is true that a large aperture improves the power output in the high-speed range. In the slow-speed range, on the other hand, the output rather drops. The aperture of a carburetor is determined by various factors. These factors include (1) whether the vehicle is intended for racing, (2) the design of the engine, (3) driving technique of the driver, (4) the driver's preference, etc. In addition, the maximum output, the maximum torque, and the minimum number of revolutions for stable engine operation must also be taken into account. Fig. 11 shows the values which we have obtained through our experience over the years. Since the engine comes in a wide variety of types, the values given in Fig.11 should be taken only as reference values.
+
+### 4-2. Sizes of Mikuni carburetors
+
+Mikuni VM-type carburetors come in various sizes, with the main bore ranging from 39" (10) to 1.73' (44) (in even numbers for the most part). The body of carburetors is made of aluminum or zinc. In some carburetors, the main jet is installed in such a manner as to permit quick and easy replacement from the outside by merely removing the jet holder. For further information, see our catalog.
+
+## 5. Carburetor setting
+
+Once the aperture of the carburetor is determined, a test (normally referred to as setting or matching) to select the proper jet or setting part should be made. The size of the jet is determined by measuring the output in a bench or chassis dynamo test. For racing, it is best to determine the proper size of the jet on the racing course because the following points must be taken into account:
+
+- a. The altitude (atmospheric pressure), temperature, and humidity of the racing course.
+- b. The operation of the engine based on the topography of the racing course.
+
+### 5-1. Selection of the main jet
+
+First, do the following on a flat road:
+
+1. Select the largest main jet (the limit of a rich mixture) which affords the maximum revolutions per minute (the maximum speed). In this case, select the engine speed according to the dimensions of the test course.
+2. Compare the gain in speed that you can obtain by quick acceleration from a constant speed of 25-30 M.P.H (40-50 km/h), by using different sizes of main jets.
+3. Check the exhaust fumes and read the spark plug (Selection of the spark plug should be made based on the thermal value that would best suit power output of the engine).
+
+Next, compare, on the racing course, the test results you obtained from the above. The points to be checked, among others, are:
+
+1. Smooth and steady operation of the engine at as high a speed as possible under varying operating conditions such as shifting of the gear, change in road conditions, ascending and descending slopes, etc.
+2. Sustained operation at low speeds and at heavy engine loads.
+3. Sustained operation at high speeds (without knocking or seizure).
+
+As shown in Photo 1, there are three types of main jets, Model A, B, and C. These models come in the following sizes:
+
+- **Model A & B:**
+  - No. 50, 55, 60 ... up to No. 95 (in multiples of 5)
+  - No. 100, 110, 120 ... up to No. 500 (in multiples of 10)
+
+- **Model C:**
+  - No. 50, 55, 60 ... up to No. 195 (in multiples of 5)
+  - No. 200, 210, 220 ... up to No. 300 (in multiples of 10)
+
+Fig. 12 shows a comparison of fuel flow curves. The straight line is for Model C main jet and the dotted line for Model A and B main jets. Each model of the main jet, in sizes within the range of ±10%, was tested.
+
+### 5-2. Selection of the needle jet and jet needle
+
+A carburetor with a piston-type throttle valve is also called a variable venturi-type carburetor. In this type of carburetor, the needle jet and the jet needle serve to control a proper air-fuel mixture ratio during the so-called medium throttle valve opening (between 1/4 and 3/4 opening). Whether or not the right size of these parts is used heavily influences engine performance at partial load. The jet needle tapers off at one end, and the clearance between the jet needle and the needle jet increases as the throttle valve opening widens. The air-fuel mixture ratio is controlled by the height of the "E" ring that is inserted into one of the five slots provided in the head of the jet needle. The variation of fuel flow based on the height of the "E" ring is shown in Fig. 13.
+
+### 5-3. Pilot jet and the slow fuel system (Fig. 15 & 16)
+
+In the slow system of the carburetor, the pilot outlet and the bypass have holes whose size matches the aperture provided to the body. Hence, selecting the opening of the pilot jet and the air screw is important. Turn the grip a little at no-load operation and see if the engine revolution increases smoothly. If the pilot jet is too small, the increase in engine speed is slow and irregular. Too large a pilot jet, on the other hand, would produce heavy exhaust smoke as well as a dull exhaust noise. If you cannot maintain the speed in the range of 12 ~ 25 M.P.H (30 ~ 40 km/h) with the grip held constant, the pilot jet is too small.
+
+Selection of the air screw's opening should be made in the following manner. First, warm up the engine adequately and set the throttle stop screw so that the engine revolution at idling will be about 10-20% higher than the number of revolutions you aim at. Then, turn the air screw left and right (between 1/4 and 1/2 turn) and select the position where the engine revolution reaches the maximum. Adjust the throttle stop screw to bring down the engine revolution to your target speed for idling. After this adjustment of the throttle stop screw is made, once more select the position where the engine revolution reaches the maximum by turning the air screw left and right (between 1/4 and 1/2 alternately). At this point, attention should be paid to the following points:
+
+1. If there is a certain range in the opening of the air screw where the fast engine revolution can be obtained (for instance, the number of revolutions does not change in the range of 1-1/2 to 2.0 turn), it would be better for acceleration to select 1-1/2 turn.
+2. To determine the "fully closed" position of the air screw, turn the air screw slightly. Excessive tightening of the air screw would damage the seat. The position where the air screw comes to a stop should be considered the "fully closed" position. The maximum number of turns in the opening of the air screw must be limited to 3.0. If the air screw is opened over 3.0 turn, the spring will not work, and the air screw can come off during vehicle operation. Fig. 16 shows the fuel flow curve in relation to the opening of the air screw.
+
+### 5-4. The cutaway size of the throttle valve (Fig. 17)
+
+The size of the throttle valve cutaway affects the air-fuel mixture ratio when the throttle valve opening is between 1/8 and 1/2, especially in the range of 1/8 and 1/4 opening. As the cutaway gets larger in size, with the throttle valve opening unchanged, air inflow resistance is reduced, causing an increase in the amount of air intake, resulting in a lean mixture. On the other hand, the smaller the size of the cutaway, the richer the air-fuel mixture becomes. Interchange of the cutaway is made when the low-speed fuel system is out of balance with the main fuel system.
+
+## 6. Maintenance
+
+A carburetor consists of various precision-machined parts such as jets. Therefore, care should be exercised when removing jets or disassembling the carburetor for cleaning.
+
+1. Proper tools should be used for disassembling and reassembling jets. Handle each part carefully to avoid scratches, bending, etc.
+2. Wash the jets and the carburetor proper in solvent and blow them out with compressed air.
+3. For carburetors whose main jet can be replaced from the outside, an "O" ring is used to prevent leakage of fuel. When fitting the "O" ring, apply a little lubricant or fuel to the "O" ring.
+4. It is important to maintain the fuel level in the carburetor. Do not touch the float arm when disassembling the carburetor. If the float arm is bent accidentally, adjust the height of the rib to the specified measurement. (Refer to Fig. 18)
+
+| Model     | VM26 -74 | VM28 -49 | VM30 -44 | VM32 -33 | VM34 -20 | VM36 -4 | VM38 -3 | VM40 -1 | VM44 -1 |
+|-----------|----------|----------|----------|----------|----------|---------|---------|---------|---------|
+| H (inch) (mm) | .59~.66 15~17 | .59~.66 15~17 | .86~.94 22~24 | .86~.94 22~24 | .86~.94 22~24 | .66~.74 17~19 | .66~.74 17~19 | .66~.74 17~19 | .66~.74 17~19 |
+
+## 7. Tuning up of Carburetor for Racing
+
+The maximum output of the engine depends on:
+
+1. The amount of air drawn into the cylinders.
+2. Whether an air-fuel mixture is delivered to the cylinders in a proper ratio.
+
+Since the amount of air drawn into the carburetor varies with the temperature, atmospheric pressure, humidity, etc., the mixture ratio is also changed. It is important, therefore, that the fuel flow be adjusted in accordance with the altitude of the racing course and meteorological conditions prevailing at a given time.
+
+### 7-1. The Amount of Incoming Air in Relation to Meteorological Conditions
+
+The amount of air drawn into the cylinders is influenced by such factors as the altitude, temperature, and humidity. Suppose that the amount of air sucked into the cylinders at an elevation of zero is taken as 100 (with constant temperature and humidity). The amount of air decreases in proportion to a rise in elevation as shown in Fig. 19. Reduction in the amount of air drawn into the cylinders changes the air-fuel mixture ratio, resulting in a marked drop in power output. Fig. 20 shows the relations between a rise in temperature and the amount of air drawn into the cylinders (keeping constant atmospheric pressure and humidity, with the amount of air at 32°F (0°C) taken as 100).
+
+For racing engines, where maximum output is constantly called for, it is best to tune the engine by making a matching test of the carburetor in accordance with the temperature and conditions on the racing course.
+
+## Engine Trouble-shooting
+
+When the carburetor setting is not correct for the engine, various irregularities are noticed. These can be traced to two main causes:
+
+1. **When an air-fuel mixture is too rich:**
+
+   - (a) The engine noise is dull and intermittent.
+   - (b) The condition worsens when the starter is opened.
+   - (c) The condition worsens when the engine gets hot.
+   - (d) Removal of the air cleaner will improve the condition somewhat.
+   - (e) Exhaust gases are heavy.
+   - (f) The spark plug is fouled.
+
+2. **When an air-fuel mixture is too lean:**
+
+   - (a) The engine gets overheated.
+   - (b) The condition improves when the starter is opened.
+   - (c) Acceleration is poor.
+   - (d) The spark plug burns.
+   - (e) The revolution of the engine fluctuates and a lack of power is noticed.
+
+## CARBURETOR DIMENSIONS
+
+| Model          | VM28-49 | VM30-44 VM32-33 | VM34-20 | VM36-4 | VM38-3 | VM40-4 | VM44-3 |
+|----------------|---------|----------------|---------|--------|--------|--------|--------|
+| A              | 35      | 40             | 40      | 40     | 43     | 43     | 52     |
+| B              | 33      | 38             | 38      | 41     | 41     | 41     | 50     |
+|                | 10      | 8              | 8       | 8      | 8      | 8      | 8      |
+|                | 4       | 4              | 4       | 4      | 4      | 4      | 4      |
+| E              | 49      | 44.5           | 44.2    | 44.5   | 49     | 49     | 49     |
+|                | 44      | 48             | 57.8    | 48     | 67     | 67     | 67     |
+| G              | 9       | 9              | 9       | 9      | 9      | 6      | 9      |
+| H              | 8       | 8              | 8       | 8      | 8      | 8      |        |
+| I              | 44      | 57.5           | 57.5    | 57.5   | 62     | 62     | 70     |
+| J              | 72      | 83.4           | 83.4    | 83.4   | 80.4   | 80.4   | 79.4   |
+| K              | 66.5    | 76             | 76      | 76     | 79     | 81     | 94     |
+|                | 54      | 67             | 69      | 69     | 73     | 73     | 86     |
+| Position       | Throttle adjuster: Left, Air screw: Right |
+| Weight (gr)    | 550     | 800            | 770     | 750    | 850    | 830    | 1020   |
+| Material       | Al      | Al             | Al      | A&     | AQ     | A&     | A&     |
+
+## RUBBER FLANGE DIMENSIONS (millimeters)
+
+| Model           | a   | b   | c   | P  | e  | f   | g   | h   | i   | Remarks  |
+|-----------------|-----|-----|-----|----|----|-----|-----|-----|-----|----------|
+| I-VM28-200-1    | 60  | 8.5 | 10  | 54 | 31 | 29.5 | 27.5 | 17.5 | 35  | VM26·28  |
+| I-VM30-200-1    | 57.2| 8.5 | 10  | 58 | 31 | 30   | 23   | 1.5 | 37  | VM26·28  |
+| I-VM32-200-1    | 74.6| 8.5 | 10  | 60 | 35 | 34   | 32   | 18  | 40  | VM3034   |
+| I-VM34-200-1    | 60  | 8.5 | 10  | 54 | 37 | 35.5 | 25.0 | 15  | 40  | VM3034   |
+| I-VM36-200-1    | 70  | 8.5 | 10  | 54 | 39.5 | 38.5 | 25.0 | 15  | 43  | VM36·38 |
+| I-VM38-200-1    | 74.6| 8.5 | 10  | 60 | 38 | 86   | 28   | 15  | 43  | VM36·38 |
+| I-VM40-200-1    | 74.6| 8.5 | 10.5| 68 | 47 | 46   | 32   | 15  | 52  | VM40·44 |
+| I-VM44-200-1    | 84  | 8.5 | 10.5| 67 | 47 | 46   | 25.5 | 15  | 52  | VM40·44 |
+
 Mikuni VM carburetor super tuning manual
 
 <div style={{ position: 'relative', paddingBottom: '141.4%', height: 0, overflow: 'hidden', maxWidth: '100%', background: '#f0f0f0' }}>
