@@ -192,7 +192,7 @@ const config = {
         appId: 'ZBAV8KAAU6',
 
         // Public API key: it is safe to commit it
-        apiKey: '5cf61d4e746ac2e444e978368521f871',
+        apiKey: '381699df474fba3ce212b990b0a3b0a1',
 
         indexName: 'mypitbike',
 
