@@ -188,9 +188,9 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       algolia: {
-          appId: '123123',
-          apiKey: '345345345',
-          indexName: 'MyPitbike',
+          appId: 'ZBAV8KAAU6',
+          apiKey: '02e46b2545a59ce7e187fc517e32eb41',
+          indexName: 'mypitbike',
         }
     }),
 };
