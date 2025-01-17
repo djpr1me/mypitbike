@@ -171,7 +171,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Russian source',
+                label: 'Ru Source',
                 href: 'http://mypitbike.ru',
               },
               {
