@@ -15,3 +15,5 @@ Some information and illustrations were sourced from the internet and scanned fr
 Additionally, I would like to mention that I am not a professional mechanic, and English is not my native language, so you may encounter inaccuracies in the guides. If you have any comments or suggestions, please send feedback, and I will try to incorporate them.
 
 Thank you, and I hope this project helps you solve your problem.
+
+If you ever need to write me a letter, please send it to "info at mypitbike.ru". 
