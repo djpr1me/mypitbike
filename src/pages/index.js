@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Knowledge base from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Your ultimate resource for everything pit bike, featuring in-depth guides, manuals, and expert insights to enhance your riding experience.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

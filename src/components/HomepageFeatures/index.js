@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Guides',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/guides.svg').default,
     description: (
       <>
         Explore a vast collection of in-depth articles and illustrations covering pit bike maintenance, repairs, model reviews, purchasing advice, performance tuning, legal info, and technical insights, ensuring you can find guidance for any scenario.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Tech Database',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/tech-database.svg').default,
     description: (
       <>
         Access a comprehensive technical reference library filled with essential documentation, including component dimensions, torque settings, fluid capacities, piston ring sizes, and gear ratios—details omitted from extensive <code>Guides</code> but crucial for precision.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Manuals',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/manuals.svg').default,
     description: (
       <>
         Find a comprehensive collection of PDF documents, including owner and service manuals, wiring diagrams, and parts diagrams, providing all the resources needed for part identification and bike maintenance.
