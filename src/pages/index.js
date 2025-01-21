@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Knowledge base from ${siteConfig.title}`}
+      title={`Homepage of the knowledge base`}
       description="Your ultimate resource for everything pit bike, featuring in-depth guides, manuals, and expert insights to enhance your riding experience.">
       <HomepageHeader />
       <main>

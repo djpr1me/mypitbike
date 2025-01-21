@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'MyPitbike',
-  tagline: 'Your ultimate knowledge hub for mini motorcycles.',
+  tagline: 'Your ultimate knowledge hub for mini bikes.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

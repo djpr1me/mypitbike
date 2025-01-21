@@ -396,6 +396,8 @@ The vehicle should be supported for check by the side stand.
 ![D5-11.jpg](../../../static/file/D5-11.jpg)
 ![D52-160&D51-125.jpg](../../../static/file/D52-160.jpg)
 
+## Download manual
+
 The document 'Mikilon User Manual' is available for download below
 
 [Download the file](../../../static/file/MikilonUserManual.rar)
