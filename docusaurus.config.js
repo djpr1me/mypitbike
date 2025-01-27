@@ -78,7 +78,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/open-graph-image.png',
       navbar: {
         title: 'MyPitbike',
         logo: {
@@ -109,6 +109,27 @@ const config = {
 //            href: 'https://github.com/facebook/docusaurus',
 //            label: 'GitHub',
 //            position: 'right',
+//          },
+          {
+            type: 'dropdown',
+            label: 'More',
+            position: 'left',
+            items: [
+              {
+                label: 'Ru Source',
+                href: 'https://mypitbike.ru',
+              },
+              {
+                label: 'About',
+                to: '/about',
+              },
+              // ... more items
+            ],
+          },
+//          {
+//            type: 'html',
+//            position: 'right',
+//            value: '<button>Give feedback</button>',
 //          },
         ],
       },
@@ -175,10 +196,10 @@ const config = {
             items: [
               {
                 label: 'Ru Source',
-                href: 'http://mypitbike.ru',
+                href: 'https://mypitbike.ru',
               },
               {
-                label: 'About Us',
+                label: 'About',
                 to: '/about',
               },
             ],
@@ -193,35 +214,34 @@ const config = {
       algolia: {
         // The application ID provided by Algolia
         appId: 'ZBAV8KAAU6',
-
         // Public API key: it is safe to commit it
         apiKey: '381699df474fba3ce212b990b0a3b0a1',
-
         indexName: 'mypitbike',
-
         // Optional: see doc section below
         contextualSearch: true,
-
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-        externalUrlRegex: 'external\\.com|domain\\.com',
-
+        // externalUrlRegex: 'external\\.com|domain\\.com',
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-//        replaceSearchResultPathname: {
-//          from: '/docs/', // or as RegExp: /\/docs\//
-//          to: '/',
-//        },
-
+        // replaceSearchResultPathname: {
+        // from: '/docs/', // or as RegExp: /\/docs\//
+        // to: '/',
+        // },
         // Optional: Algolia search parameters
-        searchParameters: {},
-
+        // searchParameters: {},
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
-
         // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
-        insights: false,
-
+        // insights: false,
         //... other Algolia params
       },
+      announcementBar: {
+            id: 'support',
+            content:
+              'If you want to support the project, you can <a target="_blank" rel="noopener noreferrer" href="https://buymeacoffee.com/mypitbike">buy me a coffee.</a>',
+            backgroundColor: '#ff006e',
+            textColor: '#ffffff',
+            isCloseable: true,
+          },
     }),
 };
 

@@ -5,8 +5,6 @@ tags:
 - oil
 ---
 
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
-
 # Setting up a new pit bike engine
 
 If you have followed our advice and preserved your engine this season, we hope this article will not be necessary for you. Otherwise, you will have to order a new pit bike engine, endure the agonizing wait for delivery, and break it in. Contrary to the common belief of "install and ride," things are not as straightforward as they may seem at first glance. We have previously discussed how to assemble a pit bike and prepare it for its maiden ride. Today, we will talk about the initial setup of a new pit bike engine before starting it.
@@ -20,8 +18,6 @@ If you have followed our advice and preserved your engine this season, we hope t
 - A container with a capacity of at least 1 liter (for old oil)
 - 1 liter of semi-synthetic 10W-40 motorcycle oil for 4-stroke engines
 - A funnel
-
-<YouTubeEmbed videoId="rMUdSR6m7bk" />
 
 ## 1. Remove the generator cover
 

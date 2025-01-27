@@ -3,8 +3,6 @@ tags:
 - chassis
 ---
 
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
-
 # Dimensions and Markings of Bearings on the PitsterPro LXR
 
 With the conclusion of the season, a decision was made to undertake a scheduled rebuild of the club's pit bike, as it was purchased second-hand, used in dusty conditions, and washed with high-pressure washers, which leads to the rapid deterioration of the bearings. This article will cover the dimensions of the bearings, recommended brands, where to purchase them, and how to properly reassemble everything.
@@ -14,8 +12,6 @@ Let's begin by noting that all mass-produced pit bikes, even those from renowned
 The second most significant factor is the adherence to the correct torque of connections and the overall quality of the pressing and assembly of the pit bike.
 
 In the early stages, the problem can be resolved in a simple and cost-effective manner: Purchase high-quality bearing grease. Carefully pry open the bearing's protective cover with a thin tool. Generously pack it with grease. Close it back and remove any excess.
-
-<YouTubeEmbed videoId="bu8ln0_sB7A" />
 
 The expensive and proper method: Purchase branded Japanese bearings. Repress them. Lubricate all axles. Assemble while observing the torque.
 

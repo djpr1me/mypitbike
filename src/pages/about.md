@@ -1,8 +1,8 @@
 ---
-title: About Us
+title: About
 ---
 
-# About Us
+# About
 
 Hello, my name is Roman Biriukov (many know me as Pr1me), and this is my pet project, which I maintain in my spare time from my main job. In 2012, I created the blog-social network MyPitbike, where I shared my experiences in owning and maintaining pit bikes. I endeavored to meticulously document every manipulation I performed on my motorcycles, from assembly, seasonal maintenance, to subsequent modifications. My goal was to create a unique knowledge base for the Russian-speaking community, promoting this class of motorcycles.
 
@@ -12,8 +12,6 @@ By analyzing traffic statistics and page popularity, I noticed an increasing num
 
 Some information and illustrations were sourced from the internet and scanned from magazines. Due to the low quality of some original images, which were created long ago when technology was outdated and internet speed was slower, it was necessary to apply neural network upscaling to achieve an image that is sufficiently high-quality and sharp by today's standards.
 
-Additionally, I would like to mention that I am not a professional mechanic, and English is not my native language, so you may encounter inaccuracies in the guides. If you have any comments or suggestions, please send feedback, and I will try to incorporate them.
+Additionally, I would like to mention that I am not a professional mechanic, and English is not my native language, so you may encounter inaccuracies in the guides. If you have any comments or suggestions, please send feedback, and I will try to incorporate them. If you ever need to contact me directly, please mail to "hello at mypitbike.ru".
 
 Thank you, and I hope this project helps you solve your problem.
-
-If you ever need to write me a letter, please send it to "info at mypitbike.ru". 

@@ -4,8 +4,6 @@ tags:
 - honda
 ---
 
-import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
-
 # New Honda MSX125 Pit Bike
 
 ## Honda's New Release: The Honda MSX125
@@ -15,8 +13,6 @@ The company **Honda** has unveiled a new motorcycle, building upon the foundatio
 The **Honda MSX125** is propelled by a reliable single-cylinder, two-valve engine with an air cooling system, fuel injection, and an electric starter. Delivering 10 horsepower (7.2 kW) at 5500 revolutions per minute, the MSX engine is essentially a refined version of one of Honda's most robust and tested engines, with nearly a million units worldwide. Known for its durability and efficiency, this engine benefits from low-friction technology, enhancing longevity and notably reducing fuel consumption.
 
 A backbone frame forms the primary structure of the moped. The **Honda MSX125** accommodates two riders, evident from its spacious seat and passenger footrests.
-
-<YouTubeEmbed videoId="hJWpuRhAlxA" />
 
 Production of this new Japanese model will occur at a Thai factory, with global sales anticipated, excluding the United States. The focus will be on countries where affordable two-wheeled vehicles are particularly favored.
 
