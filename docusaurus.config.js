@@ -126,11 +126,11 @@ const config = {
               // ... more items
             ],
           },
-//          {
-//            type: 'html',
-//            position: 'right',
-//            value: '<button>Give feedback</button>',
-//          },
+          {
+            type: 'html',
+            position: 'right',
+            value: '<button id="open-chat-button" class="button button--primary button--outline">Give feedback</button>',
+          },
         ],
       },
       footer: {
