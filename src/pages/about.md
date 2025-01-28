@@ -14,4 +14,4 @@ Some information and illustrations were sourced from the internet and scanned fr
 
 Additionally, I would like to mention that I am not a professional mechanic, and English is not my native language, so you may encounter inaccuracies in the guides. If you have any comments or suggestions, please send feedback, and I will try to incorporate them. If you ever need to contact me directly, please mail to "hello at mypitbike.ru".
 
-Thank you, and I hope this project helps you solve your problem.
+Thank you, and I hope this project helps you solve your problem. If you found this resource helpful, you can support it by [buying me a coffee](https://buymeacoffee.com/mypitbike).
