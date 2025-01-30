@@ -129,7 +129,7 @@ const config = {
           {
             type: 'html',
             position: 'right',
-            value: '<button id="open-chat-button" class="button button--primary button--outline">Give feedback</button>',
+            value: '<button id="open-chat-button" class="button button--primary button--outline">Feedback</button>',
           },
         ],
       },
