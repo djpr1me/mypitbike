@@ -79,6 +79,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/open-graph-image.png',
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'MyPitbike',
         logo: {

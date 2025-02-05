@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/tech-database.svg').default,
     description: (
       <>
-        Access a comprehensive technical reference library filled with essential documentation, including component dimensions, torque settings, fluid capacities, piston ring sizes, and gear ratios—details omitted from extensive <code>Guides</code> but crucial for precision.
+        Access a comprehensive technical reference library filled with specs, including component dimensions, torque settings, fluid capacities, piston ring sizes, and gear ratios—details omitted from extensive <code>Guides</code> but crucial for precision.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/manuals.svg').default,
     description: (
       <>
-        Find a comprehensive collection of PDF documents, including owner and service manuals, wiring diagrams, and parts diagrams, providing all the resources needed for part identification and bike maintenance.
+        Discover a comprehensive collection of PDFs, including owner and service manuals, wiring diagrams, and parts diagrams, providing all the resources needed for part identification and bike maintenance.
       </>
     ),
   },
